@@ -26,7 +26,7 @@ B4,BT,med-consults-emsi
 B5,BT,routine-ems-allegheny-co 
 B6,BT,routine-ems-other-co-emsi 
 B7,BT,pa-state-law 
-B8,BT,gmrs-frs 
+B8,BT,gmrs-frs-murs 
 B9,BT,cb 
 B0,CH,0,"NatCb9Dis",27065000,AM, 
 B0,CH,1,"CivDis",121500000,AM, 
@@ -200,6 +200,11 @@ B8,CH,18,"NatFrs11",467637500,CT,
 B8,CH,19,"NatFrs12",467662500,CT, 
 B8,CH,20,"NatFrs13",467687500,CT, 
 B8,CH,21,"NatFrs14",467712500,CT, 
+B8,CH,22,"NatMurs",151820000,CT, 
+B8,CH,23,"NatMurs",151880000,CT, 
+B8,CH,24,"NatMurs",151940000,CT, 
+B8,CH,25,"NatMurs",154570000,CT, 
+B8,CH,26,"NatMurs",154600000,CT, 
 B9,CH,0,"NatCb1",26965000,AM, 
 B9,CH,1,"NatCb2",26975000,AM, 
 B9,CH,2,"NatCb3",26985000,AM, 
