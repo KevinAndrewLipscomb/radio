@@ -4,15 +4,17 @@ B2,CLR
 B3,CLR 
 B4,CLR 
 B5,CLR 
+B6,CLR 
 B7,CLR 
 B8,CLR 
-B9,CLR 
+B9,CLR
 B0,TM,na 
 B1,TM,na 
 B2,TM,na 
 B3,TM,na 
 B4,TM,na 
 B5,TM,na 
+B6,TM,na 
 B7,TM,na 
 B8,TM,na 
 B9,TM,na 
@@ -22,6 +24,7 @@ B2,BT,incident-level-tacticals-emsi
 B3,BT,med-consults-emsi 
 B4,BT,routine-ems-allegheny-co 
 B5,BT,routine-ems-other-co-emsi 
+B6,BT,empty 
 B7,BT,pa-state-law 
 B8,BT,frs-cb-lo 
 B9,BT,frs-cb-hi 
@@ -215,4 +218,3 @@ B9,CH,26,"NatCb37",27375000,AM,
 B9,CH,27,"NatCb38",27385000,AM, 
 B9,CH,28,"NatCb39",27395000,AM, 
 B9,CH,29,"NatCb40",27405000,AM, 
-
