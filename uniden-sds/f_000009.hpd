@@ -1,0 +1,46 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional		0	Norfolk International Airport (ORF)	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Air Traffic Control	Off	0.000000	0.000000	0.0	Circle	Off	Global
+C-Freq			Approach	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach	Off	119450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach	Off	125700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach	Off	335625000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach	Off	353700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach/Departure	Off	126050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach/Departure	Off	127900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach/Departure - East	Off	370925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach/Departure - West	Off	360600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			As Assigned	Off	128050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			As Assigned	Off	360600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ATIS	Off	127150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clearance Delivery	Off	118500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Departure	Off	125200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Departure	Off	363125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Departure	Off	379100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ground Control	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ground Control Alternate	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Radar	Off	119600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Radar	Off	124825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Radar	Off	266800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Radar	Off	288300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tower	Off	120800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tower	Off	257800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Airport Operations	Off	36.891154	-76.203232	15.0	Circle	Off	Global
+C-Freq			Fire	Off	854062500	FM	TONE=D025	3	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional		0	Oceana NAS/Dam Neck Annex	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Oceana Naval Air Station/Dam Neck Annex - Aviation - Air Traffic	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Freq			Approach	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Approach	Off	353700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ATIS	Off	317800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clearance Delivery	Off	254400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Departure	Off	123900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Departure	Off	266800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ground	Off	119600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ground	Off	336400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Oceana Metro	Off	387400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Oceana Ops	Off	284900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tower	Off	127075000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tower	Off	360200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off

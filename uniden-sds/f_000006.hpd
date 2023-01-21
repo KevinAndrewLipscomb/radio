@@ -1,0 +1,48 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			Overlay Regional InterOperability Network (ORION)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION	Off	36.830360	-76.095802	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773031250	1	Srch
+T-Freq				Off	773531250	2	Srch
+T-Freq				Off	773806250	3	Srch
+T-Freq				Off	774081250	4	Srch
+T-Freq				Off	774331250	5	Srch
+Site			ORION	Off	37.416808	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773306250	1	Srch
+T-Freq				Off	773581250	2	Srch
+T-Freq				Off	774031250	3	Srch
+T-Freq				Off	774306250	4	Srch
+T-Freq				Off	774531250	5	Srch
+Site			Virginia Beach	Off	36.830360	-76.095802	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859462500	1	Srch
+T-Freq				Off	859712500	2	Srch
+T-Freq				Off	860462500	3	Srch
+T-Freq				Off	860712500	4	Srch
+T-Freq				Off	856462500	5	Srch
+T-Freq				Off	856712500	6	Srch
+T-Freq				Off	856737500	7	Srch
+T-Freq				Off	857462500	8	Srch
+T-Freq				Off	857487500	9	Srch
+T-Freq				Off	857737500	10	Srch
+T-Freq				Off	858462500	11	Srch
+T-Freq				Off	858487500	12	Srch
+T-Freq				Off	858712500	13	Srch
+T-Freq				Off	858737500	14	Srch
+T-Freq				Off	769081250	15	Srch
+T-Freq				Off	769331250	16	Srch
+T-Freq				Off	769593750	17	Srch
+T-Freq				Off	769843750	18	Srch
+T-Freq				Off	856487500	19	Srch
+T-Freq				Off	857712500	20	Srch
+T-Freq				Off	859487500	21	Srch
+T-Freq				Off	859737500	22	Srch
+T-Freq				Off	860487500	23	Srch
+T-Freq				Off	860737500	24	Srch
+T-Group			Virginia Beach Fire/EMS	Off	36.847080	-76.284390	50.0	Circle	Off
+TGID			Hospital Spare	Off	1271	ALL	12	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Common/Shared	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Fire/EMS - Statewide	Off	38.376115	-79.650879	256.3	Circle	Off	Global
+C-Freq			HEAR340/Statewide Disaster	Off	155340000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HEAR400/Statewide Disaster	Off	155400000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
