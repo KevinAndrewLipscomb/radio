@@ -1,0 +1,2045 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			North Carolina VIPER	Off		P25Standard	Off	Off	Auto	Ignore	Srch	0	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Aho	On	36.154150	-81.602470	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774243750	1	Srch
+T-Freq				Off	774481250	2	Srch
+T-Freq				Off	772818750	3	Srch
+T-Freq				Off	772418750	4	Srch
+T-Freq				Off	772093750	5	Srch
+T-Freq				Off	771218750	6	Srch
+T-Freq				Off	770006250	7	Srch
+Site			Ahoskie	Off	36.320830	-76.980280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851150000	1	Srch
+T-Freq				Off	851675000	2	Srch
+T-Freq				Off	851975000	3	Srch
+T-Freq				Off	852425000	4	Srch
+T-Freq				Off	853712500	5	Srch
+Site			Albemarle	On	35.340690	-80.238670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853637500	1	Srch
+T-Freq				Off	852725000	2	Srch
+T-Freq				Off	852200000	3	Srch
+T-Freq				Off	851725000	4	Srch
+T-Freq				Off	851162500	5	Srch
+T-Freq				Off	856637500	6	Srch
+Site			Altamahaw	On	36.143610	-79.523330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	858587500	1	Srch
+T-Freq				Off	856012500	2	Srch
+T-Freq				Off	853837500	3	Srch
+T-Freq				Off	853637500	4	Srch
+T-Freq				Off	852887500	5	Srch
+T-Freq				Off	852612500	6	Srch
+T-Freq				Off	852587500	7	Srch
+T-Freq				Off	852137500	8	Srch
+Site			Anderson Mountain	On	35.568394	-81.088728	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774731250	1	Srch
+T-Freq				Off	773456250	2	Srch
+T-Freq				Off	772706250	3	Srch
+T-Freq				Off	772106250	4	Srch
+T-Freq				Off	771781250	5	Srch
+T-Freq				Off	771331250	6	Srch
+T-Freq				Off	770056250	7	Srch
+T-Freq				Off	769806250	8	Srch
+T-Freq				Off	770531250	9	Srch
+T-Freq				Off	771868750	10	Srch
+T-Freq				Off	772318750	11	Srch
+T-Freq				Off	769518750	12	Srch
+Site			Angier	On	35.467220	-78.849743	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	773081250	1	Srch
+T-Freq				Off	772281250	2	Srch
+T-Freq				Off	772006250	3	Srch
+T-Freq				Off	771706250	4	Srch
+T-Freq				Off	771456250	5	Srch
+T-Freq				Off	771081250	6	Srch
+T-Freq				Off	770156250	7	Srch
+T-Freq				Off	769531250	8	Srch
+Site			Arba	On	35.385080	-77.702530	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853575000	1	Srch
+T-Freq				Off	853250000	2	Srch
+T-Freq				Off	857037500	3	Srch
+T-Freq				Off	856037500	4	Srch
+T-Freq				Off	851987500	5	Srch
+T-Freq				Off	858037500	6	Srch
+Site			Archdale Building	On	35.787080	-78.638890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	852537500	1	Srch
+T-Freq				Off	853562500	2	Srch
+T-Freq				Off	852087500	3	Srch
+T-Freq				Off	854287500	4	Srch
+T-Freq				Off	854462500	5	Srch
+T-Freq				Off	854687500	6	Srch
+T-Freq				Off	858012500	7	Srch
+T-Freq				Off	857112500	8	Srch
+T-Freq				Off	858612500	9	Srch
+T-Freq				Off	860487500	10	Srch
+Site			Archers Lodge	On	35.690440	-78.321390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	855762500	1	Srch
+T-Freq				Off	855037500	2	Srch
+T-Freq				Off	853862500	3	Srch
+T-Freq				Off	853475000	4	Srch
+T-Freq				Off	852425000	5	Srch
+T-Freq				Off	851400000	6	Srch
+Site			Asheboro DOT	On	35.665440	-79.824000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856537500	1	Srch
+T-Freq				Off	856187500	2	Srch
+T-Freq				Off	858862500	3	Srch
+T-Freq				Off	853812500	4	Srch
+T-Freq				Off	853512500	5	Srch
+T-Freq				Off	852912500	6	Srch
+T-Freq				Off	852425000	7	Srch
+T-Freq				Off	851950000	8	Srch
+T-Freq				Off	851312500	9	Srch
+T-Freq				Off	851137500	10	Srch
+Site			Bailey	On	35.742220	-78.116940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	857187500	1	Srch
+T-Freq				Off	856512500	2	Srch
+T-Freq				Off	856187500	3	Srch
+T-Freq				Off	855612500	4	Srch
+T-Freq				Off	852350000	5	Srch
+T-Freq				Off	851825000	6	Srch
+T-Freq				Off	851325000	7	Srch
+T-Freq				Off	851100000	8	Srch
+Site			Baker Mtn	On	35.657610	-81.406750	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774743750	1	Srch
+T-Freq				Off	773468750	2	Srch
+T-Freq				Off	772718750	3	Srch
+T-Freq				Off	772118750	4	Srch
+T-Freq				Off	771793750	5	Srch
+T-Freq				Off	771343750	6	Srch
+T-Freq				Off	770068750	7	Srch
+T-Freq				Off	769818750	8	Srch
+T-Freq				Off	771018750	9	Srch
+T-Freq				Off	772518750	10	Srch
+T-Freq				Off	772868750	11	Srch
+T-Freq				Off	773743750	12	Srch
+Site			Barco	Off	36.374440	-75.965560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853337500	1	Srch
+T-Freq				Off	852275000	2	Srch
+T-Freq				Off	851837500	3	Srch
+T-Freq				Off	851437500	4	Srch
+T-Freq				Off	851137500	5	Srch
+T-Freq				Off	853675000	6	Srch
+Site			Barium Springs	On	35.733330	-80.889440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	773831250	1	Srch
+T-Freq				Off	772881250	2	Srch
+T-Freq				Off	772456250	3	Srch
+T-Freq				Off	772056250	4	Srch
+T-Freq				Off	771556250	5	Srch
+T-Freq				Off	771031250	6	Srch
+T-Freq				Off	770406250	7	Srch
+T-Freq				Off	769956250	8	Srch
+Site			Barrett Mtn	On	35.868782	-81.245474	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859137500	1	Srch
+T-Freq				Off	858037500	2	Srch
+T-Freq				Off	857037500	3	Srch
+T-Freq				Off	856037500	4	Srch
+T-Freq				Off	853662500	5	Srch
+T-Freq				Off	853050000	6	Srch
+T-Freq				Off	852575000	7	Srch
+T-Freq				Off	852300000	8	Srch
+T-Freq				Off	851287500	9	Srch
+Site			Bath	On	35.475110	-76.863860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853450000	1	Srch
+T-Freq				Off	852550000	2	Srch
+T-Freq				Off	852162500	3	Srch
+T-Freq				Off	851600000	4	Srch
+T-Freq				Off	851137500	5	Srch
+T-Freq				Off	855462500	6	Srch
+Site			Bayboro	On	35.135280	-76.767780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851387500	1	Srch
+T-Freq				Off	851887500	2	Srch
+T-Freq				Off	852450000	3	Srch
+T-Freq				Off	852900000	4	Srch
+T-Freq				Off	853462500	5	Srch
+Site			Bearwallow Mtn	On	35.461330	-82.357440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773718750	1	Srch
+T-Freq				Off	772968750	2	Srch
+T-Freq				Off	772681250	3	Srch
+T-Freq				Off	772381250	4	Srch
+T-Freq				Off	771806250	5	Srch
+T-Freq				Off	771306250	6	Srch
+T-Freq				Off	769356250	7	Srch
+Site			Beech Mtn	On	36.186810	-81.872610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853875000	1	Srch
+T-Freq				Off	852912500	2	Srch
+T-Freq				Off	852650000	3	Srch
+T-Freq				Off	851812500	4	Srch
+T-Freq				Off	851262500	5	Srch
+Site			Benns Knob	On	35.565220	-81.660250	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	858462500	1	Srch
+T-Freq				Off	857462500	2	Srch
+T-Freq				Off	857212500	3	Srch
+T-Freq				Off	856462500	4	Srch
+T-Freq				Off	853825000	5	Srch
+T-Freq				Off	853412500	6	Srch
+T-Freq				Off	853187500	7	Srch
+Site			Benson	On	35.394940	-78.508030	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774493750	1	Srch
+T-Freq				Off	772493750	2	Srch
+T-Freq				Off	772218750	3	Srch
+T-Freq				Off	771868750	4	Srch
+T-Freq				Off	771518750	5	Srch
+T-Freq				Off	771218750	6	Srch
+T-Freq				Off	770868750	7	Srch
+Site			Berea	On	36.321080	-78.739330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853750000	1	Srch
+T-Freq				Off	853137500	2	Srch
+T-Freq				Off	852750000	3	Srch
+T-Freq				Off	852475000	4	Srch
+T-Freq				Off	852250000	5	Srch
+T-Freq				Off	851637500	6	Srch
+T-Freq				Off	851212500	7	Srch
+Site			Big Knob	On	35.887170	-82.556940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853237500	1	Srch
+T-Freq				Off	852612500	2	Srch
+T-Freq				Off	851850000	3	Srch
+T-Freq				Off	851400000	4	Srch
+T-Freq				Off	851050000	5	Srch
+Site			Biscoe	On	35.352110	-79.759500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853725000	1	Srch
+T-Freq				Off	852712500	2	Srch
+T-Freq				Off	851937500	3	Srch
+T-Freq				Off	851737500	4	Srch
+T-Freq				Off	851175000	5	Srch
+T-Freq				Off	859187500	6	Srch
+T-Freq				Off	852375000	7	Srch
+Site			Bodie Island	On	35.818330	-75.565500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851450000	1	Srch
+T-Freq				Off	851975000	2	Srch
+T-Freq				Off	852400000	3	Srch
+T-Freq				Off	852587500	4	Srch
+T-Freq				Off	853437500	5	Srch
+T-Freq				Off	853587500	6	Srch
+Site			Boiling Springs	On	35.258640	-81.691060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773418750	1	Srch
+T-Freq				Off	773156250	2	Srch
+T-Freq				Off	772656250	3	Srch
+T-Freq				Off	772306250	4	Srch
+T-Freq				Off	771856250	5	Srch
+Site			Bolivia	On	34.055000	-78.167220	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851087500	1	Srch
+T-Freq				Off	853875000	2	Srch
+T-Freq				Off	853375000	3	Srch
+T-Freq				Off	852875000	4	Srch
+T-Freq				Off	852625000	5	Srch
+T-Freq				Off	852375000	6	Srch
+T-Freq				Off	852175000	7	Srch
+T-Freq				Off	856687500	8	Srch
+Site			Boone	On	36.216795	-81.674552	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	853762500	1	Srch
+T-Freq				Off	852962500	2	Srch
+T-Freq				Off	852287500	3	Srch
+T-Freq				Off	851725000	4	Srch
+T-Freq				Off	851075000	5	Srch
+T-Freq				Off	854337500	6	Srch
+T-Freq				Off	857512500	7	Srch
+Site			Booth Mtn	On	36.394580	-80.182830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856587500	1	Srch
+T-Freq				Off	853512500	2	Srch
+T-Freq				Off	852450000	3	Srch
+T-Freq				Off	852087500	4	Srch
+T-Freq				Off	851725000	5	Srch
+T-Freq				Off	851175000	6	Srch
+Site			Brevard	On	35.176819	-82.681494	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853837500	1	Srch
+T-Freq				Off	853175000	2	Srch
+T-Freq				Off	852612500	3	Srch
+T-Freq				Off	851612500	4	Srch
+T-Freq				Off	851050000	5	Srch
+Site			Brinkleyville	On	36.291110	-77.836110	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	852437500	1	Srch
+T-Freq				Off	853337500	2	Srch
+T-Freq				Off	853500000	3	Srch
+T-Freq				Off	853700000	4	Srch
+T-Freq				Off	853850000	5	Srch
+Site			Broadway	On	35.437670	-79.019940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	773493750	1	Srch
+T-Freq				Off	772993750	2	Srch
+T-Freq				Off	772418750	3	Srch
+T-Freq				Off	772168750	4	Srch
+T-Freq				Off	771756250	5	Srch
+T-Freq				Off	771306250	6	Srch
+T-Freq				Off	770606250	7	Srch
+T-Freq				Off	770031250	8	Srch
+Site			Buck Mountain	On	35.406390	-79.998890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774593750	1	Srch
+T-Freq				Off	774318750	2	Srch
+T-Freq				Off	772306250	3	Srch
+T-Freq				Off	771881250	4	Srch
+T-Freq				Off	771281250	5	Srch
+T-Freq				Off	770181250	6	Srch
+T-Freq				Off	769356250	7	Srch
+Site			Buckeye Knob	On	36.316439	-81.791818	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853975000	1	Srch
+T-Freq				Off	852687500	2	Srch
+T-Freq				Off	852100000	3	Srch
+T-Freq				Off	851562500	4	Srch
+T-Freq				Off	851200000	5	Srch
+Site			Bullock WICE FM	On	36.495970	-78.554170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853975000	1	Srch
+T-Freq				Off	853250000	2	Srch
+T-Freq				Off	853550000	3	Srch
+T-Freq				Off	852637500	4	Srch
+T-Freq				Off	852162500	5	Srch
+T-Freq				Off	851487500	6	Srch
+T-Freq				Off	851137500	7	Srch
+Site			Burgaw	On	34.517220	-77.900000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851100000	1	Srch
+T-Freq				Off	851425000	2	Srch
+T-Freq				Off	851825000	3	Srch
+T-Freq				Off	852350000	4	Srch
+T-Freq				Off	853237500	5	Srch
+Site			Butner	On	36.140140	-78.765280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853812500	1	Srch
+T-Freq				Off	853612500	2	Srch
+T-Freq				Off	853350000	3	Srch
+T-Freq				Off	852725000	4	Srch
+T-Freq				Off	852312500	5	Srch
+T-Freq				Off	852225000	6	Srch
+T-Freq				Off	851925000	7	Srch
+Site			Butte Moutain	On	36.025390	-81.427250	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853825000	1	Srch
+T-Freq				Off	852987500	2	Srch
+T-Freq				Off	852412500	3	Srch
+T-Freq				Off	851937500	4	Srch
+T-Freq				Off	851412500	5	Srch
+T-Freq				Off	859087500	6	Srch
+Site			Buxton	On	35.245830	-75.533610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853337500	1	Srch
+T-Freq				Off	852312500	2	Srch
+T-Freq				Off	851800000	3	Srch
+T-Freq				Off	851400000	4	Srch
+T-Freq				Off	851050000	5	Srch
+Site			Camden Ave	On	36.033477	-78.866396	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	858812500	1	Srch
+T-Freq				Off	855112500	2	Srch
+T-Freq				Off	853875000	3	Srch
+T-Freq				Off	853587500	4	Srch
+T-Freq				Off	852912500	5	Srch
+T-Freq				Off	852412500	6	Srch
+T-Freq				Off	852075000	7	Srch
+T-Freq				Off	851600000	8	Srch
+Site			Cane Mtn	On	35.946390	-79.435830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	859587500	1	Srch
+T-Freq				Off	859312500	2	Srch
+T-Freq				Off	858287500	3	Srch
+T-Freq				Off	857787500	4	Srch
+T-Freq				Off	857587500	5	Srch
+T-Freq				Off	855762500	6	Srch
+T-Freq				Off	854462500	7	Srch
+T-Freq				Off	854287500	8	Srch
+T-Freq				Off	853475000	9	Srch
+T-Freq				Off	852562500	10	Srch
+T-Freq				Off	852400000	11	Srch
+T-Freq				Off	851862500	12	Srch
+Site			Carolina Beach	On	34.084440	-77.888056	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	858937500	1	Srch
+T-Freq				Off	853887500	2	Srch
+T-Freq				Off	853100000	3	Srch
+T-Freq				Off	852825000	4	Srch
+T-Freq				Off	852537500	5	Srch
+T-Freq				Off	851837500	6	Srch
+T-Freq				Off	851275000	7	Srch
+Site			Carthage	On	35.351810	-79.400830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	855537500	1	Srch
+T-Freq				Off	853675000	2	Srch
+T-Freq				Off	853325000	3	Srch
+T-Freq				Off	853112500	4	Srch
+T-Freq				Off	852950000	5	Srch
+T-Freq				Off	852550000	6	Srch
+T-Freq				Off	851975000	7	Srch
+T-Freq				Off	851600000	8	Srch
+T-Freq				Off	851275000	9	Srch
+Site			Cedar Creek	On	34.909170	-78.731390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851100000	1	Srch
+T-Freq				Off	851362500	2	Srch
+T-Freq				Off	851887500	3	Srch
+T-Freq				Off	852100000	4	Srch
+T-Freq				Off	852625000	5	Srch
+T-Freq				Off	852900000	6	Srch
+T-Freq				Off	853100000	7	Srch
+T-Freq				Off	853362500	8	Srch
+T-Freq				Off	853575000	9	Srch
+T-Freq				Off	853887500	10	Srch
+Site			Chambers Mtn	On	35.568310	-82.907640	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856112500	1	Srch
+T-Freq				Off	854437500	2	Srch
+T-Freq				Off	853787500	3	Srch
+T-Freq				Off	852575000	4	Srch
+T-Freq				Off	851987500	5	Srch
+T-Freq				Off	851725000	6	Srch
+T-Freq				Off	851212500	7	Srch
+Site			Chapel Hill	On	35.913200	-79.055845	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853825000	1	Srch
+T-Freq				Off	853387500	2	Srch
+T-Freq				Off	853437500	3	Srch
+T-Freq				Off	858512500	4	Srch
+T-Freq				Off	858437500	5	Srch
+T-Freq				Off	857437500	6	Srch
+T-Freq				Off	856437500	7	Srch
+T-Freq				Off	852987500	8	Srch
+T-Freq				Off	852487500	9	Srch
+T-Freq				Off	851712500	10	Srch
+T-Freq				Off	851387500	11	Srch
+T-Freq				Off	851075000	12	Srch
+Site			Charlotte	On	35.224610	-80.844860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853675000	1	Srch
+T-Freq				Off	773306250	2	Srch
+T-Freq				Off	853275000	3	Srch
+T-Freq				Off	770331250	4	Srch
+T-Freq				Off	852175000	5	Srch
+T-Freq				Off	770681250	6	Srch
+T-Freq				Off	851562500	7	Srch
+T-Freq				Off	769206250	8	Srch
+T-Freq				Off	853875000	9	Srch
+T-Freq				Off	852475000	10	Srch
+Site			Chatham Mtn	On	35.866329	-79.166772	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F3	Global
+T-Freq				Off	853687500	1	Srch
+T-Freq				Off	853412500	2	Srch
+T-Freq				Off	859112500	3	Srch
+T-Freq				Off	858112500	4	Srch
+T-Freq				Off	857537500	5	Srch
+T-Freq				Off	852212500	6	Srch
+T-Freq				Off	851662500	7	Srch
+T-Freq				Off	851237500	8	Srch
+Site			Chestnut Ridge	On	36.513319	-80.508125	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F4	Global
+T-Freq				Off	853975000	1	Srch
+T-Freq				Off	853050000	2	Srch
+T-Freq				Off	852362500	3	Srch
+T-Freq				Off	851775000	4	Srch
+T-Freq				Off	851275000	5	Srch
+T-Freq				Off	857987500	6	Srch
+T-Freq				Off	857062500	7	Srch
+Site			Chimney Rock	On	35.423500	-82.259690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	771581250	1	Srch
+T-Freq				Off	770756250	2	Srch
+T-Freq				Off	770518750	3	Srch
+T-Freq				Off	769843750	4	Srch
+T-Freq				Off	769506250	5	Srch
+T-Freq				Off	773656250	6	Srch
+T-Freq				Off	772581250	7	Srch
+Site			Chinquapin	On	34.841690	-77.816280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851600000	1	Srch
+T-Freq				Off	852225000	2	Srch
+T-Freq				Off	852912500	3	Srch
+T-Freq				Off	853350000	4	Srch
+T-Freq				Off	853762500	5	Srch
+Site			Chocowinity	On	35.482500	-77.164440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851162500	1	Srch
+T-Freq				Off	851875000	2	Srch
+T-Freq				Off	852275000	3	Srch
+T-Freq				Off	852687500	4	Srch
+T-Freq				Off	853775000	5	Srch
+Site			Chunky Gal Gap	On	35.061720	-83.632500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853037500	1	Srch
+T-Freq				Off	854462500	2	Srch
+T-Freq				Off	855962500	3	Srch
+T-Freq				Off	858487500	4	Srch
+T-Freq				Off	856262500	5	Srch
+Site			Clemmons	On	36.037640	-80.383530	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	859787500	1	Srch
+T-Freq				Off	858837500	2	Srch
+T-Freq				Off	857512500	3	Srch
+T-Freq				Off	853775000	4	Srch
+T-Freq				Off	853250000	5	Srch
+T-Freq				Off	852712500	6	Srch
+T-Freq				Off	852337500	7	Srch
+T-Freq				Off	852025000	8	Srch
+T-Freq				Off	851337500	9	Srch
+Site			Clingmans Pk	On	35.734830	-82.286500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856787500	1	Srch
+T-Freq				Off	855737500	2	Srch
+T-Freq				Off	853612500	3	Srch
+T-Freq				Off	852950000	4	Srch
+T-Freq				Off	851900000	5	Srch
+T-Freq				Off	851625000	6	Srch
+T-Freq				Off	851350000	7	Srch
+Site			Cokesbury	On	35.523060	-78.906940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774556250	1	Srch
+T-Freq				Off	773781250	2	Srch
+T-Freq				Off	773281250	3	Srch
+T-Freq				Off	772806250	4	Srch
+T-Freq				Off	772556250	5	Srch
+T-Freq				Off	770406250	6	Srch
+T-Freq				Off	770106250	7	Srch
+T-Freq				Off	769181250	8	Srch
+Site			Cole Mill Rd	On	36.039250	-78.958280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F4	Global
+T-Freq				Off	859512500	1	Srch
+T-Freq				Off	857087500	2	Srch
+T-Freq				Off	853775000	3	Srch
+T-Freq				Off	853450000	4	Srch
+T-Freq				Off	852775000	5	Srch
+T-Freq				Off	852275000	6	Srch
+T-Freq				Off	851987500	7	Srch
+T-Freq				Off	851275000	8	Srch
+Site			Coleridge AAA	On	35.580280	-79.655830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774693750	1	Srch
+T-Freq				Off	773681250	2	Srch
+T-Freq				Off	773243750	3	Srch
+T-Freq				Off	772368750	4	Srch
+T-Freq				Off	771743750	5	Srch
+T-Freq				Off	771118750	6	Srch
+T-Freq				Off	770818750	7	Srch
+T-Freq				Off	770368750	8	Srch
+Site			Columbia	On	35.900280	-76.345560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	851112500	1	Srch
+T-Freq				Off	851487500	2	Srch
+T-Freq				Off	851962500	3	Srch
+T-Freq				Off	852437500	4	Srch
+T-Freq				Off	853612500	5	Srch
+Site			Comfort	On	35.003720	-77.508140	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853362500	1	Srch
+T-Freq				Off	852375000	2	Srch
+T-Freq				Off	852087500	3	Srch
+T-Freq				Off	851562500	4	Srch
+T-Freq				Off	851062500	5	Srch
+Site			Concord	On	35.358610	-80.610000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773956250	1	Srch
+T-Freq				Off	773031250	2	Srch
+T-Freq				Off	772731250	3	Srch
+T-Freq				Off	772331250	4	Srch
+T-Freq				Off	771756250	5	Srch
+T-Freq				Off	771306250	6	Srch
+T-Freq				Off	770706250	7	Srch
+T-Freq				Off	770306250	8	Srch
+Site			Corbin Mtn	On	35.168310	-82.434780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853912500	1	Srch
+T-Freq				Off	852487500	2	Srch
+T-Freq				Off	851850000	3	Srch
+T-Freq				Off	851587500	4	Srch
+T-Freq				Off	851275000	5	Srch
+Site			Cowee Bald	On	35.332562	-83.339796	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853725000	1	Srch
+T-Freq				Off	852300000	2	Srch
+T-Freq				Off	851950000	3	Srch
+T-Freq				Off	851600000	4	Srch
+T-Freq				Off	851175000	5	Srch
+T-Freq				Off	852975000	6	Srch
+Site			Creedmoor	On	35.988720	-78.687470	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774706250	1	Srch
+T-Freq				Off	774456250	2	Srch
+T-Freq				Off	773968750	3	Srch
+T-Freq				Off	773468750	4	Srch
+T-Freq				Off	772093750	5	Srch
+T-Freq				Off	770831250	6	Srch
+T-Freq				Off	770543750	7	Srch
+T-Freq				Off	770256250	8	Srch
+T-Freq				Off	769606250	9	Srch
+T-Freq				Off	769118750	10	Srch
+Site			Davidson Simulcast	On	35.777079	-80.156394	20.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	770556250	1	Srch
+T-Freq				Off	773206250	2	Srch
+T-Freq				Off	769556250	3	Srch
+T-Freq				Off	772406250	4	Srch
+T-Freq				Off	772806250	5	Srch
+T-Freq				Off	772031250	6	Srch
+T-Freq				Off	769843750	7	Srch
+T-Freq				Off	771606250	8	Srch
+T-Freq				Off	774631250	9	Srch
+T-Freq				Off	771056250	10	Srch
+Site			Deep Gap Mtn	On	36.257310	-81.510390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	855212500	1	Srch
+T-Freq				Off	853912500	2	Srch
+T-Freq				Off	852937500	3	Srch
+T-Freq				Off	852050000	4	Srch
+T-Freq				Off	851325000	5	Srch
+Site			Delco	On	34.321280	-78.228330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851462500	1	Srch
+T-Freq				Off	851750000	2	Srch
+T-Freq				Off	852237500	3	Srch
+T-Freq				Off	852737500	4	Srch
+T-Freq				Off	853250000	5	Srch
+T-Freq				Off	853512500	6	Srch
+T-Freq				Off	853750000	7	Srch
+Site			Dobson Knob	On	35.813330	-81.980280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859812500	1	Srch
+T-Freq				Off	859012500	2	Srch
+T-Freq				Off	853862500	3	Srch
+T-Freq				Off	853250000	4	Srch
+T-Freq				Off	852675000	5	Srch
+T-Freq				Off	852275000	6	Srch
+T-Freq				Off	851950000	7	Srch
+T-Freq				Off	855287500	8	Srch
+Site			Dodge City	On	35.792810	-77.624750	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851112500	1	Srch
+T-Freq				Off	851475000	2	Srch
+T-Freq				Off	851775000	3	Srch
+T-Freq				Off	852112500	4	Srch
+T-Freq				Off	853975000	5	Srch
+Site			Doughton Mtn	On	36.461468	-81.222739	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853725000	1	Srch
+T-Freq				Off	853487500	2	Srch
+T-Freq				Off	853175000	3	Srch
+T-Freq				Off	852600000	4	Srch
+T-Freq				Off	851362500	5	Srch
+Site			Duke University	On	36.008470	-78.938610	7.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	858837500	1	Srch
+T-Freq				Off	857862500	2	Srch
+T-Freq				Off	856837500	3	Srch
+T-Freq				Off	855587500	4	Srch
+T-Freq				Off	855287500	5	Srch
+T-Freq				Off	854837500	6	Srch
+T-Freq				Off	853512500	7	Srch
+T-Freq				Off	852450000	8	Srch
+Site			East Lake	On	35.871110	-75.877890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851162500	1	Srch
+T-Freq				Off	851575000	2	Srch
+T-Freq				Off	852087500	3	Srch
+T-Freq				Off	852725000	4	Srch
+T-Freq				Off	853625000	5	Srch
+Site			Eden	On	36.478561	-79.794786	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	860737500	1	Srch
+T-Freq				Off	853925000	2	Srch
+T-Freq				Off	853375000	3	Srch
+T-Freq				Off	852662500	4	Srch
+T-Freq				Off	852200000	5	Srch
+T-Freq				Off	852062500	6	Srch
+T-Freq				Off	851575000	7	Srch
+T-Freq				Off	851062500	8	Srch
+Site			Elizabeth City	Off	36.306830	-76.269080	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853562500	1	Srch
+T-Freq				Off	857062500	2	Srch
+T-Freq				Off	852650000	3	Srch
+T-Freq				Off	851475000	4	Srch
+T-Freq				Off	854362500	5	Srch
+T-Freq				Off	851912500	6	Srch
+T-Freq				Off	851062500	7	Srch
+T-Freq				Off	853100000	8	Srch
+T-Freq				Off	853337500	9	Srch
+T-Freq				Off	853675000	10	Srch
+T-Freq				Off	853750000	11	Srch
+Site			Elizabethtown	On	34.581940	-78.626110	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	857462500	1	Srch
+T-Freq				Off	858462500	2	Srch
+T-Freq				Off	859462500	3	Srch
+T-Freq				Off	851237500	4	Srch
+T-Freq				Off	851687500	5	Srch
+T-Freq				Off	852112500	6	Srch
+T-Freq				Off	852400000	7	Srch
+T-Freq				Off	853562500	8	Srch
+T-Freq				Off	856737500	9	Srch
+Site			Elkin DOT	On	36.255140	-80.832310	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859012500	1	Srch
+T-Freq				Off	853225000	2	Srch
+T-Freq				Off	852800000	3	Srch
+T-Freq				Off	858687500	4	Srch
+T-Freq				Off	851062500	5	Srch
+T-Freq				Off	851950000	6	Srch
+Site			Ellerbe	On	35.120280	-79.711390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853687500	1	Srch
+T-Freq				Off	852575000	2	Srch
+T-Freq				Off	852075000	3	Srch
+T-Freq				Off	851712500	4	Srch
+T-Freq				Off	851375000	5	Srch
+T-Freq				Off	857937500	6	Srch
+T-Freq				Off	858437500	7	Srch
+Site			Engelhard	On	35.533330	-75.973060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851337500	1	Srch
+T-Freq				Off	851737500	2	Srch
+T-Freq				Off	852050000	3	Srch
+T-Freq				Off	852975000	4	Srch
+T-Freq				Off	853975000	5	Srch
+Site			Eniva	On	36.508360	-77.602690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853675000	1	Srch
+T-Freq				Off	852475000	2	Srch
+T-Freq				Off	851600000	3	Srch
+T-Freq				Off	851912500	4	Srch
+T-Freq				Off	852275000	5	Srch
+Site			Eno Mtn	On	36.061810	-79.121940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F3	Global
+T-Freq				Off	859262500	1	Srch
+T-Freq				Off	858762500	2	Srch
+T-Freq				Off	853712500	3	Srch
+T-Freq				Off	853525000	4	Srch
+T-Freq				Off	853312500	5	Srch
+T-Freq				Off	852712500	6	Srch
+T-Freq				Off	852337500	7	Srch
+T-Freq				Off	851775000	8	Srch
+T-Freq				Off	851450000	9	Srch
+T-Freq				Off	851175000	10	Srch
+Site			Erwin PE	On	35.335280	-78.655280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853987500	1	Srch
+T-Freq				Off	853437500	2	Srch
+T-Freq				Off	853275000	3	Srch
+T-Freq				Off	853087500	4	Srch
+T-Freq				Off	852887500	5	Srch
+T-Freq				Off	852387500	6	Srch
+T-Freq				Off	852175000	7	Srch
+T-Freq				Off	851412500	8	Srch
+Site			Fairview	On	35.163000	-80.583860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774293750	1	Srch
+T-Freq				Off	774068750	2	Srch
+T-Freq				Off	773443750	3	Srch
+T-Freq				Off	772968750	4	Srch
+T-Freq				Off	772643750	5	Srch
+T-Freq				Off	772393750	6	Srch
+T-Freq				Off	771193750	7	Srch
+Site			Faith Mtn	On	35.604860	-80.441440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774443750	1	Srch
+T-Freq				Off	772993750	2	Srch
+T-Freq				Off	772693750	3	Srch
+T-Freq				Off	772193750	4	Srch
+T-Freq				Off	771818750	5	Srch
+T-Freq				Off	771418750	6	Srch
+T-Freq				Off	769293750	7	Srch
+Site			Farmville	On	35.553060	-77.601330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853612500	1	Srch
+T-Freq				Off	853100000	2	Srch
+T-Freq				Off	852600000	3	Srch
+T-Freq				Off	852100000	4	Srch
+T-Freq				Off	851575000	5	Srch
+T-Freq				Off	851837500	6	Srch
+T-Freq				Off	851050000	7	Srch
+Site			Fayetteville TWC	On	35.045670	-78.981140	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773456250	1	Srch
+T-Freq				Off	773206250	2	Srch
+T-Freq				Off	772956250	3	Srch
+T-Freq				Off	772681250	4	Srch
+T-Freq				Off	772143750	5	Srch
+T-Freq				Off	771568750	6	Srch
+T-Freq				Off	771031250	7	Srch
+T-Freq				Off	770793750	8	Srch
+T-Freq				Off	770268750	9	Srch
+T-Freq				Off	769856250	10	Srch
+Site			Fishers Peak	On	36.560280	-80.814170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853837500	1	Srch
+T-Freq				Off	852412500	2	Srch
+T-Freq				Off	852150000	3	Srch
+T-Freq				Off	851812500	4	Srch
+T-Freq				Off	851237500	5	Srch
+T-Freq				Off	856237500	6	Srch
+Site			Fountain	On	35.694810	-77.639310	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774043750	1	Srch
+T-Freq				Off	772056250	2	Srch
+T-Freq				Off	770031250	3	Srch
+T-Freq				Off	770356250	4	Srch
+T-Freq				Off	770756250	5	Srch
+T-Freq				Off	773068750	6	Srch
+T-Freq				Off	769356250	7	Srch
+T-Freq				Off	771081250	8	Srch
+T-Freq				Off	771481250	9	Srch
+Site			Four County EMC Bladenboro	On	34.563060	-78.766670	20.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853787500	1	Srch
+T-Freq				Off	852862500	2	Srch
+T-Freq				Off	852425000	3	Srch
+T-Freq				Off	851787500	4	Srch
+T-Freq				Off	851137500	5	Srch
+T-Freq				Off	854512500	6	Srch
+T-Freq				Off	856037500	7	Srch
+Site			Fox Mtn	On	35.997920	-80.999860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853525000	1	Srch
+T-Freq				Off	853200000	2	Srch
+T-Freq				Off	852875000	3	Srch
+T-Freq				Off	851087500	4	Srch
+T-Freq				Off	851637500	5	Srch
+T-Freq				Off	858512500	6	Srch
+T-Freq				Off	859637500	7	Srch
+Site			Franklin WT	On	35.109610	-83.390970	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773956250	1	Srch
+T-Freq				Off	772018750	2	Srch
+T-Freq				Off	771368750	3	Srch
+T-Freq				Off	771031250	4	Srch
+T-Freq				Off	770506250	5	Srch
+T-Freq				Off	769831250	6	Srch
+T-Freq				Off	769268750	7	Srch
+Site			Frye Mountain	On	35.381298	-83.414231	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853387500	1	Srch
+T-Freq				Off	853987500	2	Srch
+T-Freq				Off	852850000	3	Srch
+T-Freq				Off	852175000	4	Srch
+T-Freq				Off	851350000	5	Srch
+T-Freq				Off	851662500	6	Srch
+T-Freq				Off	856737500	7	Srch
+Site			Gaston Simulcast	On	35.266670	-81.178060	20.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853950000	1	Srch
+T-Freq				Off	773981250	2	Srch
+T-Freq				Off	853375000	3	Srch
+T-Freq				Off	772931250	4	Srch
+T-Freq				Off	853137500	5	Srch
+T-Freq				Off	771906250	6	Srch
+T-Freq				Off	852600000	7	Srch
+T-Freq				Off	771156250	8	Srch
+T-Freq				Off	852100000	9	Srch
+T-Freq				Off	770868750	10	Srch
+T-Freq				Off	851725000	11	Srch
+T-Freq				Off	770293750	12	Srch
+Site			Gatesville DOC	Off	36.436690	-76.723560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851187500	1	Srch
+T-Freq				Off	851550000	2	Srch
+T-Freq				Off	852100000	3	Srch
+T-Freq				Off	852400000	4	Srch
+T-Freq				Off	853450000	5	Srch
+Site			Grants Mtn	On	35.659000	-81.993970	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	772918750	1	Srch
+T-Freq				Off	771168750	2	Srch
+T-Freq				Off	770318750	3	Srch
+T-Freq				Off	770568750	4	Srch
+T-Freq				Off	769593750	5	Srch
+T-Freq				Off	857262500	6	Srch
+T-Freq				Off	854362500	7	Srch
+T-Freq				Off	852637500	8	Srch
+T-Freq				Off	851187500	9	Srch
+Site			Green Mtn	On	36.430994	-81.116642	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853587500	1	Srch
+T-Freq				Off	852975000	2	Srch
+T-Freq				Off	852562500	3	Srch
+T-Freq				Off	851887500	4	Srch
+T-Freq				Off	851387500	5	Srch
+Site			Greensboro A & T	On	36.082905	-79.768633	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774743750	1	Srch
+T-Freq				Off	774231250	2	Srch
+T-Freq				Off	773731250	3	Srch
+T-Freq				Off	772656250	4	Srch
+T-Freq				Off	772218750	5	Srch
+T-Freq				Off	771968750	6	Srch
+T-Freq				Off	771656250	7	Srch
+T-Freq				Off	771343750	8	Srch
+T-Freq				Off	770618750	9	Srch
+T-Freq				Off	769868750	10	Srch
+Site			Greenville	On	35.608080	-77.337390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853900000	1	Srch
+T-Freq				Off	853375000	2	Srch
+T-Freq				Off	852987500	3	Srch
+T-Freq				Off	852737500	4	Srch
+T-Freq				Off	852487500	5	Srch
+T-Freq				Off	852137500	6	Srch
+T-Freq				Off	851612500	7	Srch
+T-Freq				Off	851362500	8	Srch
+Site			Halifax	On	36.250153	-77.649697	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851087500	1	Srch
+T-Freq				Off	853625000	2	Srch
+T-Freq				Off	852337500	3	Srch
+T-Freq				Off	851800000	4	Srch
+T-Freq				Off	851412500	5	Srch
+Site			Hamlet	On	34.898220	-79.646170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853737500	1	Srch
+T-Freq				Off	852662500	2	Srch
+T-Freq				Off	852275000	3	Srch
+T-Freq				Off	851437500	4	Srch
+T-Freq				Off	851150000	5	Srch
+T-Freq				Off	854087500	6	Srch
+Site			Hap Mtn	On	35.804330	-82.829610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774881250	1	Srch
+T-Freq				Off	773681250	2	Srch
+T-Freq				Off	771956250	3	Srch
+T-Freq				Off	771506250	4	Srch
+T-Freq				Off	771181250	5	Srch
+Site			Hazel Top	On	35.633430	-83.034630	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774556250	1	Srch
+T-Freq				Off	774281250	2	Srch
+T-Freq				Off	773781250	3	Srch
+T-Freq				Off	773531250	4	Srch
+T-Freq				Off	773081250	5	Srch
+Site			Heathway Dr	On	35.272360	-80.764810	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F4	Global
+T-Freq				Off	859437500	1	Srch
+T-Freq				Off	854812500	2	Srch
+T-Freq				Off	853687500	3	Srch
+T-Freq				Off	853175000	4	Srch
+T-Freq				Off	852687500	5	Srch
+T-Freq				Off	852437500	6	Srch
+T-Freq				Off	852187500	7	Srch
+T-Freq				Off	851175000	8	Srch
+T-Freq				Off	852987500	9	Srch
+T-Freq				Off	851550000	10	Srch
+Site			Hibriten Mtn	On	35.907080	-81.488640	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	857587500	1	Srch
+T-Freq				Off	856812500	2	Srch
+T-Freq				Off	856012500	3	Srch
+T-Freq				Off	853325000	4	Srch
+T-Freq				Off	852900000	5	Srch
+T-Freq				Off	852075000	6	Srch
+T-Freq				Off	851775000	7	Srch
+T-Freq				Off	851175000	8	Srch
+T-Freq				Off	854637500	9	Srch
+Site			High Peak	On	35.722778	-81.608333	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859787500	1	Srch
+T-Freq				Off	859037500	2	Srch
+T-Freq				Off	856187500	3	Srch
+T-Freq				Off	854537500	4	Srch
+T-Freq				Off	853512500	5	Srch
+T-Freq				Off	853987500	6	Srch
+T-Freq				Off	852612500	7	Srch
+T-Freq				Off	851825000	8	Srch
+T-Freq				Off	851162500	9	Srch
+T-Freq				Off	858862500	10	Srch
+T-Freq				Off	853087500	11	Srch
+T-Freq				Off	852137500	12	Srch
+Site			High Rock Lake	On	35.595546	-80.247621	10.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774031250	1	Srch
+T-Freq				Off	773343750	2	Srch
+T-Freq				Off	770431250	3	Srch
+T-Freq				Off	769706250	4	Srch
+T-Freq				Off	769156250	5	Srch
+T-Freq				Off	774293750	6	Srch
+T-Freq				Off	770656250	7	Srch
+T-Freq				Off	773593750	8	Srch
+Site			High Windy	On	35.569500	-82.337500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853762500	1	Srch
+T-Freq				Off	858787500	2	Srch
+T-Freq				Off	858512500	3	Srch
+T-Freq				Off	854612500	4	Srch
+T-Freq				Off	852112500	5	Srch
+T-Freq				Off	851675000	6	Srch
+Site			Holly Ridge	On	34.491060	-77.562610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851675000	1	Srch
+T-Freq				Off	852187500	2	Srch
+T-Freq				Off	852687500	3	Srch
+T-Freq				Off	853175000	4	Srch
+T-Freq				Off	853675000	5	Srch
+T-Freq				Off	854987500	6	Srch
+T-Freq				Off	856162500	7	Srch
+T-Freq				Off	856437500	8	Srch
+T-Freq				Off	856712500	9	Srch
+Site			Hosley Forest	On	36.228029	-78.106095	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	858037500	1	Srch
+T-Freq				Off	856037500	2	Srch
+T-Freq				Off	853712500	3	Srch
+T-Freq				Off	852362500	4	Srch
+T-Freq				Off	851862500	5	Srch
+T-Freq				Off	851550000	6	Srch
+T-Freq				Off	851162500	7	Srch
+Site			Huntersville	On	35.428920	-80.894810	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774918750	1	Srch
+T-Freq				Off	774393750	2	Srch
+T-Freq				Off	773643750	3	Srch
+T-Freq				Off	772843750	4	Srch
+T-Freq				Off	772293750	5	Srch
+T-Freq				Off	771668750	6	Srch
+T-Freq				Off	770793750	7	Srch
+T-Freq				Off	770268750	8	Srch
+T-Freq				Off	769768750	9	Srch
+Site			Hyco Lake	On	36.460530	-79.083560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774631250	1	Srch
+T-Freq				Off	774443750	2	Srch
+T-Freq				Off	773706250	3	Srch
+T-Freq				Off	772181250	4	Srch
+T-Freq				Off	771306250	5	Srch
+T-Freq				Off	770093750	6	Srch
+Site			Jacksonville	On	34.818890	-77.330000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	852212500	1	Srch
+T-Freq				Off	852475000	2	Srch
+T-Freq				Off	852712500	3	Srch
+T-Freq				Off	852975000	4	Srch
+T-Freq				Off	853975000	5	Srch
+Site			Jefferson Mtn	On	36.403000	-81.463000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859712500	1	Srch
+T-Freq				Off	853212500	2	Srch
+T-Freq				Off	852550000	3	Srch
+T-Freq				Off	851962500	4	Srch
+T-Freq				Off	851675000	5	Srch
+Site			Joanna Bald	On	35.257310	-83.795170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853762500	1	Srch
+T-Freq				Off	853325000	2	Srch
+T-Freq				Off	853175000	3	Srch
+T-Freq				Off	852825000	4	Srch
+T-Freq				Off	852075000	5	Srch
+T-Freq				Off	851825000	6	Srch
+T-Freq				Off	856637500	7	Srch
+Site			Jumpoff Mtn	On	35.309560	-82.519060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853687500	1	Srch
+T-Freq				Off	852475000	2	Srch
+T-Freq				Off	851975000	3	Srch
+T-Freq				Off	851387500	4	Srch
+T-Freq				Off	851100000	5	Srch
+Site			Kenansville	On	34.942780	-77.982220	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773956250	1	Srch
+T-Freq				Off	772756250	2	Srch
+T-Freq				Off	772406250	3	Srch
+T-Freq				Off	772156250	4	Srch
+T-Freq				Off	771906250	5	Srch
+T-Freq				Off	771281250	6	Srch
+T-Freq				Off	770843750	7	Srch
+Site			Kinston	On	35.283220	-77.582750	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851687500	1	Srch
+T-Freq				Off	852412500	2	Srch
+T-Freq				Off	852925000	3	Srch
+T-Freq				Off	853412500	4	Srch
+T-Freq				Off	853737500	5	Srch
+Site			Kitty Hawk	On	36.075170	-75.718560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851537500	1	Srch
+T-Freq				Off	852100000	2	Srch
+T-Freq				Off	852400000	3	Srch
+T-Freq				Off	852925000	4	Srch
+T-Freq				Off	853437500	5	Srch
+Site			Kornegay	On	35.051390	-77.845560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851075000	1	Srch
+T-Freq				Off	852250000	2	Srch
+T-Freq				Off	852725000	3	Srch
+T-Freq				Off	852950000	4	Srch
+T-Freq				Off	853637500	5	Srch
+Site			Kuhns PE	On	34.801110	-77.117500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856212500	1	Srch
+T-Freq				Off	857212500	2	Srch
+T-Freq				Off	858212500	3	Srch
+T-Freq				Off	859212500	4	Srch
+T-Freq				Off	853850000	5	Srch
+Site			Lagoon	On	34.575220	-78.390830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	769081250	1	Srch
+T-Freq				Off	769756250	2	Srch
+T-Freq				Off	770556250	3	Srch
+T-Freq				Off	771181250	4	Srch
+T-Freq				Off	771481250	5	Srch
+T-Freq				Off	771881250	6	Srch
+T-Freq				Off	772781250	7	Srch
+Site			Lambert	On	35.308390	-80.374640	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859037500	1	Srch
+T-Freq				Off	858687500	2	Srch
+T-Freq				Off	857587500	3	Srch
+T-Freq				Off	857062500	4	Srch
+T-Freq				Off	856012500	5	Srch
+Site			Laurel Road	On	34.813860	-76.641890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851100000	1	Srch
+T-Freq				Off	851425000	2	Srch
+T-Freq				Off	851987500	3	Srch
+T-Freq				Off	852362500	4	Srch
+T-Freq				Off	853750000	5	Srch
+Site			Laurinburg	On	34.759170	-79.438610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856462500	1	Srch
+T-Freq				Off	855987500	2	Srch
+T-Freq				Off	853450000	3	Srch
+T-Freq				Off	853100000	4	Srch
+T-Freq				Off	852825000	5	Srch
+T-Freq				Off	852162500	6	Srch
+T-Freq				Off	851725000	7	Srch
+T-Freq				Off	851250000	8	Srch
+Site			Laws	On	36.241390	-79.123330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	859762500	1	Srch
+T-Freq				Off	858537500	2	Srch
+T-Freq				Off	857662500	3	Srch
+T-Freq				Off	853850000	4	Srch
+T-Freq				Off	852562500	5	Srch
+T-Freq				Off	852050000	6	Srch
+T-Freq				Off	851475000	7	Srch
+T-Freq				Off	851112500	8	Srch
+Site			Lee Plant PE	On	35.375690	-78.086190	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853512500	1	Srch
+T-Freq				Off	853137500	2	Srch
+T-Freq				Off	852750000	3	Srch
+T-Freq				Off	852050000	4	Srch
+T-Freq				Off	851637500	5	Srch
+T-Freq				Off	858062500	6	Srch
+Site			Lillington	On	35.383772	-78.817242	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F3	Global
+T-Freq				Off	854987500	1	Srch
+T-Freq				Off	853337500	2	Srch
+T-Freq				Off	852837500	3	Srch
+T-Freq				Off	852475000	4	Srch
+T-Freq				Off	852062500	5	Srch
+T-Freq				Off	851562500	6	Srch
+T-Freq				Off	851337500	7	Srch
+T-Freq				Off	851087500	8	Srch
+Site			Lincolnton	On	35.487780	-81.238060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774893750	1	Srch
+T-Freq				Off	774456250	2	Srch
+T-Freq				Off	774181250	3	Srch
+T-Freq				Off	773218750	4	Srch
+T-Freq				Off	772606250	5	Srch
+T-Freq				Off	772356250	6	Srch
+T-Freq				Off	771381250	7	Srch
+T-Freq				Off	771106250	8	Srch
+T-Freq				Off	770031250	9	Srch
+T-Freq				Off	769531250	10	Srch
+Site			Linville	On	36.063890	-81.842220	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774706250	1	Srch
+T-Freq				Off	774168750	2	Srch
+T-Freq				Off	772906250	3	Srch
+T-Freq				Off	772743750	4	Srch
+T-Freq				Off	772231250	5	Srch
+T-Freq				Off	771531250	6	Srch
+T-Freq				Off	771131250	7	Srch
+T-Freq				Off	770556250	8	Srch
+Site			Little River	On	35.844030	-78.353860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859462500	1	Srch
+T-Freq				Off	858462500	2	Srch
+T-Freq				Off	857462500	3	Srch
+T-Freq				Off	856462500	4	Srch
+T-Freq				Off	855962500	5	Srch
+T-Freq				Off	853737500	6	Srch
+T-Freq				Off	851687500	7	Srch
+T-Freq				Off	851362500	8	Srch
+Site			Locust Knob	On	36.033720	-82.202080	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853750000	1	Srch
+T-Freq				Off	852787500	2	Srch
+T-Freq				Off	852175000	3	Srch
+T-Freq				Off	851662500	4	Srch
+T-Freq				Off	851300000	5	Srch
+Site			Louisburg	On	36.094170	-78.320000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853937500	1	Srch
+T-Freq				Off	853637500	2	Srch
+T-Freq				Off	853362500	3	Srch
+T-Freq				Off	853112500	4	Srch
+T-Freq				Off	852875000	5	Srch
+T-Freq				Off	852625000	6	Srch
+T-Freq				Off	852137500	7	Srch
+Site			Lumberton UNCTV	On	34.797500	-79.044720	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	858012500	1	Srch
+T-Freq				Off	856837500	2	Srch
+T-Freq				Off	856237500	3	Srch
+T-Freq				Off	854037500	4	Srch
+T-Freq				Off	853912500	5	Srch
+T-Freq				Off	853187500	6	Srch
+T-Freq				Off	852412500	7	Srch
+T-Freq				Off	852125000	8	Srch
+T-Freq				Off	851612500	9	Srch
+Site			Manson	On	36.418768	-78.272965	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	773531250	1	Srch
+T-Freq				Off	770906250	2	Srch
+T-Freq				Off	772818750	3	Srch
+T-Freq				Off	772418750	4	Srch
+T-Freq				Off	771893750	5	Srch
+T-Freq				Off	771118750	6	Srch
+T-Freq				Off	770618750	7	Srch
+Site			Margaret	On	36.024874	-78.226104	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	859062500	1	Srch
+T-Freq				Off	853837500	2	Srch
+T-Freq				Off	853300000	3	Srch
+T-Freq				Off	853075000	4	Srch
+T-Freq				Off	852850000	5	Srch
+T-Freq				Off	851887500	6	Srch
+T-Freq				Off	851312500	7	Srch
+Site			Mayodan	On	36.427111	-79.940694	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774668750	1	Srch
+T-Freq				Off	772743750	2	Srch
+T-Freq				Off	772343750	3	Srch
+T-Freq				Off	771781250	4	Srch
+T-Freq				Off	771293750	5	Srch
+T-Freq				Off	771043750	6	Srch
+T-Freq				Off	770018750	7	Srch
+T-Freq				Off	769256250	8	Srch
+Site			McCain Hospital	On	35.057629	-79.347587	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859237500	1	Srch
+T-Freq				Off	858237500	2	Srch
+T-Freq				Off	857237500	3	Srch
+T-Freq				Off	853850000	4	Srch
+T-Freq				Off	852312500	5	Srch
+T-Freq				Off	851912500	6	Srch
+T-Freq				Off	851400000	7	Srch
+T-Freq				Off	851112500	8	Srch
+Site			McFarlan	On	34.827060	-79.982640	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853587500	1	Srch
+T-Freq				Off	853050000	2	Srch
+T-Freq				Off	852137500	3	Srch
+T-Freq				Off	851462500	4	Srch
+T-Freq				Off	851050000	5	Srch
+Site			Meadows Mtn	On	35.637440	-82.498750	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859737500	1	Srch
+T-Freq				Off	855212500	2	Srch
+T-Freq				Off	854512500	3	Srch
+T-Freq				Off	853675000	4	Srch
+T-Freq				Off	852762500	5	Srch
+T-Freq				Off	852162500	6	Srch
+T-Freq				Off	851575000	7	Srch
+T-Freq				Off	851137500	8	Srch
+Site			Mebane	On	36.080830	-79.312780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774393750	1	Srch
+T-Freq				Off	774143750	2	Srch
+T-Freq				Off	773893750	3	Srch
+T-Freq				Off	773193750	4	Srch
+T-Freq				Off	772843750	5	Srch
+T-Freq				Off	772593750	6	Srch
+T-Freq				Off	771918750	7	Srch
+T-Freq				Off	771593750	8	Srch
+T-Freq				Off	771218750	9	Srch
+T-Freq				Off	770293750	10	Srch
+Site			Mocksville	On	35.892360	-80.555330	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774431250	1	Srch
+T-Freq				Off	773481250	2	Srch
+T-Freq				Off	772981250	3	Srch
+T-Freq				Off	772681250	4	Srch
+T-Freq				Off	772181250	5	Srch
+T-Freq				Off	771806250	6	Srch
+T-Freq				Off	771406250	7	Srch
+T-Freq				Off	769281250	8	Srch
+Site			Monroe	On	35.027220	-80.583060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	860937500	1	Srch
+T-Freq				Off	859937500	2	Srch
+T-Freq				Off	858937500	3	Srch
+T-Freq				Off	858537500	4	Srch
+T-Freq				Off	856937500	5	Srch
+T-Freq				Off	856437500	6	Srch
+T-Freq				Off	854662500	7	Srch
+T-Freq				Off	853325000	8	Srch
+Site			Mooresville	On	35.595280	-80.841670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853887500	1	Srch
+T-Freq				Off	852950000	2	Srch
+T-Freq				Off	852400000	3	Srch
+T-Freq				Off	852162500	4	Srch
+T-Freq				Off	851200000	5	Srch
+T-Freq				Off	854287500	6	Srch
+T-Freq				Off	854587500	7	Srch
+T-Freq				Off	851850000	8	Srch
+Site			Mt Gilead	On	35.156670	-80.035280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853862500	1	Srch
+T-Freq				Off	853250000	2	Srch
+T-Freq				Off	852362500	3	Srch
+T-Freq				Off	851962500	4	Srch
+T-Freq				Off	851412500	5	Srch
+T-Freq				Off	857012500	6	Srch
+Site			Mt. Noble	On	35.496110	-83.334280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853287500	1	Srch
+T-Freq				Off	853937500	2	Srch
+T-Freq				Off	852725000	3	Srch
+T-Freq				Off	852137500	4	Srch
+T-Freq				Off	851450000	5	Srch
+Site			Mt. Tirzah	On	36.317280	-78.861110	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	769268750	1	Srch
+T-Freq				Off	769518750	2	Srch
+T-Freq				Off	771243750	3	Srch
+T-Freq				Off	771793750	4	Srch
+T-Freq				Off	772243750	5	Srch
+T-Freq				Off	772668750	6	Srch
+Site			Murphy	On	35.103080	-84.029190	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853837500	1	Srch
+T-Freq				Off	852200000	2	Srch
+T-Freq				Off	851900000	3	Srch
+T-Freq				Off	851337500	4	Srch
+T-Freq				Off	851087500	5	Srch
+Site			Nakina	On	34.108830	-78.656690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	769806250	1	Srch
+T-Freq				Off	770281250	2	Srch
+T-Freq				Off	770756250	3	Srch
+T-Freq				Off	771056250	4	Srch
+T-Freq				Off	771306250	5	Srch
+T-Freq				Off	771581250	6	Srch
+Site			Nash DOC	On	35.974598	-77.965541	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F3	Global
+T-Freq				Off	774243750	1	Srch
+T-Freq				Off	773743750	2	Srch
+T-Freq				Off	772943750	3	Srch
+T-Freq				Off	772693750	4	Srch
+T-Freq				Off	772118750	5	Srch
+T-Freq				Off	771443750	6	Srch
+T-Freq				Off	771168750	7	Srch
+T-Freq				Off	770518750	8	Srch
+Site			NCSHP Training Center	On	35.711264	-78.614171	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	772606250	1	Srch
+T-Freq				Off	772881250	2	Srch
+T-Freq				Off	773131250	3	Srch
+T-Freq				Off	773381250	4	Srch
+T-Freq				Off	773631250	5	Srch
+T-Freq				Off	773906250	6	Srch
+T-Freq				Off	774156250	7	Srch
+T-Freq				Off	774406250	8	Srch
+T-Freq				Off	774656250	9	Srch
+T-Freq				Off	774906250	10	Srch
+T-Freq				Off	770443750	11	Srch
+T-Freq				Off	770943750	12	Srch
+Site			New Bern	On	35.137640	-77.120810	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	769081250	1	Srch
+T-Freq				Off	769606250	2	Srch
+T-Freq				Off	770556250	3	Srch
+T-Freq				Off	771031250	4	Srch
+T-Freq				Off	771306250	5	Srch
+T-Freq				Off	771606250	6	Srch
+T-Freq				Off	772031250	7	Srch
+Site			Newport	On	34.758610	-76.855280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851087500	1	Srch
+T-Freq				Off	851337500	2	Srch
+T-Freq				Off	851837500	3	Srch
+T-Freq				Off	852337500	4	Srch
+T-Freq				Off	852837500	5	Srch
+T-Freq				Off	853337500	6	Srch
+T-Freq				Off	858437500	7	Srch
+T-Freq				Off	858762500	8	Srch
+Site			Newton Grove	On	35.272220	-78.356390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853775000	1	Srch
+T-Freq				Off	853625000	2	Srch
+T-Freq				Off	852825000	3	Srch
+T-Freq				Off	852275000	4	Srch
+T-Freq				Off	851275000	5	Srch
+T-Freq				Off	853050000	6	Srch
+Site			Oak Hill	On	36.439000	-78.722670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853637500	1	Srch
+T-Freq				Off	853212500	2	Srch
+T-Freq				Off	852950000	3	Srch
+T-Freq				Off	852550000	4	Srch
+T-Freq				Off	852200000	5	Srch
+T-Freq				Off	851750000	6	Srch
+T-Freq				Off	851250000	7	Srch
+Site			Ocracoke	On	35.117140	-75.983860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853512500	1	Srch
+T-Freq				Off	852962500	2	Srch
+T-Freq				Off	852650000	3	Srch
+T-Freq				Off	852062500	4	Srch
+T-Freq				Off	851462500	5	Srch
+Site			Odom DOC	On	36.406670	-77.440830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774481250	1	Srch
+T-Freq				Off	774181250	2	Srch
+T-Freq				Off	772881250	3	Srch
+T-Freq				Off	771618750	4	Srch
+T-Freq				Off	770531250	5	Srch
+Site			Old Mill	On	36.405030	-77.228920	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851437500	1	Srch
+T-Freq				Off	851750000	2	Srch
+T-Freq				Off	852575000	3	Srch
+T-Freq				Off	852887500	4	Srch
+T-Freq				Off	853887500	5	Srch
+Site			Oxford Bi-Com	On	36.247780	-78.507500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853887500	1	Srch
+T-Freq				Off	853187500	2	Srch
+T-Freq				Off	852925000	3	Srch
+T-Freq				Off	852575000	4	Srch
+T-Freq				Off	852187500	5	Srch
+T-Freq				Off	851900000	6	Srch
+T-Freq				Off	851575000	7	Srch
+T-Freq				Off	853487500	8	Srch
+Site			Oxford WT	On	36.308670	-78.587670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	852975000	1	Srch
+T-Freq				Off	853950000	2	Srch
+T-Freq				Off	853162500	3	Srch
+T-Freq				Off	852300000	4	Srch
+T-Freq				Off	851300000	5	Srch
+T-Freq				Off	851737500	6	Srch
+T-Freq				Off	852600000	7	Srch
+Site			Pea Landing	On	33.946500	-78.546110	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851037500	1	Srch
+T-Freq				Off	851550000	2	Srch
+T-Freq				Off	851850000	3	Srch
+T-Freq				Off	852150000	4	Srch
+T-Freq				Off	852387500	5	Srch
+T-Freq				Off	852712500	6	Srch
+T-Freq				Off	853675000	7	Srch
+Site			Pelham	On	36.523333	-79.476667	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	853437500	1	Srch
+T-Freq				Off	853125000	2	Srch
+T-Freq				Off	852700000	3	Srch
+T-Freq				Off	851875000	4	Srch
+T-Freq				Off	851312500	5	Srch
+Site			Penderlea	On	34.629720	-78.108890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851925000	1	Srch
+T-Freq				Off	852162500	2	Srch
+T-Freq				Off	852450000	3	Srch
+T-Freq				Off	853150000	4	Srch
+T-Freq				Off	853450000	5	Srch
+T-Freq				Off	853925000	6	Srch
+T-Freq				Off	857437500	7	Srch
+T-Freq				Off	858437500	8	Srch
+Site			Phoenix Mtn	On	36.461110	-81.488610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F4	Global
+T-Freq				Off	853887500	1	Srch
+T-Freq				Off	852437500	2	Srch
+T-Freq				Off	852125000	3	Srch
+T-Freq				Off	851787500	4	Srch
+T-Freq				Off	851112500	5	Srch
+Site			Pineville	On	35.085277	-80.893611	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853825000	1	Srch
+T-Freq				Off	852962500	2	Srch
+T-Freq				Off	852225000	3	Srch
+T-Freq				Off	851887500	4	Srch
+T-Freq				Off	851275000	5	Srch
+T-Freq				Off	853212500	6	Srch
+T-Freq				Off	851075000	7	Srch
+Site			Pittsboro	On	35.735920	-79.160920	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	773693750	1	Srch
+T-Freq				Off	773231250	2	Srch
+T-Freq				Off	772706250	3	Srch
+T-Freq				Off	772456250	4	Srch
+T-Freq				Off	771531250	5	Srch
+T-Freq				Off	771256250	6	Srch
+T-Freq				Off	770206250	7	Srch
+Site			Plymouth	On	35.843580	-76.758830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	857212500	1	Srch
+T-Freq				Off	856212500	2	Srch
+T-Freq				Off	853837500	3	Srch
+T-Freq				Off	852387500	4	Srch
+T-Freq				Off	851925000	5	Srch
+T-Freq				Off	851400000	6	Srch
+T-Freq				Off	851050000	7	Srch
+Site			Ponzor	On	35.587780	-76.494440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851175000	1	Srch
+T-Freq				Off	851637500	2	Srch
+T-Freq				Off	851937500	3	Srch
+T-Freq				Off	852325000	4	Srch
+T-Freq				Off	853825000	5	Srch
+Site			Pores Knob	On	36.046775	-81.156119	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853750000	1	Srch
+T-Freq				Off	852762500	2	Srch
+T-Freq				Off	852225000	3	Srch
+T-Freq				Off	851862500	4	Srch
+T-Freq				Off	851250000	5	Srch
+T-Freq				Off	771506250	6	Srch
+T-Freq				Off	771931250	7	Srch
+Site			Potato Knob	On	35.413170	-83.500310	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853475000	1	Srch
+T-Freq				Off	853225000	2	Srch
+T-Freq				Off	852775000	3	Srch
+T-Freq				Off	852425000	4	Srch
+T-Freq				Off	851475000	5	Srch
+Site			Proctorville	On	34.633497	-79.099757	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851375000	1	Srch
+T-Freq				Off	851712500	2	Srch
+T-Freq				Off	852575000	3	Srch
+T-Freq				Off	852975000	4	Srch
+T-Freq				Off	853825000	5	Srch
+Site			Raleigh SHP C&L	On	35.772096	-78.638615	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	769206250	1	Srch
+T-Freq				Off	769681250	2	Srch
+T-Freq				Off	770706250	3	Srch
+T-Freq				Off	773031250	4	Srch
+T-Freq				Off	773306250	5	Srch
+T-Freq				Off	773556250	6	Srch
+T-Freq				Off	773831250	7	Srch
+T-Freq				Off	774081250	8	Srch
+T-Freq				Off	774331250	9	Srch
+T-Freq				Off	774781250	10	Srch
+Site			Reidsville	On	36.379651	-79.669696	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853787500	1	Srch
+T-Freq				Off	853575000	2	Srch
+T-Freq				Off	851900000	3	Srch
+T-Freq				Off	851412500	4	Srch
+T-Freq				Off	851050000	5	Srch
+T-Freq				Off	853187500	6	Srch
+T-Freq				Off	852812500	7	Srch
+T-Freq				Off	851625000	8	Srch
+Site			Rendezvous Mtn	On	36.231110	-81.319530	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	858087500	1	Srch
+T-Freq				Off	857187500	2	Srch
+T-Freq				Off	856087500	3	Srch
+T-Freq				Off	854662500	4	Srch
+T-Freq				Off	854462500	5	Srch
+Site			Rich Hill	On	36.505250	-81.609560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774206250	1	Srch
+T-Freq				Off	773418750	2	Srch
+T-Freq				Off	772206250	3	Srch
+T-Freq				Off	771881250	4	Srch
+T-Freq				Off	771306250	5	Srch
+Site			Richlands	On	34.783860	-77.600310	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	772531250	1	Srch
+T-Freq				Off	772243750	2	Srch
+T-Freq				Off	771981250	3	Srch
+T-Freq				Off	771718750	4	Srch
+T-Freq				Off	771381250	5	Srch
+T-Freq				Off	771093750	6	Srch
+T-Freq				Off	770781250	7	Srch
+Site			Riverbend Rd	On	35.788519	-81.178286	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853625000	1	Srch
+T-Freq				Off	852200000	2	Srch
+T-Freq				Off	851750000	3	Srch
+T-Freq				Off	851400000	4	Srch
+T-Freq				Off	851137500	5	Srch
+T-Freq				Off	854262500	6	Srch
+T-Freq				Off	856137500	7	Srch
+T-Freq				Off	858137500	8	Srch
+Site			Riverdale Rd	On	35.944530	-79.912500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853875000	1	Srch
+T-Freq				Off	854062500	2	Srch
+T-Freq				Off	853237500	3	Srch
+T-Freq				Off	852975000	4	Srch
+T-Freq				Off	852412500	5	Srch
+T-Freq				Off	856137500	6	Srch
+T-Freq				Off	851987500	7	Srch
+T-Freq				Off	851075000	8	Srch
+Site			Rockingham DOT	On	34.962000	-79.796610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774131250	1	Srch
+T-Freq				Off	773706250	2	Srch
+T-Freq				Off	772793750	3	Srch
+T-Freq				Off	772093750	4	Srch
+T-Freq				Off	771793750	5	Srch
+T-Freq				Off	771443750	6	Srch
+T-Freq				Off	770406250	7	Srch
+Site			Rocky Mount	On	35.970720	-77.794690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	854637500	1	Srch
+T-Freq				Off	853437500	2	Srch
+T-Freq				Off	852862500	3	Srch
+T-Freq				Off	852675000	4	Srch
+T-Freq				Off	852400000	5	Srch
+T-Freq				Off	852175000	6	Srch
+T-Freq				Off	851787500	7	Srch
+T-Freq				Off	851425000	8	Srch
+Site			Rocky Top	On	34.982067	-84.003701	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773718750	1	Srch
+T-Freq				Off	773143750	2	Srch
+T-Freq				Off	772968750	3	Srch
+T-Freq				Off	772493750	4	Srch
+T-Freq				Off	772118750	5	Srch
+Site			Rodanthe	On	35.594330	-75.462920	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851037500	1	Srch
+T-Freq				Off	851425000	2	Srch
+T-Freq				Off	851837500	3	Srch
+T-Freq				Off	852275000	4	Srch
+T-Freq				Off	853237500	5	Srch
+Site			Rose Bay	On	35.464060	-76.386860	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851075000	1	Srch
+T-Freq				Off	851412500	2	Srch
+T-Freq				Off	851950000	3	Srch
+T-Freq				Off	852462500	4	Srch
+T-Freq				Off	853887500	5	Srch
+Site			Roxboro	On	36.405419	-78.982788	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F4	Global
+T-Freq				Off	853675000	1	Srch
+T-Freq				Off	853287500	2	Srch
+T-Freq				Off	856262500	3	Srch
+T-Freq				Off	854237500	4	Srch
+T-Freq				Off	852862500	5	Srch
+T-Freq				Off	851006250	6	Srch
+Site			RTP Bryan Ctr	On	35.932500	-78.863610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774281250	1	Srch
+T-Freq				Off	774031250	2	Srch
+T-Freq				Off	772381250	3	Srch
+T-Freq				Off	771131250	4	Srch
+T-Freq				Off	770931250	5	Srch
+T-Freq				Off	771681250	6	Srch
+Site			Salemburg	On	35.037220	-78.498890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851550000	1	Srch
+T-Freq				Off	851862500	2	Srch
+T-Freq				Off	852437500	3	Srch
+T-Freq				Off	852775000	4	Srch
+T-Freq				Off	853875000	5	Srch
+Site			Salisbury	On	35.650140	-80.516450	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774131250	1	Srch
+T-Freq				Off	773931250	2	Srch
+T-Freq				Off	773706250	3	Srch
+T-Freq				Off	773131250	4	Srch
+T-Freq				Off	772468750	5	Srch
+T-Freq				Off	771568750	6	Srch
+T-Freq				Off	770806250	7	Srch
+T-Freq				Off	769606250	8	Srch
+Site			Sandy Ridge	On	36.499027	-80.104214	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859737500	1	Srch
+T-Freq				Off	853750000	2	Srch
+T-Freq				Off	852725000	3	Srch
+T-Freq				Off	852312500	4	Srch
+T-Freq				Off	851775000	5	Srch
+T-Freq				Off	851375000	6	Srch
+Site			Sauratown Mtn	On	36.375830	-80.371390	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	859237500	1	Srch
+T-Freq				Off	855737500	2	Srch
+T-Freq				Off	853450000	3	Srch
+T-Freq				Off	852962500	4	Srch
+T-Freq				Off	852300000	5	Srch
+T-Freq				Off	851612500	6	Srch
+T-Freq				Off	851300000	7	Srch
+Site			Scaly Mtn	On	35.011757	-83.316265	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853500000	1	Srch
+T-Freq				Off	853275000	2	Srch
+T-Freq				Off	852912500	3	Srch
+T-Freq				Off	852137500	4	Srch
+T-Freq				Off	851537500	5	Srch
+Site			Scotland Neck	On	36.156810	-77.515530	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774431250	1	Srch
+T-Freq				Off	773656250	2	Srch
+T-Freq				Off	773406250	3	Srch
+T-Freq				Off	772631250	4	Srch
+T-Freq				Off	772306250	5	Srch
+T-Freq				Off	771718750	6	Srch
+T-Freq				Off	771043750	7	Srch
+Site			Scotts Hill	On	34.381190	-77.712110	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773631250	1	Srch
+T-Freq				Off	773381250	2	Srch
+T-Freq				Off	772931250	3	Srch
+T-Freq				Off	772306250	4	Srch
+T-Freq				Off	771781250	5	Srch
+T-Freq				Off	771231250	6	Srch
+T-Freq				Off	770106250	7	Srch
+T-Freq				Off	769556250	8	Srch
+Site			Seven Springs	On	35.206670	-77.829170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853912500	1	Srch
+T-Freq				Off	853662500	2	Srch
+T-Freq				Off	853187500	3	Srch
+T-Freq				Off	851912500	4	Srch
+T-Freq				Off	851450000	5	Srch
+Site			Sheffield	On	35.993060	-80.693060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F8	Global
+T-Freq				Off	774881250	1	Srch
+T-Freq				Off	773718750	2	Srch
+T-Freq				Off	773393750	3	Srch
+T-Freq				Off	772531250	4	Srch
+T-Freq				Off	771143750	5	Srch
+T-Freq				Off	770831250	6	Srch
+T-Freq				Off	769831250	7	Srch
+Site			Shelby	On	35.280560	-81.540080	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853912500	1	Srch
+T-Freq				Off	852750000	2	Srch
+T-Freq				Off	852300000	3	Srch
+T-Freq				Off	851800000	4	Srch
+T-Freq				Off	851300000	5	Srch
+Site			Shepherd Mtn	On	35.754720	-79.952220	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	858787500	1	Srch
+T-Freq				Off	858012500	2	Srch
+T-Freq				Off	857837500	3	Srch
+T-Freq				Off	853825000	4	Srch
+T-Freq				Off	853700000	5	Srch
+T-Freq				Off	853287500	6	Srch
+T-Freq				Off	853162500	7	Srch
+T-Freq				Off	852475000	8	Srch
+T-Freq				Off	851825000	9	Srch
+T-Freq				Off	851100000	10	Srch
+Site			Siler City	On	35.733750	-79.366690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853612500	1	Srch
+T-Freq				Off	853300000	2	Srch
+T-Freq				Off	853050000	3	Srch
+T-Freq				Off	852875000	4	Srch
+T-Freq				Off	852637500	5	Srch
+T-Freq				Off	856112500	6	Srch
+Site			Slocomb	On	35.207780	-78.875280	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	858762500	1	Srch
+T-Freq				Off	858087500	2	Srch
+T-Freq				Off	857762500	3	Srch
+T-Freq				Off	857062500	4	Srch
+T-Freq				Off	855237500	5	Srch
+T-Freq				Off	853237500	6	Srch
+T-Freq				Off	852137500	7	Srch
+T-Freq				Off	851737500	8	Srch
+T-Freq				Off	851450000	9	Srch
+T-Freq				Off	851175000	10	Srch
+Site			Smithfield	On	35.510970	-78.428610	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	859687500	1	Srch
+T-Freq				Off	856012500	2	Srch
+T-Freq				Off	853900000	3	Srch
+T-Freq				Off	853675000	4	Srch
+T-Freq				Off	853175000	5	Srch
+T-Freq				Off	852587500	6	Srch
+T-Freq				Off	851350000	7	Srch
+T-Freq				Off	854862500	8	Srch
+Site			South Mills	Off	36.517470	-76.351440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853675000	1	Srch
+T-Freq				Off	852637500	2	Srch
+T-Freq				Off	851800000	3	Srch
+T-Freq				Off	851325000	4	Srch
+T-Freq				Off	851075000	5	Srch
+T-Freq				Off	858062500	6	Srch
+T-Freq				Off	856937500	7	Srch
+T-Freq				Off	856437500	8	Srch
+T-Freq				Off	853562500	9	Srch
+T-Freq				Off	853750000	10	Srch
+Site			Southern Pines	On	35.176000	-79.413670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774181250	1	Srch
+T-Freq				Off	773156250	2	Srch
+T-Freq				Off	772856250	3	Srch
+T-Freq				Off	772231250	4	Srch
+T-Freq				Off	771631250	5	Srch
+T-Freq				Off	771381250	6	Srch
+T-Freq				Off	769781250	7	Srch
+T-Freq				Off	769256250	8	Srch
+Site			Southport	On	33.921563	-78.020268	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	769318750	1	Srch
+T-Freq				Off	769618750	2	Srch
+T-Freq				Off	770818750	3	Srch
+T-Freq				Off	771693750	4	Srch
+T-Freq				Off	771943750	5	Srch
+T-Freq				Off	772368750	6	Srch
+T-Freq				Off	772743750	7	Srch
+T-Freq				Off	772993750	8	Srch
+T-Freq				Off	773443750	9	Srch
+T-Freq				Off	773893750	10	Srch
+Site			Spindale	On	35.346080	-81.908940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853850000	1	Srch
+T-Freq				Off	852700000	2	Srch
+T-Freq				Off	852387500	3	Srch
+T-Freq				Off	851925000	4	Srch
+T-Freq				Off	851337500	5	Srch
+T-Freq				Off	854037500	6	Srch
+T-Freq				Off	856212500	7	Srch
+T-Freq				Off	858112500	8	Srch
+Site			Spout Springs	On	35.383493	-79.070830	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	854237500	1	Srch
+T-Freq				Off	853975000	2	Srch
+T-Freq				Off	853750000	3	Srch
+T-Freq				Off	853500000	4	Srch
+T-Freq				Off	853125000	5	Srch
+T-Freq				Off	852362500	6	Srch
+T-Freq				Off	851587500	7	Srch
+T-Freq				Off	851900000	8	Srch
+Site			Stacy	On	34.855560	-76.415560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851587500	1	Srch
+T-Freq				Off	852087500	2	Srch
+T-Freq				Off	852587500	3	Srch
+T-Freq				Off	853087500	4	Srch
+T-Freq				Off	853587500	5	Srch
+Site			Staley	On	35.798280	-79.642360	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F5	Global
+T-Freq				Off	774681250	1	Srch
+T-Freq				Off	773943750	2	Srch
+T-Freq				Off	772756250	3	Srch
+T-Freq				Off	771731250	4	Srch
+T-Freq				Off	771581250	5	Srch
+T-Freq				Off	770356250	6	Srch
+T-Freq				Off	770068750	7	Srch
+T-Freq				Off	769618750	8	Srch
+Site			Stumpy Point	On	35.708390	-75.767440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853912500	1	Srch
+T-Freq				Off	852425000	2	Srch
+T-Freq				Off	852137500	3	Srch
+T-Freq				Off	851612500	4	Srch
+T-Freq				Off	851212500	5	Srch
+Site			Supply	On	33.999170	-78.317780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853612500	1	Srch
+T-Freq				Off	853087500	2	Srch
+T-Freq				Off	852587500	3	Srch
+T-Freq				Off	852087500	4	Srch
+T-Freq				Off	851737500	5	Srch
+T-Freq				Off	851587500	6	Srch
+T-Freq				Off	851162500	7	Srch
+Site			Sylva/Jackson Co Airport	On	35.314030	-83.201060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853887500	1	Srch
+T-Freq				Off	853150000	2	Srch
+T-Freq				Off	852637500	3	Srch
+T-Freq				Off	852387500	4	Srch
+T-Freq				Off	851300000	5	Srch
+Site			Tarboro City	On	35.914440	-77.517780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851062500	1	Srch
+T-Freq				Off	851337500	2	Srch
+T-Freq				Off	851950000	3	Srch
+T-Freq				Off	852312500	4	Srch
+T-Freq				Off	853687500	5	Srch
+Site			Taylors Bridge	On	34.891940	-78.267500	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853325000	1	Srch
+T-Freq				Off	853075000	2	Srch
+T-Freq				Off	852850000	3	Srch
+T-Freq				Off	852550000	4	Srch
+T-Freq				Off	851900000	5	Srch
+T-Freq				Off	851487500	6	Srch
+T-Freq				Off	851175000	7	Srch
+Site			Toxaway Mtn	On	35.132120	-82.983300	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853825000	1	Srch
+T-Freq				Off	853337500	2	Srch
+T-Freq				Off	852875000	3	Srch
+T-Freq				Off	852537500	4	Srch
+T-Freq				Off	855462500	5	Srch
+Site			Tramway	On	35.447220	-79.134720	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	773481250	1	Srch
+T-Freq				Off	772981250	2	Srch
+T-Freq				Off	772406250	3	Srch
+T-Freq				Off	772156250	4	Srch
+T-Freq				Off	771831250	5	Srch
+T-Freq				Off	771168750	6	Srch
+T-Freq				Off	770456250	7	Srch
+Site			Triad Park	On	36.126390	-80.035190	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774481250	1	Srch
+T-Freq				Off	773981250	2	Srch
+T-Freq				Off	773406250	3	Srch
+T-Freq				Off	772931250	4	Srch
+T-Freq				Off	772206250	5	Srch
+T-Freq				Off	770856250	6	Srch
+T-Freq				Off	769506250	7	Srch
+Site			Tryon Pk	On	35.266280	-82.243920	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	859112500	1	Srch
+T-Freq				Off	858587500	2	Srch
+T-Freq				Off	857962500	3	Srch
+T-Freq				Off	857537500	4	Srch
+T-Freq				Off	855962500	5	Srch
+T-Freq				Off	853362500	6	Srch
+T-Freq				Off	852887500	7	Srch
+T-Freq				Off	852437500	8	Srch
+Site			Turner Mtn	On	36.400134	-80.683121	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	774468750	1	Srch
+T-Freq				Off	773681250	2	Srch
+T-Freq				Off	773231250	3	Srch
+T-Freq				Off	772581250	4	Srch
+T-Freq				Off	772231250	5	Srch
+T-Freq				Off	771643750	6	Srch
+T-Freq				Off	771393750	7	Srch
+T-Freq				Off	769543750	8	Srch
+Site			Valhalla	Off	36.130890	-76.657690	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853750000	1	Srch
+T-Freq				Off	852362500	2	Srch
+T-Freq				Off	851987500	3	Srch
+T-Freq				Off	851425000	4	Srch
+T-Freq				Off	851100000	5	Srch
+T-Freq				Off	858012500	6	Srch
+Site			Viking Mtn	On	36.023860	-82.715220	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853337500	1	Srch
+T-Freq				Off	852200000	2	Srch
+T-Freq				Off	851800000	3	Srch
+T-Freq				Off	851412500	4	Srch
+T-Freq				Off	851087500	5	Srch
+Site			Wadesboro	On	34.995000	-80.169170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853750000	1	Srch
+T-Freq				Off	852637500	2	Srch
+T-Freq				Off	852125000	3	Srch
+T-Freq				Off	851750000	4	Srch
+T-Freq				Off	851300000	5	Srch
+Site			Wake North Durant Rd	On	35.905000	-78.582780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	772331250	1	Srch
+T-Freq				Off	771606250	2	Srch
+T-Freq				Off	771356250	3	Srch
+T-Freq				Off	771006250	4	Srch
+T-Freq				Off	770581250	5	Srch
+T-Freq				Off	770331250	6	Srch
+T-Freq				Off	770006250	7	Srch
+T-Freq				Off	769756250	8	Srch
+T-Freq				Off	769331250	9	Srch
+T-Freq				Off	769081250	10	Srch
+Site			Wake South Holly Springs	On	35.683209	-78.833621	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853375000	1	Srch
+T-Freq				Off	852612500	2	Srch
+T-Freq				Off	852125000	3	Srch
+T-Freq				Off	851875000	4	Srch
+T-Freq				Off	851375000	5	Srch
+T-Freq				Off	851675000	6	Srch
+T-Freq				Off	852375000	7	Srch
+T-Freq				Off	852812500	8	Srch
+T-Freq				Off	853062500	9	Srch
+T-Freq				Off	857012500	10	Srch
+Site			Wallace	On	34.735724	-77.995263	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851800000	1	Srch
+T-Freq				Off	852312500	2	Srch
+T-Freq				Off	852675000	3	Srch
+T-Freq				Off	853212500	4	Srch
+T-Freq				Off	853687500	5	Srch
+T-Freq				Off	857712500	6	Srch
+T-Freq				Off	859437500	7	Srch
+Site			Warrenton	On	36.436940	-78.124560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	853087500	1	Srch
+T-Freq				Off	852837500	2	Srch
+T-Freq				Off	853400000	3	Srch
+T-Freq				Off	851937500	4	Srch
+T-Freq				Off	851662500	5	Srch
+T-Freq				Off	851212500	6	Srch
+Site			Wauchecha Bald	On	35.386390	-83.772670	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853987500	1	Srch
+T-Freq				Off	853687500	2	Srch
+T-Freq				Off	852700000	3	Srch
+T-Freq				Off	852375000	4	Srch
+T-Freq				Off	851537500	5	Srch
+Site			Waxhaw AAA	On	34.887500	-80.783611	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	858612500	1	Srch
+T-Freq				Off	857612500	2	Srch
+T-Freq				Off	852762500	3	Srch
+T-Freq				Off	852050000	4	Srch
+T-Freq				Off	851400000	5	Srch
+Site			Wendell	On	35.780987	-78.369721	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	769806250	1	Srch
+T-Freq				Off	770056250	2	Srch
+T-Freq				Off	770856250	3	Srch
+T-Freq				Off	771206250	4	Srch
+T-Freq				Off	771506250	5	Srch
+T-Freq				Off	771856250	6	Srch
+T-Freq				Off	772206250	7	Srch
+T-Freq				Off	772481250	8	Srch
+T-Freq				Off	772731250	9	Srch
+T-Freq				Off	774481250	10	Srch
+Site			Wentworth	On	36.397920	-79.771140	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F3	Global
+T-Freq				Off	774656250	1	Srch
+T-Freq				Off	772731250	2	Srch
+T-Freq				Off	771793750	3	Srch
+T-Freq				Off	771281250	4	Srch
+T-Freq				Off	771031250	5	Srch
+T-Freq				Off	773481250	6	Srch
+T-Freq				Off	772993750	7	Srch
+T-Freq				Off	770406250	8	Srch
+Site			White Fawn	On	35.582690	-82.547190	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853825000	1	Srch
+T-Freq				Off	852962500	2	Srch
+T-Freq				Off	852687500	3	Srch
+T-Freq				Off	851937500	4	Srch
+T-Freq				Off	851712500	5	Srch
+T-Freq				Off	851562500	6	Srch
+T-Freq				Off	854637500	7	Srch
+Site			Whiteville	On	34.335560	-78.753060	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851112500	1	Srch
+T-Freq				Off	851475000	2	Srch
+T-Freq				Off	851937500	3	Srch
+T-Freq				Off	852687500	4	Srch
+T-Freq				Off	853625000	5	Srch
+Site			Williamston	On	35.838060	-77.093890	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853587500	1	Srch
+T-Freq				Off	860487500	2	Srch
+T-Freq				Off	859487500	3	Srch
+T-Freq				Off	858487500	4	Srch
+T-Freq				Off	856987500	5	Srch
+T-Freq				Off	854087500	6	Srch
+T-Freq				Off	856137500	7	Srch
+T-Freq				Off	859987500	8	Srch
+T-Freq				Off	855487500	9	Srch
+T-Freq				Off	853612500	10	Srch
+Site			Wilmington Fredrickson Rd	On	34.285833	-77.975278	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853587500	1	Srch
+T-Freq				Off	853125000	2	Srch
+T-Freq				Off	852812500	3	Srch
+T-Freq				Off	852325000	4	Srch
+T-Freq				Off	852062500	5	Srch
+T-Freq				Off	851637500	6	Srch
+T-Freq				Off	851375000	7	Srch
+T-Freq				Off	851125000	8	Srch
+Site			Wilson	On	35.709280	-77.929780	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F2	Global
+T-Freq				Off	774693750	1	Srch
+T-Freq				Off	773993750	2	Srch
+T-Freq				Off	773481250	3	Srch
+T-Freq				Off	773243750	4	Srch
+T-Freq				Off	772843750	5	Srch
+T-Freq				Off	772443750	6	Srch
+T-Freq				Off	771743750	7	Srch
+T-Freq				Off	770293750	8	Srch
+Site			Windsor	Off	36.063580	-76.973720	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	857987500	1	Srch
+T-Freq				Off	855237500	2	Srch
+T-Freq				Off	853875000	3	Srch
+T-Freq				Off	852875000	4	Srch
+T-Freq				Off	852412500	5	Srch
+T-Freq				Off	851537500	6	Srch
+T-Freq				Off	851037500	7	Srch
+T-Freq				Off	853825000	8	Srch
+Site			Wine Springs	On	35.173417	-83.580864	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853875000	1	Srch
+T-Freq				Off	853112500	2	Srch
+T-Freq				Off	852337500	3	Srch
+T-Freq				Off	851387500	4	Srch
+T-Freq				Off	851137500	5	Srch
+T-Freq				Off	851925000	6	Srch
+T-Freq				Off	855737500	7	Srch
+Site			Winfall	Off	36.212500	-76.444170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774668750	1	Srch
+T-Freq				Off	773943750	2	Srch
+T-Freq				Off	772681250	3	Srch
+T-Freq				Off	772206250	4	Srch
+T-Freq				Off	771431250	5	Srch
+T-Freq				Off	770606250	6	Srch
+T-Freq				Off	769256250	7	Srch
+T-Freq				Off	774806250	8	Srch
+Site			Wingate	On	34.978330	-80.466940	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853562500	1	Srch
+T-Freq				Off	852300000	2	Srch
+T-Freq				Off	851925000	3	Srch
+T-Freq				Off	851550000	4	Srch
+T-Freq				Off	851250000	5	Srch
+Site			Winston Salem State University	On	36.099860	-80.244216	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	856737500	1	Srch
+T-Freq				Off	855987500	2	Srch
+T-Freq				Off	853950000	3	Srch
+T-Freq				Off	853487500	4	Srch
+T-Freq				Off	852987500	5	Srch
+T-Freq				Off	852550000	6	Srch
+T-Freq				Off	852212500	7	Srch
+Site			Woodys Knob	On	35.879830	-82.104560	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774381250	1	Srch
+T-Freq				Off	774131250	2	Srch
+T-Freq				Off	772256250	3	Srch
+T-Freq				Off	771968750	4	Srch
+T-Freq				Off	771643750	5	Srch
+T-Freq				Off	771193750	6	Srch
+T-Freq				Off	770793750	7	Srch
+Site			Yadkin Rest Area I77	On	36.150136	-80.666453	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	853800000	1	Srch
+T-Freq				Off	853687500	2	Srch
+T-Freq				Off	852712500	3	Srch
+T-Freq				Off	852062500	4	Srch
+T-Freq				Off	851837500	5	Srch
+T-Freq				Off	851487500	6	Srch
+Site			Yadkinville	On	36.120470	-80.633440	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
+T-Freq				Off	772968750	1	Srch
+T-Freq				Off	772243750	2	Srch
+T-Freq				Off	771993750	3	Srch
+T-Freq				Off	771718750	4	Srch
+T-Freq				Off	771443750	5	Srch
+Site			Yanceyville	On	36.430970	-79.321310	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F1	Global
+T-Freq				Off	853975000	1	Srch
+T-Freq				Off	852800000	2	Srch
+T-Freq				Off	852375000	3	Srch
+T-Freq				Off	851687500	4	Srch
+T-Freq				Off	851225000	5	Srch
+Site			Youngsville	On	36.065580	-78.490170	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	774831250	1	Srch
+T-Freq				Off	774581250	2	Srch
+T-Freq				Off	772981250	3	Srch
+T-Freq				Off	772531250	4	Srch
+T-Freq				Off	770181250	5	Srch
+T-Freq				Off	769931250	6	Srch
+T-Freq				Off	769156250	7	Srch
+T-Group			Currituck County	Off	36.312659	-75.937143	25.0	Circle	8
+TGID			Common	Off	14013	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	14003	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriff Admin	Off	14007	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriff Dispatch	Off	14004	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriff Investigations	Off	14008	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriff Special Ops	Off	14009	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 1	Off	14005	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 2	Off	14014	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 3	Off	14015	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 4	Off	14016	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Bertie County	Off	36.066825	-76.966344	25.0	Circle	3
+TGID			Mutual Aid	Off	4903	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	4904	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			SRO	Off	4907	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tactical 1	Off	4908	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tactical 2	Off	4909	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tactical 3	Off	4910	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tactical 4	Off	4911	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Hertford County	Off	36.350155	-76.983015	25.0	Circle	2
+TGID			Hertford County Mutual Aid	Off	23503	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Hertford County Sheriff	Off	23504	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Hertford County TAC	Off	23505	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Gates County	Off	36.433487	-76.699675	25.0	Circle	1
+TGID			Mutual Aid	Off	19000	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	19004	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Special	Off	19007	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Administration	Off	19005	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Investigations	Off	19006	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac	Off	19008	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 2	Off	19009	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 3	Off	19010	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 4	Off	19011	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Pasquotank County	Off	36.300156	-76.282992	25.0	Circle	6
+TGID			Mutual Aid	Off	35518	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Elizabeth City Police	Off	35541	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Elizabeth City State Univ PD	Off	51549	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	35516	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Elizabeth City Police Operations	Off	35542	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Elizabeth City Special Operations	Off	35543	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden  Animal Control	Off	35500	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Operations	Off	35517	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Common	Off	35501	ALL	1	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden EMS Dispatch	Off	35505	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 1	Off	35504	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 3	Off	35506	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 4	Off	35507	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 5	Off	35508	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 6	Off	35509	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 7	Off	35510	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 8	Off	35511	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Pasquotank Camden FMAR	Off	35502	ALL	21	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Chowan County	Off	36.150158	-76.649668	25.0	Circle	4
+TGID			County Common	Off	11000	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 1	Off	11012	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 2	Off	11013	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac 3	Off	11014	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Administration	Off	11009	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Investigations	Off	11010	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Narcotics	Off	11011	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	11008	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	11007	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Perquimans County	Off	36.216824	-76.449663	25.0	Circle	5
+TGID			County Tac	Off	36505	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	36504	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	36500	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Camden County	Off	36.366822	-76.182988	25.0	Circle	7
+TGID			Sheriffs Office Operations	Off	35530	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Tac	Off	35512	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office	Off	35529	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	8000	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Bertie	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Bertie County	Off	36.066825	-76.966344	30.0	Circle	Off	Global
+C-Freq			Sheriff Dispatch - Patched to VIPER	Off	155670000	NFM	TONE=C107.2	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff: Private	Off	155645000	NFM	TONE=C107.2	7	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Hertford	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Hertford County	Off	36.350155	-76.983015	30.0	Circle	0	Global
+C-Freq			Sheriff 2	Off	154115000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff 3	Off	155970000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	154740000	NFM	TONE=C203.5	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Towns - Ahoskie	Off	36.286822	-76.984681	4.0	Circle	1	Global
+C-Freq			Police Dispatch	Off	155430000	AUTO	RAN=52	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police Tac 2	Off	154785000	AUTO	RAN=52	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Towns - Murfreesboro	Off	36.442375	-77.098575	4.0	Circle	2	Global
+C-Freq			 Police Tac 2	Off	156225000	FM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police Dispatch	Off	155610000	FM	TONE=C203.5	2	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Gates	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Gates County	Off	36.433487	-76.699675	30.0	Circle	Off	Global
+C-Freq			Sheriff Dispatch	Off	154355000	NFM	TONE=C233.6	2	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Pasquotank	Off		Conventional	6	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Pasquotank County - Pasquotank, County	Off	36.309592	-76.297302	18.2	Circle	Off	Global
+C-Freq			Pasquotank County Sheriff Dispatch	Off	460075000	NFM	TONE=C110.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Pasquotank UHF Public Safety	Off	453625000	NFM	TONE=C110.9	29	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Pasquotank VHF Public Safety	Off	151115000	NFM	TONE=C118.8	29	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Chowan	Off		Conventional	4	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Chowan County	Off	36.165000	-76.604000	12.6	Circle	0	Global
+C-Freq			Sheriff (backup to VIPER)	Off	155370000	NFM	TONE=C146.2	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Chowan County - Edenton	Off	36.057938	-76.607721	5.0	Circle	1	Global
+C-Freq			Police	Off	856762500	NFM	NAC=3A4	2	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Perquimans	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Perquimans County	Off	36.216824	-76.449663	15.0	Circle	Off	Global
+C-Freq			Perquimans County Sheriff Dispatch - Depreciated to VIPER	Off	460175000	NFM	TONE=C173.8	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Perquimans County Sheriff Mutual Aid	Off	460375000	NFM	TONE=C173.8	23	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Camden	Off		Conventional	7	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Camden County	Off	36.328490	-76.171876	30.0	Circle	Off	Global
+C-Freq			Sheriff Ch. 1 (Now on VIPER)	Off	460300000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Tactical	Off	458850000	FM	TONE=C110.9	7	Off	2	0	Off	Auto	Off	On	Off	Off
