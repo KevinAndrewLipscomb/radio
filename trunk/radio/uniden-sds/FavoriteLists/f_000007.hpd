@@ -1,10 +1,10 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
-Conventional			Common/Shared	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			Common/Shared	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Law Enforcement - Statewide	Off	38.376115	-79.650879	256.3	Circle	Off	Global
 C-Freq			Statewide Interagency Radio System (SIRS)	Off	39540000	FM		11	Off	2	0	Off	Auto	Off	On	Off	Off
-Trunk			Virginia Statewide Agencies Radio System (STARS)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Abingdon	On	36.767835	-81.953482	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
 T-Freq				Off	161850000	1	Srch
@@ -380,7 +380,7 @@ T-Freq				Off	159307500	4	Srch
 T-Freq				Off	159382500	5	Srch
 T-Freq				Off	159232500	6	Srch
 T-Freq				Off	159442500	7	Srch
-T-Group			Chesapeake Bay Bridge Tunnel	Off	37.405074	-79.475098	238.3	Circle	2
+T-Group			Chesapeake Bay Bridge Tunnel	Off	37.405074	-79.475098	238.3	Circle	3
 TGID			Police Dispatch	Off	6733	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police Tac	Off	6734	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			Virginia State Police	Off	37.405074	-79.475098	238.3	Circle	1
@@ -402,23 +402,31 @@ TGID			Surveillance 5A	Off	61	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Surveillance 5B	Off	62	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Surveillance 5C	Off	63	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Tac Team 5	Off	64	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-Conventional			Virginia State Police	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			Virginia State Police	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Virginia State Police	Off	38.255436	-79.299317	243.9	Circle	Off	Global
+C-Group			Virginia State Police	Off	38.255436	-79.299317	243.9	Circle	1	Global
 C-Freq			Executive Protection Unit (Encryption may be used)	Off	154680000	NFM	TONE=C114.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Surveillance/Car-to-Car	Off	154695000	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Tactical/Car-to-Car	Off	154665000	NFM		7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-Conventional			Virginia State Police DVRS	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			Virginia State Police DVRS	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Statewide DVRS - Statewide	Off	38.066667	-79.416667	254.5	Circle	Off	Global
+C-Group			Statewide DVRS - Statewide	Off	38.066667	-79.416667	254.5	Circle	1	Global
 C-Freq			Simplex only (Direct)	Off	765693750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
 C-Freq			Vehicle Repeater 14 (VCALL/VTAC/VFIRE/VMED/VLAW/VMED)	Off	764668750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
 C-Freq			Vehicle Repeater 26 (Division 5 - Chesapeake)	Off	765168750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
 C-Freq			Vehicle Repeater 30 (EPU)	Off	765218750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-Conventional			Department of Transportation	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			Department of Transportation	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			District 5 - Hampton Roads	Off	37.892196	-78.530273	153.9	Circle	Off	Global
-C-Freq			Hampton Roads Bridge-Tunnel	Off	453850000	AUTO	ColorCode=2	14	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Monitor Merrimac Bridge-Tunnel/James River Bridge Primary	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Monitor Merrimac Bridge-Tunnel/James River Bridge Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			District 5 - Hampton Roads	Off	37.892197	-78.530272	153.9	Circle	2	Global
+C-Freq			HRBT	Off	453850000	AUTO	ColorCode=2	14	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MMBT/JRB Primary	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MMBT/JRB Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Tunnels	Off	47340000	FM	TONE=C77.0	14	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Citizens Band (CB)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
