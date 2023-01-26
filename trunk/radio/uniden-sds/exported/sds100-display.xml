@@ -19,7 +19,7 @@
         <Item Name="System option" Option="SiteName" Text="ff4600" Back="000000" />
         <Item Name="Avoid" Text="ff4600" Back="000000" />
         <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="ServiceType" Text="ff8800" Back="000000" />
+        <Item Name="Department option" Option="Empty" Text="ff8800" Back="000000" />
         <Item Name="Avoid" Text="ff8800" Back="000000" />
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
@@ -61,7 +61,7 @@
         <Item Name="System option" Option="SiteName" Text="ff4600" Back="000000" />
         <Item Name="Avoid" Text="ff4600" Back="000000" />
         <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="ServiceType" Text="ff8800" Back="000000" />
+        <Item Name="Department option" Option="Empty" Text="ff8800" Back="000000" />
         <Item Name="Avoid" Text="ff8800" Back="000000" />
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="TGID" Text="ffd600" Back="000000" />
@@ -105,7 +105,7 @@
         <Item Name="System option" Option="SiteName" Text="ff4600" Back="000000" />
         <Item Name="Avoid" Text="ff4600" Back="000000" />
         <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="ServiceType" Text="ff8800" Back="000000" />
+        <Item Name="Department option" Option="Empty" Text="ff8800" Back="000000" />
         <Item Name="Avoid" Text="ff8800" Back="000000" />
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
@@ -157,7 +157,7 @@
         <Item Name="System option" Option="SiteName" Text="ff4600" Back="000000" />
         <Item Name="Avoid" Text="ff4600" Back="000000" />
         <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="ServiceType" Text="ff8800" Back="000000" />
+        <Item Name="Department option" Option="Empty" Text="ff8800" Back="000000" />
         <Item Name="Avoid" Text="ff8800" Back="000000" />
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="TGID" Text="ffd600" Back="000000" />
