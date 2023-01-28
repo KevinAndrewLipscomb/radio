@@ -2,26 +2,26 @@ TargetModel	BCDx36HP
 FormatVersion	1.00
 Conventional			Virginia Beach	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off
-C-Group			Lifeguards - Sandbridge Lifeguards	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Group			Lifeguards - Sandbridge Lifeguards	Off	36.700000	-76.033631	17.0	Circle	2	Global
 C-Freq			Lifeguards	Off	154295000	NFM	TONE=C141.3	25	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Group			Lifeguards - Virginia Beach Lifesaving Service	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Group			Lifeguards - Virginia Beach Lifesaving Service	Off	36.700000	-76.033631	17.0	Circle	2	Global
 C-Freq			Lifeguards	Off	151010000	NFM	TONE=C156.7	25	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Group			Virginia Beach City - Virginia Beach 800 MHz Talk-Around	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Group			Virginia Beach City - Virginia Beach 800 MHz Talk-Around	Off	36.700000	-76.033631	17.0	Circle	1	Global
 C-Freq			Fire Talk Around	Off	854487500	FM	TONE=D023	24	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Group			Virginia Beach City - Virginia Beach DVRS	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Group			Virginia Beach City - Virginia Beach DVRS	Off	36.700000	-76.033631	17.0	Circle	1	Global
 C-Freq			DVRS 13	Off	774373750	NFM	NAC=293	9	Off	2	0	Off	Auto	Off	On	Off	Off
 Conventional			Common/Shared	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Fire/EMS - Statewide	Off	38.376114	-79.650878	256.3	Circle	Off	Global
 C-Freq			EMS/Medevac Scene of Action Statewide	Off	155205000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
 Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
-DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-Site			ORION-1	On	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global
 T-Freq				Off	773531250	2	Srch
 T-Freq				Off	773806250	3	Srch
 T-Freq				Off	774081250	4	Srch
 T-Freq				Off	774331250	5	Srch
-Site			ORION-3	On	37.416808	-76.549675	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+Site			ORION-3	Off	37.416808	-76.549675	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
 T-Freq				Off	773581250	2	Srch
 T-Freq				Off	774031250	3	Srch
 T-Freq				Off	774306250	4	Srch

@@ -1,8 +1,8 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
 Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
-DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global
 T-Freq				Off	773531250	2	Srch
 T-Freq				Off	773806250	3	Srch
 T-Freq				Off	774081250	4	Srch
@@ -28,8 +28,8 @@ TGID			Tac 4	Off	1324	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Tac 5	Off	1325	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Tac 6	Off	1326	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
 Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
-DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global
 T-Freq				Off	773531250	2	Srch
 T-Freq				Off	773806250	3	Srch
 T-Freq				Off	774081250	4	Srch
