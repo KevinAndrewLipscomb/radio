@@ -1,0 +1,156 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore		1	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	On	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			ORION-1	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	9	1E0	Global
+T-Freq				Off	773531200	0	Srch
+T-Freq				Off	773806200	0	Srch
+T-Freq				Off	774081200	0	Srch
+T-Freq				Off	774331200	0	Srch
+Site			ORION-3	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773581200	0	Srch
+T-Freq				Off	774031200	0	Srch
+T-Freq				Off	774306200	0	Srch
+T-Freq				Off	774531200	0	Srch
+Site			ORION-2-VB	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+BandPlan_P25		851006250	6250	762006250	6250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	859462500	0	Srch
+T-Freq				Off	859712500	0	Srch
+T-Freq				Off	860462500	0	Srch
+T-Freq				Off	860712500	0	Srch
+T-Group			Virginia Beach Fire/EMS	Off	36.847080	-76.284388	50.0	Circle	1
+TGID			EMS Command	Off	1246	ALL	4	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Medevac	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Other Medevac	Off	38.066667	-79.416667	254.5	Circle	Off	Global
+C-Freq			Sentara Nightingale	Off	462950000	NFM	TONE=C100.0	25	Off	2	0	Off	Auto	Off	On	Off	Off
+Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore		Off	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			ORION-1	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	9	1E0	Global
+T-Freq				Off	773531200	0	Srch
+T-Freq				Off	773806200	0	Srch
+T-Freq				Off	774081200	0	Srch
+T-Freq				Off	774331200	0	Srch
+Site			ORION-3	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773581200	0	Srch
+T-Freq				Off	774031200	0	Srch
+T-Freq				Off	774306200	0	Srch
+T-Freq				Off	774531200	0	Srch
+Site			ORION-2-VB	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+BandPlan_P25		851006250	6250	762006250	6250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	859462500	0	Srch
+T-Freq				Off	859712500	0	Srch
+T-Freq				Off	860462500	0	Srch
+T-Freq				Off	860712500	0	Srch
+T-Group			All	Off	36.847080	-76.284388	50.0	Circle	Off
+TGID			Nightingale Dispatch	Off	1452	ALL	4	2	0	Off	Auto	Off	On	Off	Off	Any
+Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore		2	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			Simulcast	Off	36.846813	-76.285217	25.0	AUTO			Circle	Off	400	Auto	8	Off	461	Global
+T-Freq				Off	854162500	0	Srch
+T-Freq				Off	855237500	0	Srch
+T-Freq				Off	855487500	0	Srch
+T-Freq				Off	855737500	0	Srch
+T-Freq				Off	856237500	0	Srch
+T-Freq				Off	856637500	0	Srch
+T-Freq				Off	856987500	0	Srch
+T-Freq				Off	857237500	0	Srch
+T-Freq				Off	857512500	0	Srch
+T-Freq				Off	857987500	0	Srch
+T-Freq				Off	858237500	0	Srch
+T-Freq				Off	858662500	0	Srch
+T-Freq				Off	858712500	0	Srch
+T-Freq				Off	858987500	0	Srch
+T-Freq				Off	859237500	0	Srch
+T-Freq				Off	859987500	0	Srch
+T-Group			Fire/EMS	Off	36.846813	-76.285217	25.0	Circle	Off
+TGID			Tac 2 (EMS Ops)	Off	647	ALL	9	2	0	Off	Auto	Off	On	Off	Off	Any
+Trunk			Chesapeake	Off		P25Standard	Off	Off	Auto	Ignore		3	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			Simulcast	Off	36.668418	-76.289063	35.0	AUTO			Circle	Off	400	Auto	8	Off	293	Global
+T-Freq				Off	769281200	0	Srch
+T-Freq				Off	770118700	0	Srch
+T-Freq				Off	770368700	0	Srch
+T-Freq				Off	771068700	0	Srch
+T-Freq				Off	771406200	0	Srch
+T-Freq				Off	771681200	0	Srch
+T-Freq				Off	772068700	0	Srch
+T-Freq				Off	772656200	0	Srch
+T-Freq				Off	772906200	0	Srch
+T-Freq				Off	773181200	0	Srch
+T-Freq				Off	773456200	0	Srch
+T-Freq				Off	773706200	0	Srch
+T-Freq				Off	773968700	0	Srch
+T-Freq				Off	774206200	0	Srch
+T-Freq				Off	774631200	0	Srch
+T-Freq				Off	774918700	0	Srch
+T-Group			Fire/EMS	Off	36.668418	-76.289063	35.0	Circle	Off
+TGID			Dispatch	Off	401	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Chesapeake City - Conventional	Off	36.668418	-76.289062	35.0	Circle	Off	Global
+C-Freq			Fire Dispatch (Backup)	Off	155130000	NFM	TONE=C85.4	3	Off	2	0	Off	Auto	Off	On	Off	Off
+Trunk			Portsmouth (P25)	Off		P25Standard	Off	Off	Auto	Ignore		4	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			Simulcast	Off	0.000000	-0.000000	0.0	AUTO			Circle	Off	400	Auto	8	Off	9C1	Global
+T-Freq				Off	855937500	0	Srch
+T-Freq				Off	856212500	0	Srch
+T-Freq				Off	856962500	0	Srch
+T-Freq				Off	857212500	0	Srch
+T-Freq				Off	858212500	0	Srch
+T-Freq				Off	858962500	0	Srch
+T-Freq				Off	859212500	0	Srch
+T-Freq				Off	859962500	0	Srch
+T-Group			Fire, Rescue, and Emergency Services	Off	0.000000	-0.000000	0.0	Circle	Off
+TGID			Dispatch	Off	1009	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Suffolk	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Suffolk City - Suffolk	Off	0.000000	-0.000000	0.0	Circle	Off	Global
+C-Freq			Suffolk Fire/EMS Dispatch	Off	154385000	FM	TONE=C233.6	3	Off	2	0	Off	Auto	Off	On	Off	Off
+Trunk			Suffolk / Isle of Wight / Gloucester / James City / York	Off		P25Standard	Off	Off	Auto	Ignore		5	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			Gloucester Simulcast	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	644	Global
+T-Freq				Off	851175000	0	Srch
+T-Freq				Off	851612500	0	Srch
+T-Freq				Off	852537500	0	Srch
+T-Freq				Off	853100000	0	Srch
+T-Freq				Off	853437500	0	Srch
+T-Freq				Off	853887500	0	Srch
+Site			Isle of Wight Simulcast	On	36.883482	-76.699677	25.0	AUTO			Circle	Off	400	Auto	8	Off	642	Global
+T-Freq				Off	856612500	0	Srch
+T-Freq				Off	857587500	0	Srch
+T-Freq				Off	858562500	0	Srch
+T-Freq				Off	859112500	0	Srch
+T-Freq				Off	859637500	0	Srch
+Site			Suffolk Simulcast	Off	36.733280	-76.589138	23.0	AUTO			Circle	Off	400	Auto	8	Off	641	Global
+T-Freq				Off	856562500	0	Srch
+T-Freq				Off	857562500	0	Srch
+T-Freq				Off	858112500	0	Srch
+T-Freq				Off	859612500	0	Srch
+T-Freq				Off	851287500	0	Srch
+T-Freq				Off	856112500	0	Srch
+T-Freq				Off	857762500	0	Srch
+T-Freq				Off	858437500	0	Srch
+T-Freq				Off	858762500	0	Srch
+Site			York Simulcast	On	37.233477	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	643	Global
+T-Freq				Off	851250000	0	Srch
+T-Freq				Off	851375000	0	Srch
+T-Freq				Off	852125000	0	Srch
+T-Freq				Off	852175000	0	Srch
+T-Freq				Off	852325000	0	Srch
+T-Freq				Off	852350000	0	Srch
+T-Freq				Off	852375000	0	Srch
+T-Freq				Off	852600000	0	Srch
+T-Freq				Off	852775000	0	Srch
+T-Freq				Off	852850000	0	Srch
+T-Freq				Off	852875000	0	Srch
+T-Freq				Off	852900000	0	Srch
+T-Freq				Off	853275000	0	Srch
+T-Freq				Off	853362500	0	Srch
+T-Freq				Off	853400000	0	Srch
+T-Freq				Off	853525000	0	Srch
+T-Freq				Off	853575000	0	Srch
+T-Freq				Off	853662500	0	Srch
+T-Freq				Off	853775000	0	Srch
+T-Group			Suffolk Fire	Off	36.733280	-76.589138	23.0	Circle	Off
+TGID			Dispatch 2	Off	1105	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any

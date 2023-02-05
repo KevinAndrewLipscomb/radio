@@ -1,0 +1,81 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore		Off	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			ORION-1	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	9	1E0	Global
+T-Freq				Off	773531200	0	Srch
+T-Freq				Off	773806200	0	Srch
+T-Freq				Off	774081200	0	Srch
+T-Freq				Off	774331200	0	Srch
+Site			ORION-3	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773581200	0	Srch
+T-Freq				Off	774031200	0	Srch
+T-Freq				Off	774306200	0	Srch
+T-Freq				Off	774531200	0	Srch
+Site			ORION-2-VB	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+BandPlan_P25		851006250	6250	762006250	6250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	859462500	0	Srch
+T-Freq				Off	859712500	0	Srch
+T-Freq				Off	860462500	0	Srch
+T-Freq				Off	860712500	0	Srch
+T-Group			Virginia Beach Police	Off	36.847080	-76.284388	50.0	Circle	Off
+TGID			15 Emergency 15	Off	1229	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Virginia Beach Fire/EMS	Off	36.847080	-76.284388	50.0	Circle	Off
+TGID			Hospital Spare	Off	1271	ALL	12	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Virginia Beach Emergency Management	Off	36.847080	-76.284388	50.0	Circle	Off
+TGID			Tac 2	Off	1322	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 3	Off	1323	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 4	Off	1324	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 5	Off	1325	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 6	Off	1326	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore		Off	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+Site			ORION-1	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	9	1E0	Global
+T-Freq				Off	773531200	0	Srch
+T-Freq				Off	773806200	0	Srch
+T-Freq				Off	774081200	0	Srch
+T-Freq				Off	774331200	0	Srch
+Site			ORION-3	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773581200	0	Srch
+T-Freq				Off	774031200	0	Srch
+T-Freq				Off	774306200	0	Srch
+T-Freq				Off	774531200	0	Srch
+Site			ORION-2-VB	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
+BandPlan_P25		851006250	6250	762006250	6250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	859462500	0	Srch
+T-Freq				Off	859712500	0	Srch
+T-Freq				Off	860462500	0	Srch
+T-Freq				Off	860712500	0	Srch
+T-Group			All	Off	36.847080	-76.284388	50.0	Circle	Off
+TGID			Police 1	Off	1201	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Police 2	Off	1202	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Police 3	Off	1203	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Emergency Management	Off	1244	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			E1	Off	1261	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			E2	Off	1262	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Incident Command 1	Off	1401	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Incident Command 2	Off	1402	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Incident Command 3	Off	1403	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Administration 1	Off	1404	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Administration 2	Off	1405	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Administration 3	Off	1406	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Logistics Ops 1	Off	1407	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Logistics Ops 2	Off	1408	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Logistics Ops 3	Off	1409	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 1	Off	1410	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 2	Off	1411	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 3	Off	1412	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 4	Off	1413	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 5	Off	1414	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 6	Off	1415	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 7	Off	1416	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 8	Off	1417	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 9	Off	1418	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 10	Off	1419	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Planning 1	Off	1420	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Planning 2	Off	1421	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Finance 1	Off	1422	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Finance 2	Off	1423	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Commonwealth of Virginia 1 (inter-system patch)	Off	1424	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Commonwealth of Virginia 2 (inter-system patch)	Off	1425	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Commonwealth of Virginia 3 (inter-system patch)	Off	1426	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any

@@ -1,0 +1,127 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Common Aviation - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Aviation	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Aircraft Emergency and Distress (VHF Guard)	Off	121500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Common Military - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Common - Aeronautical	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Emergency/Guard UHF	On	243000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Common/Shared	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Fire/EMS - Statewide	Off	38.376115	-79.650877	256.3	Circle	Off	Global
+C-Freq			EMS/Medevac Scene of Action Statewide	Off	155205000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HEAR280/Statewide Disaster	Off	155280000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Citizens Band (CB) - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Citizens Band (CB)	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Channel 09 - Emergency	On	27065000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			National Interoperability - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			NIFOG - VHF Low Band	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			LLAW 1 - Law Enforcement	Off	39460000	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LFIRE 2 - Fire	Off	39480000	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LLAW 3 - Law Enforcement	Off	45860000	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LFIRE 4 - Fire	Off	45880000	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - VHF National Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			VTAC11/36 - Tactical/Repeater	Off	151137500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC12/37 - Tactical/Repeater	Off	154452500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VCALL10 - Calling	Off	155752500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC13/38 - Tactical/Repeater	Off	158737500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC34 - Tactical/Repeater	Off	158737500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC14/33 - Tactical/Repeater	Off	159472500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC35 - Tactical/Repeater	Off	159472500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VTAC17 - Tactical	Off	161850000	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - VHF Federal Law Enforcement Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			LE 1/LE A Tactical/Calling	Off	167087500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE 2/LE 6 Tactical	Off	167250000	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE 3/LE 7 Tactical	Off	167750000	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE 4/LE 8 Tactical	Off	168112500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE 5/LE 9 Tactical	Off	168462500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - VHF Federal Incident Response Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			IR 1/IR 6 Incident Command	Off	170012500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR 2/IR 7 Medical Evacuation Control	Off	170412500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR 3/IR 8 Logistics Control	Off	170687500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR 4/IR 9 Interagency Convoy	Off	173037500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NC 1/IR 5 Incident Calling	Off	169537500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - UHF National Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			UCALL40 - Calling	Off	453212500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UTAC41 - Tactical	Off	453462500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UTAC42 - Tactical	Off	453712500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UTAC43 - Tactical	Off	453862500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - UHF Federal Law Enforcement Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			LE B - Calling	Off	414037500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE10/LE16 - Tactical	Off	409987500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE11/LE17 - Tactical	Off	410187500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE12/LR18 - Tactical	Off	410612500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE13 - Tactical	Off	414062500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE14 - Tactical	Off	414312500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LE15 - Tactical	Off	414337500	NFM	NAC=68F	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - UHF Federal Incident Response Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			IR10/IR16 - Ad hoc assignment	Off	410437500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR11/IR17 - Ad hoc assignment	Off	410637500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR12/IR18 - SAR Incident Command	Off	410837500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR13 - Ad hoc assignment	Off	413187500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			IR14 - Interagency Convoy	Off	413212500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NC2/IR15 - Calling	Off	410237500	NFM	TONE=C167.9	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - 800 MHz National Mutual Aid	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			8CALL90 - Calling	Off	851012500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8CALL90 - Calling - Direct	Off	851012500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC91 - Tactical	Off	851512500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC91 - Tactical - Direct	Off	851512500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC92 - Tactical	Off	852012500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC92 - Tactical - Direct	Off	852012500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC93 - Tactical	Off	852512500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC93 - Tactical - Direct	Off	852512500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC94 - Tactical	Off	853012500	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8TAC94 - Tactical - Direct	Off	853012500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			NIFOG - 700 MHz National Interoperability	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
+C-Freq			7CALL50 - Primary Calling	Off	769243700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7CALL70 - Secondary Calling	Off	773256200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7DATA69 - Mobile Data	Off	770743700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7DATA89 - Mobile Data	Off	774756200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7FIRE63 - Fire	Off	769893700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7FIRE64 - Fire	Off	769993700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7FIRE83 - Fire	Off	773506200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7FIRE84 - Fire	Off	773856200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7GTAC57 - Other Public Service	Off	770993700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7GTAC77 - Other Public Service	Off	774856200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7LAW61 - Law Enforcement	Off	770393700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7LAW62 - Law Enforcement	Off	770493700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7LAW81 - Law Enforcement	Off	774006200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7LAW82 - Law Enforcement	Off	774356200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MED65 - EMS	Off	769393700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MED66 - EMS	Off	769493700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MED86 - EMS	Off	773006200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MED87 - EMS	Off	773356200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MOB59 - Mobile Repeater	Off	770893700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7MOB79 - Mobile Repeater	Off	774506200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC51 - General Public Safety	Off	769143700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC52 - General Public Safety	Off	769643700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC53 - General Public Safety	Off	770143700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC54 - General Public Safety	Off	770643700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC55 - General Public Safety	Off	769743700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC56 - General Public Safety	Off	770243700	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC71 - General Public Safety	Off	773106200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC72 - General Public Safety	Off	773606200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC73 - General Public Safety	Off	774106200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC74 - General Public Safety	Off	774606200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC75 - General Public Safety	Off	773756200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7TAC76 - General Public Safety	Off	774256200	NFM	NAC=293	11	Off	2	0	Off	Auto	Off	On	Off	Off

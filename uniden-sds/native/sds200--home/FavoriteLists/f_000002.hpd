@@ -1,0 +1,23 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Common Aviation - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Aviation	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Aircraft Emergency and Distress (VHF Guard)	Off	121500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Helicopter Air-to-Air	Off	123025000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Common Military - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Common - Aeronautical	Off	0.000000	-0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Emergency/Guard UHF	On	243000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Businesses	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+C-Group			Media	Off	36.700000	-76.033630	17.0	Circle	Off	Global
+C-Freq			Metro Traffic	Off	450550000	FM	TONE=C141.3	31	Off	2	0	Off	Auto	Off	On	Off	Off
