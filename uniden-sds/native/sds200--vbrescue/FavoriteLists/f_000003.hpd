@@ -43,7 +43,7 @@ TGID			Dispatch	Off	646	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Chesapeake City - Conventional	Off	36.668419	-76.289063	35.0	Circle	Off	Global
-C-Freq			Fire Dispatch (Backup)	Off	155130000	NFM	TONE=C85.4	3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Fire Dispatch (Backup)	Off	155130000	NFM	TONE=C85.4	3	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Chesapeake	Off		P25Standard	Off	Off	Auto	Ignore	Srch	3	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	36.668419	-76.289063	35.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	293	Global
@@ -81,7 +81,7 @@ TGID			Dispatch	Off	1009	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Suffolk	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Suffolk City - Suffolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
-C-Freq			Suffolk Fire/EMS Dispatch	Off	154385000	FM	TONE=C233.6	3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Suffolk Fire/EMS Dispatch	Off	154385000	FM	TONE=C233.6	3	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Suffolk / Isle of Wight / Gloucester / James City / York	Off		P25Standard	Off	Off	Auto	Ignore	Srch	5	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Gloucester Simulcast	On	37.416808	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	644	Global

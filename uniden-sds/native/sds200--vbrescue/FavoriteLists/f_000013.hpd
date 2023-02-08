@@ -3,57 +3,57 @@ FormatVersion	1.00
 Conventional			Southampton	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Southampton County - Southampton	Off	36.733483	-77.099687	25.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch	Off	156202500	FM	TONE=C131.8	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac	Off	156022500	FM		7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	156202500	FM	TONE=C131.8	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac	Off	156022500	FM		7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Isle Of Wight	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Isle Of Wight County - Isle of Wight	Off	36.883483	-76.699679	25.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch	Off	159210000	FM	TONE=C127.3	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tactical	Off	158730000	FM	TONE=C127.3	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Simplex 1	Off	858187500	NFM	TONE=D115	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Simplex 2	Off	859512500	NFM	TONE=D115	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	159210000	FM	TONE=C127.3	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tactical	Off	158730000	FM	TONE=C127.3	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Simplex 1	Off	858187500	NFM	TONE=D115	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Simplex 2	Off	859512500	NFM	TONE=D115	11	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Sussex	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Sussex County - Sussex	Off	36.933483	-77.249693	25.0	Circle	Off	Global
-C-Freq			Sheriff	Off	155227500	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Dispatch	Off	154377500	NFM	TONE=C136.5	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tactical 1	Off	154415000	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tactical 2	Off	155655000	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff	Off	155227500	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	154377500	NFM	TONE=C136.5	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tactical 1	Off	154415000	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tactical 2	Off	155655000	NFM	TONE=C136.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Sussex County - Waverly	Off	36.933483	-77.249693	25.0	Circle	Off	Global
-C-Freq			Police	Off	151325000	FM	TONE=C179.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	151325000	FM	TONE=C179.9	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Dinwiddie	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Dinwiddie County - Dinwiddie	Off	37.066816	-77.633046	25.0	Circle	Off	Global
-C-Freq			Sheriff Ch. 1	Off	151085000	NFM	NAC=177	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Ch. 2	Off	155632500	NFM	NAC=188	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tactical 2	Off	156157500	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Ch. 1	Off	151085000	NFM	NAC=177	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Ch. 2	Off	155632500	NFM	NAC=188	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tactical 2	Off	156157500	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Nottoway	Off		Conventional	4	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Nottoway County - Nottoway	Off	37.133484	-78.066391	25.0	Circle	Off	Global
-C-Freq			Police	Off	155655000	FM		23	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff	Off	151100000	FM	TONE=D306	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	155655000	FM		23	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff	Off	151100000	FM	TONE=D306	2	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Nottoway County - Blackstone	Off	37.133484	-78.066391	25.0	Circle	Off	Global
-C-Freq			Police	Off	154860000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	154860000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Lunenburg	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Lunenburg County - Lunenburg	Off	36.950150	-78.250275	25.0	Circle	Off	Global
-C-Freq			Sheriff	Off	453925000	FM	TONE=D125	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff	Off	453925000	FM	TONE=D125	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Campbell	Off		Conventional	7	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Campbell County	Off	37.233478	-79.099743	25.0	Circle	Off	Global
-C-Freq			Sheriff 1 (Primary Law Dispatch)	Off	154740000	NFM	TONE=C156.7	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff 2 (Law Talkaround)	Off	154740000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff 3 (Secondary Law/Animal Control)	Off	155640000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff 4 (Law Talkaround)	Off	155640000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac 1 (Special Response Team or Event)	Off	154770000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac 2 (Special Response Team or Event)	Off	151070000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff 1 (Primary Law Dispatch)	Off	154740000	NFM	TONE=C156.7	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff 2 (Law Talkaround)	Off	154740000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff 3 (Secondary Law/Animal Control)	Off	155640000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff 4 (Law Talkaround)	Off	155640000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac 1 (Special Response Team or Event)	Off	154770000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac 2 (Special Response Team or Event)	Off	151070000	NFM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Halifax	Off		Conventional	7	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Halifax County - Halifax	Off	36.750415	-78.933066	25.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch	Off	155752500	FM	TONE=C127.3	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac 1	Off	156082500	FM	TONE=D023	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac 2	Off	151017500	FM	TONE=D025	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac 3	Off	151122500	FM	TONE=D026	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	155752500	FM	TONE=C127.3	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac 1	Off	156082500	FM	TONE=D023	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac 2	Off	151017500	FM	TONE=D025	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac 3	Off	151122500	FM	TONE=D026	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Pittsylvania County	Off		P25Standard	Off	Off	Auto	Ignore	Srch	8	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			North Simulcast	Off	36.816806	-79.399747	26.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	293	Global

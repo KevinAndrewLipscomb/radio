@@ -3,23 +3,23 @@ FormatVersion	1.00
 Conventional			Franklin	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Franklin City - Franklin	Off	36.675200	-76.920475	25.0	Circle	Off	Global
-C-Freq			Police Dispatch/Operations	Off	154725000	FM	TONE=C156.7	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Police Surveillance	Off	154122500	FM	TONE=C156.7	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Police Tactical / Public Works	Off	151100000	FM		14	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police Dispatch/Operations	Off	154725000	FM	TONE=C156.7	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Police Surveillance	Off	154122500	FM	TONE=C156.7	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Police Tactical / Public Works	Off	151100000	FM		14	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Southampton	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Southampton County - Southampton	Off	36.733483	-77.099687	25.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch	Off	156202500	FM	TONE=C131.8	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tac	Off	156022500	FM		7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	156202500	FM	TONE=C131.8	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tac	Off	156022500	FM		7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Emporia	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Emporia City - Emporia	Off	0.000000	0.000000	0.0	Circle	Off	Global
-C-Freq			Police	Off	155805000	AUTO	RAN=2	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Police Tactical	Off	39860000	FM		7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	155805000	AUTO	RAN=2	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Police Tactical	Off	39860000	FM		7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Nash	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Nash County - Law Enforcement	Off	35.974598	-77.965541	30.0	Circle	Off	Global
-C-Freq			Nash Police	Off	155595000	NFM	TONE=C186.2	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Nash Police	Off	155595000	NFM	TONE=C186.2	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			North Carolina VIPER	Off		P25Standard	Off	Off	Auto	Ignore	Srch	5	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Aho	On	36.154150	-81.602470	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global

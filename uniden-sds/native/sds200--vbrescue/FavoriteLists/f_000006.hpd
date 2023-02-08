@@ -3,10 +3,10 @@ FormatVersion	1.00
 Conventional			Common/Shared	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Fire/EMS - Statewide	Off	38.376115	-79.650879	256.3	Circle	Off	Global
-C-Freq			HEAR340/Statewide Disaster	Off	155340000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			HEAR400/Statewide Disaster	Off	155400000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HEAR340/Statewide Disaster	Off	155340000	NFM		11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			HEAR400/Statewide Disaster	Off	155400000	NFM		11	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Suffolk	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Suffolk City - Suffolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
-C-Freq			EMS to Obici Hospital	Off	155400000	FM	TONE=C110.9	12	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			EMS to Obici Hospital	Off	463125000	FM	TONE=C100.0	12	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMS to Obici Hospital	Off	155400000	FM	TONE=C110.9	12	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			EMS to Obici Hospital	Off	463125000	FM	TONE=C100.0	12	Off	2	0	Off	Auto	Red	On	Off	Off
