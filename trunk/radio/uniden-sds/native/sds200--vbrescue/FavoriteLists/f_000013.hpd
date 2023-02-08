@@ -67,11 +67,11 @@ T-Freq				Off	769081250	2	Srch
 T-Freq				Off	770581250	3	Srch
 T-Freq				Off	772606250	4	Srch
 T-Group			Sheriff	Off	36.816805	-79.399747	26.0	Circle	Off
-TGID			Car-to-Car	Off	102	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Danville Interop	Off	278	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dispatch	Off	101	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Special Events	Off	110	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Town Police Departments	Off	111	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Car-to-Car	Off	102	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Danville Interop	Off	278	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dispatch	Off	101	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Special Events	Off	110	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Town Police Departments	Off	111	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Roanoke Valley Radio System (RVRS)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	9	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Franklin Simulcast	Off	37.002364	-79.866422	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	342	Global
@@ -103,4 +103,4 @@ T-Freq				Off	858962500	20	Srch
 T-Freq				Off	859437500	21	Srch
 T-Freq				Off	859962500	22	Srch
 T-Group			Franklin Sheriff	Off	37.283468	-80.049762	25.0	Circle	Off
-TGID			Sheriff	Off	421	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriff	Off	421	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any

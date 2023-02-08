@@ -829,170 +829,170 @@ T-Freq				Off	159382500	5	Srch
 T-Freq				Off	159232500	6	Srch
 T-Freq				Off	159442500	7	Srch
 T-Group			Virginia State Police	Off	37.405075	-79.475097	238.3	Circle	1
-TGID			Appomattox 1	Off	33	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Appomattox 2	Off	35	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Appomattox 3	Off	100	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Appomattox Tac 1	Off	34	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Appomattox Tac 2	Off	36	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Appomattox Tac 3	Off	101	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 1	Off	6	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 2	Off	22	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 3	Off	38	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 4	Off	756	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 5	Off	54	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 6	Off	772	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Blue 7	Off	70	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 1	Off	49	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 2	Off	51	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 3	Off	102	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 1	Off	50	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 2	Off	52	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 3	Off	103	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper 1	Off	17	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper 2	Off	19	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper 3	Off	98	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper Tac 1	Off	18	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper Tac 2	Off	20	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Culpeper Tac 3	Off	99	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 1 Tac	Off	5	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 2 Tac	Off	21	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 3 Tac	Off	37	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 5 Tac	Off	53	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 6 Tac	Off	771	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Divison 4 Tac	Off	755	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 2	Off	27	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 3	Off	43	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 4	Off	761	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 5	Off	59	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 6	Off	777	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 7	Off	75	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Executive Protection Unit	Off	84	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax 1	Off	65	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax 2	Off	67	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax 3	Off	104	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax Tac 1	Off	66	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax Tac 2	Off	68	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fairfax Tac 3	Off	105	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 1	Off	9	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 2	Off	25	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 3	Off	41	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 4	Off	759	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 5	Off	57	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 6	Off	775	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 7	Off	73	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Management 1	Off	86	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Radio Techs	Off	108	ALL	14	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Radio Techs AG	Off	107	ALL	14	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 1	Off	7	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 2	Off	23	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 3	Off	39	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 4	Off	757	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 5	Off	55	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 6	Off	773	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 7	Off	71	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond 1	Off	1	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond 2	Off	3	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond 3	Off	96	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond Tac 1	Off	2	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond Tac 2	Off	4	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Richmond Tac 3	Off	97	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem 1	Off	767	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem 2	Off	769	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem 3	Off	785	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem Tac 1	Off	768	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem Tac 2	Off	770	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Salem Tac 3	Off	786	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance	Off	26	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance	Off	776	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 1	Off	12	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 1A	Off	13	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 1B	Off	14	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 1C	Off	15	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 2	Off	28	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 2A	Off	29	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 2B	Off	30	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 2C	Off	31	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 3	Off	44	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 3A	Off	45	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 3B	Off	46	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 3C	Off	47	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 4	Off	762	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 4A	Off	763	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 4B	Off	764	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 4C	Off	765	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5	Off	60	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5A	Off	61	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5B	Off	62	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5C	Off	63	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 6	Off	778	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 6A	Off	779	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 6B	Off	780	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 6C	Off	781	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 7	Off	76	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 7A	Off	77	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 7B	Off	78	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 7C	Off	79	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac Team 1	Off	16	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac Team 4	Off	766	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac Team 6	Off	782	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training A	Off	88	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training B	Off	89	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training C	Off	90	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training D	Off	91	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training E	Off	92	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training F	Off	93	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training G	Off	94	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Training H	Off	95	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville 1	Off	751	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville 2	Off	753	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville 3	Off	783	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville Tac 1	Off	752	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville Tac 2	Off	754	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Wytheville Tac 3	Off	784	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Appomattox 1	Off	33	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Appomattox 2	Off	35	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Appomattox 3	Off	100	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Appomattox Tac 1	Off	34	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Appomattox Tac 2	Off	36	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Appomattox Tac 3	Off	101	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 1	Off	6	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 2	Off	22	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 3	Off	38	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 4	Off	756	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 5	Off	54	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 6	Off	772	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Blue 7	Off	70	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 1	Off	49	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 2	Off	51	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 3	Off	102	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 1	Off	50	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 2	Off	52	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 3	Off	103	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper 1	Off	17	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper 2	Off	19	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper 3	Off	98	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper Tac 1	Off	18	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper Tac 2	Off	20	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Culpeper Tac 3	Off	99	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 1 Tac	Off	5	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 2 Tac	Off	21	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 3 Tac	Off	37	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 5 Tac	Off	53	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 6 Tac	Off	771	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Divison 4 Tac	Off	755	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 2	Off	27	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 3	Off	43	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 4	Off	761	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 5	Off	59	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 6	Off	777	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 7	Off	75	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Executive Protection Unit	Off	84	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax 1	Off	65	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax 2	Off	67	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax 3	Off	104	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax Tac 1	Off	66	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax Tac 2	Off	68	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fairfax Tac 3	Off	105	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 1	Off	9	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 2	Off	25	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 3	Off	41	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 4	Off	759	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 5	Off	57	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 6	Off	775	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 7	Off	73	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Management 1	Off	86	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Radio Techs	Off	108	ALL	14	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Radio Techs AG	Off	107	ALL	14	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 1	Off	7	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 2	Off	23	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 3	Off	39	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 4	Off	757	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 5	Off	55	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 6	Off	773	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 7	Off	71	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond 1	Off	1	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond 2	Off	3	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond 3	Off	96	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond Tac 1	Off	2	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond Tac 2	Off	4	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Richmond Tac 3	Off	97	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem 1	Off	767	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem 2	Off	769	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem 3	Off	785	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem Tac 1	Off	768	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem Tac 2	Off	770	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Salem Tac 3	Off	786	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance	Off	26	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance	Off	776	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 1	Off	12	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 1A	Off	13	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 1B	Off	14	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 1C	Off	15	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 2	Off	28	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 2A	Off	29	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 2B	Off	30	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 2C	Off	31	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 3	Off	44	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 3A	Off	45	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 3B	Off	46	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 3C	Off	47	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 4	Off	762	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 4A	Off	763	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 4B	Off	764	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 4C	Off	765	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5	Off	60	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5A	Off	61	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5B	Off	62	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5C	Off	63	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 6	Off	778	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 6A	Off	779	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 6B	Off	780	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 6C	Off	781	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 7	Off	76	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 7A	Off	77	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 7B	Off	78	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 7C	Off	79	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac Team 1	Off	16	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac Team 4	Off	766	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac Team 6	Off	782	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training A	Off	88	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training B	Off	89	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training C	Off	90	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training D	Off	91	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training E	Off	92	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training F	Off	93	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training G	Off	94	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Training H	Off	95	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville 1	Off	751	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville 2	Off	753	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville 3	Off	783	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville Tac 1	Off	752	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville Tac 2	Off	754	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Wytheville Tac 3	Off	784	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Interoperability/Mutual Aid	Off	37.405075	-79.475097	238.3	Circle	1
-TGID			Comlinc 1	Off	6123	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 1	Off	6127	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 2	Off	6129	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 2	Off	6133	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 3	Off	6135	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 3	Off	6139	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 4	Off	6373	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 4	Off	6377	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 5	Off	6141	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 5	Off	6145	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 6	Off	6379	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 6	Off	6383	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 7	Off	6147	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 7	Off	6151	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 1	Off	6125	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 2	Off	6131	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 3	Off	6137	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 4	Off	6375	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 5	Off	6143	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 6	Off	6381	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 7	Off	6149	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Management A	Off	6155	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 1	Off	6122	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 2	Off	6128	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 3	Off	6134	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 4	Off	6372	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 5	Off	6140	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 6	Off	6378	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 7	Off	6146	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCommand 1	Off	6152	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 1	Off	6124	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 2	Off	6130	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 3	Off	6136	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 4	Off	6374	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 5	Off	6142	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 6	Off	6380	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 7	Off	6148	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Investigation 6	Off	6387	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 1	Off	6126	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 2	Off	6132	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 3	Off	6138	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 4	Off	6376	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 5	Off	6144	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 6	Off	6382	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 7	Off	6150	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			State 1	Off	6154	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Comlinc 1	Off	6123	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 1	Off	6127	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 2	Off	6129	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 2	Off	6133	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 3	Off	6135	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 3	Off	6139	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 4	Off	6373	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 4	Off	6377	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 5	Off	6141	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 5	Off	6145	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 6	Off	6379	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 6	Off	6383	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 7	Off	6147	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 7	Off	6151	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 1	Off	6125	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 2	Off	6131	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 3	Off	6137	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 4	Off	6375	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 5	Off	6143	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 6	Off	6381	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 7	Off	6149	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Management A	Off	6155	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 1	Off	6122	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 2	Off	6128	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 3	Off	6134	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 4	Off	6372	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 5	Off	6140	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 6	Off	6378	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 7	Off	6146	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCommand 1	Off	6152	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 1	Off	6124	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 2	Off	6130	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 3	Off	6136	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 4	Off	6374	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 5	Off	6142	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 6	Off	6380	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 7	Off	6148	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Investigation 6	Off	6387	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 1	Off	6126	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 2	Off	6132	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 3	Off	6138	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 4	Off	6376	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 5	Off	6144	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 6	Off	6382	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 7	Off	6150	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			State 1	Off	6154	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any

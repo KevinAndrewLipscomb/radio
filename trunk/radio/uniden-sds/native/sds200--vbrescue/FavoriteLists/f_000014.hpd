@@ -27,7 +27,7 @@ Site			York Simulcast	Off	37.233478	-76.549675	25.0	AUTO	Standard	Wide	Circle	Of
 T-Freq				Off	853662500	18	Srch
 T-Freq				Off	853775000	19	Srch
 T-Group			Gloucester Sheriff	Off	36.733280	-76.589140	23.0	Circle	Off
-TGID			Mutual Aid	Off	4042	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	4042	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Essex	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Essex County - Essex	Off	37.950136	-76.949689	25.0	Circle	Off	Global
@@ -41,7 +41,7 @@ T-Freq				Off	769856250	1	Srch
 T-Freq				Off	770281250	2	Srch
 T-Freq				Off	771131250	3	Srch
 T-Group			Sheriff	Off	38.033467	-77.349703	25.0	Circle	Off
-TGID			Ch. 2	Off	1002	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Ch. 2	Off	1002	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Spotsylvania	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Spotsylvania County - Spotsylvania	Off	38.183467	-77.649711	25.0	Circle	Off	Global
@@ -61,13 +61,13 @@ T-Freq				Off	857487500	9	Srch
 T-Freq				Off	858187500	10	Srch
 T-Freq				Off	859487500	11	Srch
 T-Group			Sheriff	Off	38.183467	-77.649711	25.0	Circle	Off
-TGID			All Channels	Off	5000	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid Law 1	Off	5027	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid Law 2	Off	5028	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			RIOS 1	Off	5025	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			RIOS 2	Off	5026	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Search and Rescue	Off	5014	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SIRS	Off	5007	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			All Channels	Off	5000	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid Law 1	Off	5027	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid Law 2	Off	5028	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			RIOS 1	Off	5025	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			RIOS 2	Off	5026	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Search and Rescue	Off	5014	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SIRS	Off	5007	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Stafford / Fredericksburg	Off		P25Standard	Off	Off	Auto	Ignore	Srch	6	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	38.407500	-77.447000	13.5	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	2B0	Global
@@ -76,15 +76,15 @@ T-Freq				Off	772856250	8	Srch
 T-Freq				Off	773906250	9	Srch
 T-Freq				Off	774181250	10	Srch
 T-Group			Fredericksburg Police	Off	38.407500	-77.447000	13.5	Circle	1
-TGID			Interop	Off	5393	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Interop?	Off	5378	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Interop?	Off	5388	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Interop? (10/2/18 Drill)	Off	5397	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Interop	Off	5393	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Interop?	Off	5378	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Interop?	Off	5388	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Interop? (10/2/18 Drill)	Off	5397	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Stafford Sheriff	Off	38.407500	-77.447000	13.5	Circle	2
-TGID			Motor Ops	Off	4512	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	4503	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SIRS Patch	Off	4813	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	4509	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Motor Ops	Off	4512	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	4503	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SIRS Patch	Off	4813	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	4509	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Fauquier/Culpeper/Rappahannock	Off		P25Standard	Off	Off	Auto	Ignore	Srch	7	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Culpeper Simulcast	On	38.500403	-77.966386	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
@@ -105,9 +105,9 @@ T-Freq				Off	857512500	6	Srch
 T-Freq				Off	857912500	7	Srch
 T-Freq				Off	859812500	8	Srch
 T-Group			Fauquier Sheriff	Off	38.733450	-77.816383	25.0	Circle	1
-TGID			Dispatch	Off	1101	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SIRS Patch	Off	1606	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 2	Off	1102	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	1103	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch	Off	1101	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SIRS Patch	Off	1606	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 2	Off	1102	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	1103	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Warrenton Police	Off	38.733450	-77.816383	25.0	Circle	2
-TGID			Dispatch	Off	1201	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch	Off	1201	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any

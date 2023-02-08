@@ -360,27 +360,27 @@ T-Freq				Off	159382500	5	Srch
 T-Freq				Off	159232500	6	Srch
 T-Freq				Off	159442500	7	Srch
 T-Group			Chesapeake Bay Bridge Tunnel	Off	37.405074	-79.475098	238.3	Circle	3
-TGID			Police Dispatch	Off	6733	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Police Tac	Off	6734	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Police Dispatch	Off	6733	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Police Tac	Off	6734	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Virginia State Police	Off	37.405074	-79.475098	238.3	Circle	1
-TGID			Blue 5	Off	54	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 1	Off	49	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 2	Off	51	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake 3	Off	102	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 1	Off	50	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 2	Off	52	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Chesapeake Tac 3	Off	103	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Division 5 Tac	Off	53	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Drug Enforcement Section 5	Off	59	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Executive Protection Unit	Off	84	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			General Investigation Section 5	Off	57	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Management 1	Off	86	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Red 5	Off	55	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5	Off	60	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5A	Off	61	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5B	Off	62	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Surveillance 5C	Off	63	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac Team 5	Off	64	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Blue 5	Off	54	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 1	Off	49	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 2	Off	51	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake 3	Off	102	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 1	Off	50	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 2	Off	52	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Chesapeake Tac 3	Off	103	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Division 5 Tac	Off	53	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Drug Enforcement Section 5	Off	59	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Executive Protection Unit	Off	84	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			General Investigation Section 5	Off	57	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Management 1	Off	86	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Red 5	Off	55	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5	Off	60	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5A	Off	61	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5B	Off	62	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Surveillance 5C	Off	63	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac Team 5	Off	64	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Virginia State Police	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Virginia State Police	Off	38.255436	-79.299317	243.9	Circle	1	Global
@@ -764,13 +764,13 @@ T-Freq				Off	159382500	5	Srch
 T-Freq				Off	159232500	6	Srch
 T-Freq				Off	159442500	7	Srch
 T-Group			Interoperability/Mutual Aid	Off	37.405074	-79.475098	238.3	Circle	Off
-TGID			Comlinc 5	Off	6141	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Comlinc 5	Off	6145	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Command Post 5	Off	6143	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Management A	Off	6155	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCall 5	Off	6140	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			MCommand 1	Off	6152	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual 5	Off	6142	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Investigation 6	Off	6387	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Service 5	Off	6144	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			State 1	Off	6154	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Comlinc 5	Off	6141	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Comlinc 5	Off	6145	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Command Post 5	Off	6143	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Management A	Off	6155	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCall 5	Off	6140	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MCommand 1	Off	6152	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual 5	Off	6142	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Investigation 6	Off	6387	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Service 5	Off	6144	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			State 1	Off	6154	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any

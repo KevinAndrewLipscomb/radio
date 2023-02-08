@@ -18,7 +18,7 @@ T-Freq				Off	859712500	2	Srch
 T-Freq				Off	860462500	3	Srch
 T-Freq				Off	860712500	4	Srch
 T-Group			Virginia Beach Fire/EMS	Off	36.847081	-76.284389	50.0	Circle	1
-TGID			Fire Command	Off	1245	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Fire Command	Off	1245	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	36.846815	-76.285218	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	461	Global
@@ -39,7 +39,7 @@ T-Freq				Off	858987500	14	Srch
 T-Freq				Off	859237500	15	Srch
 T-Freq				Off	859987500	16	Srch
 T-Group			Fire/EMS	Off	36.846815	-76.285218	25.0	Circle	Off
-TGID			Dispatch	Off	646	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch	Off	646	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Chesapeake City - Conventional	Off	36.668419	-76.289063	35.0	Circle	Off	Global
@@ -64,7 +64,7 @@ T-Freq				Off	774206250	14	Srch
 T-Freq				Off	774631250	15	Srch
 T-Freq				Off	774918750	16	Srch
 T-Group			Fire/EMS	Off	36.668419	-76.289063	35.0	Circle	Off
-TGID			Dispatch	Off	401	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch	Off	401	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Portsmouth (P25)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	4	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	0.000000	0.000000	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	9C1	Global
@@ -77,7 +77,7 @@ T-Freq				Off	858962500	6	Srch
 T-Freq				Off	859212500	7	Srch
 T-Freq				Off	859962500	8	Srch
 T-Group			Fire, Rescue, and Emergency Services	Off	0.000000	0.000000	0.0	Circle	Off
-TGID			Dispatch	Off	1009	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch	Off	1009	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Suffolk	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Suffolk City - Suffolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
@@ -128,4 +128,4 @@ T-Freq				Off	853575000	17	Srch
 T-Freq				Off	853662500	18	Srch
 T-Freq				Off	853775000	19	Srch
 T-Group			Suffolk Fire	Off	36.733280	-76.589140	23.0	Circle	Off
-TGID			Dispatch 1	Off	1041	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dispatch 1	Off	1041	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any

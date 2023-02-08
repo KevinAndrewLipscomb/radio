@@ -1952,117 +1952,117 @@ T-Freq				Off	770181250	5	Srch
 T-Freq				Off	769931250	6	Srch
 T-Freq				Off	769156250	7	Srch
 T-Group			NCSHP Troop A Greenville	Off	35.795466	-76.724023	75.0	Circle	1
-TGID			NCSHP Troop A Mutual Aid	Off	52224	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A COMMON 1	Off	52134	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A COMMON 2	Off	52135	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST1 Dare, Currituck Cos	Off	52136	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST2 Hertford Gates, Bertie Cos	Off	52137	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST3 Pasquotank, Chowan, Perquimans, Camden Cos	Off	52138	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST4 Beaufort, Washington, Tyrrell, Hyde Cos	Off	52139	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST5 Pitt, Martin Cos	Off	52140	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST6 Craven, Pamlico Cos	Off	52141	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST7 Lenoir, Jones Cos	Off	52142	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A DIST8 Carteret Co	Off	52143	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP A H/Q GRP	Off	52144	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop A Mutual Aid	Off	52224	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A COMMON 1	Off	52134	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A COMMON 2	Off	52135	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST1 Dare, Currituck Cos	Off	52136	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST2 Hertford Gates, Bertie Cos	Off	52137	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST3 Pasquotank, Chowan, Perquimans, Camden Cos	Off	52138	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST4 Beaufort, Washington, Tyrrell, Hyde Cos	Off	52139	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST5 Pitt, Martin Cos	Off	52140	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST6 Craven, Pamlico Cos	Off	52141	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST7 Lenoir, Jones Cos	Off	52142	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A DIST8 Carteret Co	Off	52143	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP A H/Q GRP	Off	52144	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop B Fayetteville	Off	35.052664	-78.878359	90.0	Circle	2
-TGID			NCSHP Troop B Mutual Aid	Off	52225	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST1 Cumberland Co	Off	52147	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST2 Sampson Co	Off	52148	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST3 Onslow Co	Off	52149	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST4 Duplin, Pender Cos	Off	52150	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST5 Columbus, Bladen Cos	Off	52151	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST6 New Hanover, Brunswick Cos	Off	52152	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST7 Robeson Co	Off	52153	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP B DIST8 Harnett Co	Off	52154	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP B COMMON 1	Off	52145	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP B COMMON 2	Off	52146	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP B H/Q GRP	Off	52155	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop B Mutual Aid	Off	52225	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST1 Cumberland Co	Off	52147	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST2 Sampson Co	Off	52148	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST3 Onslow Co	Off	52149	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST4 Duplin, Pender Cos	Off	52150	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST5 Columbus, Bladen Cos	Off	52151	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST6 New Hanover, Brunswick Cos	Off	52152	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST7 Robeson Co	Off	52153	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP B DIST8 Harnett Co	Off	52154	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP B COMMON 1	Off	52145	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP B COMMON 2	Off	52146	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP B H/Q GRP	Off	52155	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop C Raleigh	Off	35.783485	-78.633059	70.0	Circle	3
-TGID			NCSHP Troop C Mutual Aid	Off	52226	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST1 Nash, Edgecombe Cos	Off	52158	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST2 Wayne Co	Off	52159	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST3 Wake Co	Off	52160	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST4 Franklin, Vance, Warren Cos	Off	52161	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST5 Wilson, Greene Cos	Off	52162	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST6 Johnston Co	Off	52163	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST7 Durham, Granville Cos	Off	52164	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP C DIST8 Northampton, Halifax Cos	Off	52165	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP C COMMON 1	Off	52156	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP C COMMON 2	Off	52157	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP C H/Q GRP	Off	52166	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop C Mutual Aid	Off	52226	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST1 Nash, Edgecombe Cos	Off	52158	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST2 Wayne Co	Off	52159	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST3 Wake Co	Off	52160	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST4 Franklin, Vance, Warren Cos	Off	52161	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST5 Wilson, Greene Cos	Off	52162	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST6 Johnston Co	Off	52163	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST7 Durham, Granville Cos	Off	52164	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP C DIST8 Northampton, Halifax Cos	Off	52165	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP C COMMON 1	Off	52156	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP C COMMON 2	Off	52157	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP C H/Q GRP	Off	52166	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop D Greensboro	Off	36.072636	-79.791975	65.0	Circle	4
-TGID			NCSHP Troop D Mutual Aid	Off	52227	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST1 Chatham, Lee Cos	Off	52169	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST2 Guilford Co	Off	52170	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST3 Rockingham Co	Off	52171	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST4 Person, Caswell Cos	Off	52172	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST5 Alamance Co	Off	52173	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST6 Randolph Co	Off	52174	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP D DIST7 Orange Co	Off	52175	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP D COMMON 1	Off	52167	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP D COMMON 2	Off	52168	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP D H/Q GRP	Off	52176	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop D Mutual Aid	Off	52227	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST1 Chatham, Lee Cos	Off	52169	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST2 Guilford Co	Off	52170	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST3 Rockingham Co	Off	52171	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST4 Person, Caswell Cos	Off	52172	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST5 Alamance Co	Off	52173	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST6 Randolph Co	Off	52174	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP D DIST7 Orange Co	Off	52175	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP D COMMON 1	Off	52167	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP D COMMON 2	Off	52168	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP D H/Q GRP	Off	52176	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop E Salisbury	Off	35.670973	-80.474226	65.0	Circle	5
-TGID			NCSHP Troop E Mutual Aid	Off	52228	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST1 Davidson Co	Off	52179	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST2 Stanly, Montgomery Cos	Off	52180	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST3 Rowan Co	Off	52181	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST4 Forsyth Co	Off	52182	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST5 Stokes, Surry Cos	Off	52183	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST6 Cabarrus Co	Off	52184	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP E DIST7 Davie, Yadkin Cos	Off	52185	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP E COMMON 1	Off	52177	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP E COMMON 2	Off	52178	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP E H/Q GRP	Off	52186	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop E Mutual Aid	Off	52228	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST1 Davidson Co	Off	52179	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST2 Stanly, Montgomery Cos	Off	52180	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST3 Rowan Co	Off	52181	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST4 Forsyth Co	Off	52182	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST5 Stokes, Surry Cos	Off	52183	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST6 Cabarrus Co	Off	52184	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP E DIST7 Davie, Yadkin Cos	Off	52185	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP E COMMON 1	Off	52177	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP E COMMON 2	Off	52178	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP E H/Q GRP	Off	52186	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop F Newton	Off	35.659300	-81.222860	65.0	Circle	6
-TGID			NCSHP Troop F Mutual Aid	Off	52229	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP F DIST1 Burke Co	Off	52189	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP F DIST2 Wilkes, Ashe, Alleghany Cos	Off	52190	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP F DIST3 Caldwell, Watauga Cos	Off	52191	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP F DIST4 Iredell, Alexander Cos	Off	52192	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP F DIST5 Catawba, Lincoln Cos	Off	52193	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP F COMMON 1	Off	52187	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP F COMMON 2	Off	52188	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP F H/Q GRP	Off	52194	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop F Mutual Aid	Off	52229	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP F DIST1 Burke Co	Off	52189	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP F DIST2 Wilkes, Ashe, Alleghany Cos	Off	52190	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP F DIST3 Caldwell, Watauga Cos	Off	52191	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP F DIST4 Iredell, Alexander Cos	Off	52192	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP F DIST5 Catawba, Lincoln Cos	Off	52193	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP F COMMON 1	Off	52187	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP F COMMON 2	Off	52188	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP F H/Q GRP	Off	52194	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop G Asheville	Off	35.600945	-82.554015	65.0	Circle	7
-TGID			NCSHP Troop G Mutual Aid	Off	52230	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST1 Yancey, Mitchell, Avery, Madison Cos	Off	52197	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST2 McDowell, Rutherford Cos	Off	52198	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST3 Henderson, Transylvania, Polk Cos	Off	52199	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST4 Buncombe Co	Off	52200	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST5 Haywood, Jackson Cos	Off	52201	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP G DIST6 Swain, Macon, Clay, Cherokee, Graham Cos	Off	52202	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP G COMMON 1	Off	52195	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP G COMMON 2	Off	52196	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP G H/Q GRP	Off	52203	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop G Mutual Aid	Off	52230	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST1 Yancey, Mitchell, Avery, Madison Cos	Off	52197	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST2 McDowell, Rutherford Cos	Off	52198	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST3 Henderson, Transylvania, Polk Cos	Off	52199	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST4 Buncombe Co	Off	52200	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST5 Haywood, Jackson Cos	Off	52201	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP G DIST6 Swain, Macon, Clay, Cherokee, Graham Cos	Off	52202	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP G COMMON 1	Off	52195	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP G COMMON 2	Off	52196	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP G H/Q GRP	Off	52203	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			NCSHP Troop H Monroe	Off	34.988761	-80.538400	65.0	Circle	8
-TGID			NCSHP Troop H Mutual Aid	Off	52231	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST1 Gaston Co	Off	52206	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST2 Richmond, Scotland Cos	Off	52207	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST3 Union, Anson Cos	Off	52208	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST4 Cleveland Co	Off	52209	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST5 Mecklenburg Co	Off	52210	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TROOP H DIST6 Moore, Hoke Cos	Off	52211	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP H COMMON 1	Off	52204	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP H COMMON 2	Off	52205	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			TRP H H/Q GRP	Off	52212	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NCSHP Troop H Mutual Aid	Off	52231	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST1 Gaston Co	Off	52206	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST2 Richmond, Scotland Cos	Off	52207	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST3 Union, Anson Cos	Off	52208	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST4 Cleveland Co	Off	52209	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST5 Mecklenburg Co	Off	52210	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TROOP H DIST6 Moore, Hoke Cos	Off	52211	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP H COMMON 1	Off	52204	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP H COMMON 2	Off	52205	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			TRP H H/Q GRP	Off	52212	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			North Carolina Highway Patrol Various	Off	35.658725	-79.620997	225.0	Circle	0
-TGID			Regional Radio Network (Southern North Carolina)	Off	57506	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP AIR OPS	Off	52127	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Governors Mansion Raleigh	Off	52216	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Motor Units	Off	52218	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 1	Off	51929	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 2	Off	51930	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 3	Off	51931	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 4	Off	51932	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 5	Off	51933	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 6	Off	51934	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 7	Off	51935	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP OPS 8	Off	51936	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Sheriff HQ	Off	52222	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Special Operations Common 1	Off	52220	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Special Operations Common 2	Off	52221	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SHP Training 1	Off	52223	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Regional Radio Network (Southern North Carolina)	Off	57506	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP AIR OPS	Off	52127	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Governors Mansion Raleigh	Off	52216	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Motor Units	Off	52218	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 1	Off	51929	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 2	Off	51930	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 3	Off	51931	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 4	Off	51932	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 5	Off	51933	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 6	Off	51934	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 7	Off	51935	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP OPS 8	Off	51936	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Sheriff HQ	Off	52222	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Special Operations Common 1	Off	52220	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Special Operations Common 2	Off	52221	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SHP Training 1	Off	52223	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Citizens Band (CB)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global

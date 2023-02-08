@@ -1930,25 +1930,25 @@ T-Freq				Off	770181250	5	Srch
 T-Freq				Off	769931250	6	Srch
 T-Freq				Off	769156250	7	Srch
 T-Group			Currituck County	Off	36.312659	-75.937143	25.0	Circle	1
-TGID			Common	Off	14013	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	14003	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Admin	Off	14007	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Dispatch	Off	14004	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Investigations	Off	14008	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Special Ops	Off	14009	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 1	Off	14005	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 2	Off	14014	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	14015	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	14016	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Common	Off	14013	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	14003	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Admin	Off	14007	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Dispatch	Off	14004	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Investigations	Off	14008	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Special Ops	Off	14009	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 1	Off	14005	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 2	Off	14014	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	14015	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	14016	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Dare County	Off	35.750449	-75.766289	25.0	Circle	2
-TGID			Dare County Beach Law 1	Off	14519	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County Common	Off	14500	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County Mutual Aid	Off	14504	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County Sheriff	Off	14505	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County TAC	Off	14506	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County TAC 2	Off	14507	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County TAC 3	Off	14508	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare County TAC 4	Off	14509	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dare County Beach Law 1	Off	14519	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County Common	Off	14500	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County Mutual Aid	Off	14504	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County Sheriff	Off	14505	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County TAC	Off	14506	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County TAC 2	Off	14507	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County TAC 3	Off	14508	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare County TAC 4	Off	14509	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Dare County Public Safety	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Buxton	Off	35.263060	-75.528060	10.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
@@ -1966,43 +1966,43 @@ T-Freq				Off	858987500	4	Srch
 T-Freq				Off	859437500	5	Srch
 T-Freq				Off	859987500	6	Srch
 T-Group			Dare County Sheriff	Off	35.750449	-75.766289	15.0	Circle	0
-TGID			Operations 1	Off	14552	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Operations 2	Off	14553	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Operations 1	Off	14552	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Operations 2	Off	14553	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Duck Police Department	Off	35.908226	-75.675730	30.0	Circle	2
-TGID			Duck PD Event Ch 1	Off	14707	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Duck PD Event Ch 2	Off	14708	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Duck PD Ops 1	Off	14705	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Duck PD Ops 2	Off	14706	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Duck PD Event Ch 1	Off	14707	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Duck PD Event Ch 2	Off	14708	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Duck PD Ops 1	Off	14705	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Duck PD Ops 2	Off	14706	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Kill Devil Hills Police Department	Off	35.908226	-75.675730	30.0	Circle	4
-TGID			Kill Devil Hills Police Ops 1	Off	14765	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Kill Devil Hills Police Ops 2	Off	14766	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Kill Devil Hills Police Ops 3	Off	14767	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Kill Devil Hills Police Ops 1	Off	14765	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Kill Devil Hills Police Ops 2	Off	14766	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Kill Devil Hills Police Ops 3	Off	14767	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Kitty Hawk Police Department	Off	35.908226	-75.675730	30.0	Circle	3
-TGID			Kitty Hawk Police Dept Ops 1	Off	14745	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Kitty Hawk Police Dept Ops 2	Off	14746	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Kitty Hawk Police Dept Ops 3	Off	14747	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Kitty Hawk Police Dept Ops 1	Off	14745	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Kitty Hawk Police Dept Ops 2	Off	14746	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Kitty Hawk Police Dept Ops 3	Off	14747	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Manteo Police Department	Off	35.908226	-75.675730	30.0	Circle	6
-TGID			Manteo Police Dept Ops 1	Off	14805	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Manteo Police Dept Ops 1	Off	14805	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Nags Head Police Department	Off	35.908226	-75.675730	30.0	Circle	5
-TGID			Nags Head PD Ops 1	Off	14785	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nags Head PD Ops 2	Off	14786	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nags Head PD Ops 3	Off	14787	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Nags Head PD Ops 1	Off	14785	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nags Head PD Ops 2	Off	14786	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nags Head PD Ops 3	Off	14787	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Public Safety Interoperability	Off	35.750449	-75.766289	15.0	Circle	Off
-TGID			Dare Co Interop PS 1	Off	14502	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 10	Off	14511	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 11	Off	14512	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 12	Off	14513	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 13	Off	14514	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 14	Off	14515	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 15	Off	14516	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 2	Off	14503	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 3	Off	14504	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 4	Off	14505	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 5	Off	14506	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 6	Off	14507	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 7	Off	14508	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 8	Off	14509	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Dare Co Interop PS 9	Off	14510	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Kitty Hawk Storm Talkgroup	Off	14755	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Dare Co Interop PS 1	Off	14502	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 10	Off	14511	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 11	Off	14512	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 12	Off	14513	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 13	Off	14514	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 14	Off	14515	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 15	Off	14516	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 2	Off	14503	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 3	Off	14504	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 4	Off	14505	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 5	Off	14506	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 6	Off	14507	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 7	Off	14508	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 8	Off	14509	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Dare Co Interop PS 9	Off	14510	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Kitty Hawk Storm Talkgroup	Off	14755	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Town Law Enforcement	Off	35.750449	-75.766289	15.0	Circle	9
-TGID			Beach Law Dispatch	Off	14569	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Beach Law Dispatch	Off	14569	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any

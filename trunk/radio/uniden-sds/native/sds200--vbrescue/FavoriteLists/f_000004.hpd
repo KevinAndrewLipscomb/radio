@@ -32,21 +32,21 @@ T-Freq				Off	859712500	2	Srch
 T-Freq				Off	860462500	3	Srch
 T-Freq				Off	860712500	4	Srch
 T-Group			All	Off	36.847081	-76.284389	50.0	Circle	Off
-TGID			Fire 1	Off	1241	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 2	Off	1242	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 3	Off	1243	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			VDOT Smart Traffic	Off	1428	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Fire 1	Off	1241	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 2	Off	1242	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 3	Off	1243	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			VDOT Smart Traffic	Off	1428	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Virginia Beach Fire/EMS	Off	36.847081	-76.284389	50.0	Circle	Off
-TGID			10 Tac 10	Off	1254	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			11 Tac 11	Off	1255	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			12 Tac 12	Off	1263	ALL	9	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			3 Tac 3	Off	1247	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			4 Tac 4	Off	1248	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			5 Tac 5	Off	1249	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			6 Tac 6	Off	1250	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			7 Tac 7	Off	1251	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			8 Tac 8	Off	1252	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			9 Tac 9	Off	1253	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			10 Tac 10	Off	1254	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			11 Tac 11	Off	1255	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			12 Tac 12	Off	1263	ALL	9	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			3 Tac 3	Off	1247	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			4 Tac 4	Off	1248	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			5 Tac 5	Off	1249	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			6 Tac 6	Off	1250	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			7 Tac 7	Off	1251	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			8 Tac 8	Off	1252	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			9 Tac 9	Off	1253	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	36.846815	-76.285218	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	461	Global
@@ -67,15 +67,15 @@ T-Freq				Off	858987500	14	Srch
 T-Freq				Off	859237500	15	Srch
 T-Freq				Off	859987500	16	Srch
 T-Group			Fire/EMS	Off	36.846815	-76.285218	25.0	Circle	Off
-TGID			Tac 10	Off	656	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 11	Off	657	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	648	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	649	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 5	Off	650	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 6 (Mutual Aid-Airport/Interstate)	Off	651	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 7 (Admin/Inspections/Investigations)	Off	652	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 8	Off	654	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 9	Off	655	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Tac 10	Off	656	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 11	Off	657	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	648	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	649	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 5	Off	650	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 6 (Mutual Aid-Airport/Interstate)	Off	651	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 7 (Admin/Inspections/Investigations)	Off	652	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 8	Off	654	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 9	Off	655	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Chesapeake City - Conventional	Off	36.668419	-76.289063	35.0	Circle	Off	Global
@@ -102,23 +102,23 @@ T-Freq				Off	774206250	14	Srch
 T-Freq				Off	774631250	15	Srch
 T-Freq				Off	774918750	16	Srch
 T-Group			Fire/EMS	Off	36.668419	-76.289063	35.0	Circle	Off
-TGID			Air Ops	Off	443	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Citywide Tac	Off	423	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Hazmat	Off	429	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Special Operations	Off	427	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 10	Off	419	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 2	Off	403	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	405	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	407	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 5	Off	409	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 6	Off	411	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 7	Off	413	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 8	Off	415	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 9	Off	417	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Air Ops	Off	443	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Citywide Tac	Off	423	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Hazmat	Off	429	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Special Operations	Off	427	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 10	Off	419	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 2	Off	403	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	405	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	407	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 5	Off	409	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 6	Off	411	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 7	Off	413	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 8	Off	415	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 9	Off	417	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Interop/Events	Off	36.668419	-76.289063	35.0	Circle	Off
-TGID			Fire/Police Tac	Off	509	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Safety Tac 1	Off	501	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Public Safety Tac 2	Off	503	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Fire/Police Tac	Off	509	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Safety Tac 1	Off	501	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Public Safety Tac 2	Off	503	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Portsmouth (P25)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	4	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	0.000000	0.000000	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	9C1	Global
@@ -131,14 +131,14 @@ T-Freq				Off	858962500	6	Srch
 T-Freq				Off	859212500	7	Srch
 T-Freq				Off	859962500	8	Srch
 T-Group			Fire, Rescue, and Emergency Services	Off	0.000000	0.000000	0.0	Circle	Off
-TGID			Elizabeth River Crossings Tunnels	Off	1020	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 2	Off	1010	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 3	Off	1011	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 4	Off	1012	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 5	Off	1013	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 6	Off	1014	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 7	Off	1015	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Fire 8	Off	1016	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Elizabeth River Crossings Tunnels	Off	1020	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 2	Off	1010	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 3	Off	1011	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 4	Off	1012	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 5	Off	1013	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 6	Off	1014	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 7	Off	1015	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Fire 8	Off	1016	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Suffolk / Isle of Wight / Gloucester / James City / York	Off		P25Standard	Off	Off	Auto	Ignore	Srch	5	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Gloucester Simulcast	On	37.416808	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	644	Global
@@ -186,23 +186,23 @@ T-Freq				Off	853575000	17	Srch
 T-Freq				Off	853662500	18	Srch
 T-Freq				Off	853775000	19	Srch
 T-Group			Suffolk Fire	Off	36.733280	-76.589140	23.0	Circle	Off
-TGID			Air Ops	Off	1049	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Emergency	Off	1046	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	1048	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 10	Off	1057	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 11	Off	1058	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 12	Off	1059	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 13	Off	1060	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 14	Off	1061	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 15	Off	1062	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 2	Off	1042	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	1043	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	1044	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 5	Off	1045	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 6	Off	1053	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 7	Off	1054	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 8	Off	1055	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 9	Off	1056	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Air Ops	Off	1049	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Emergency	Off	1046	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	1048	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 10	Off	1057	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 11	Off	1058	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 12	Off	1059	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 13	Off	1060	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 14	Off	1061	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 15	Off	1062	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 2	Off	1042	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	1043	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	1044	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 5	Off	1045	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 6	Off	1053	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 7	Off	1054	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 8	Off	1055	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 9	Off	1056	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Norfolk	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Norfolk City - Norfolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
