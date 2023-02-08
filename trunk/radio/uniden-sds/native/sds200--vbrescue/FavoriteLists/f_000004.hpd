@@ -15,8 +15,8 @@ DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	O
 C-Group			Fire/EMS - Statewide	Off	38.376114	-79.650878	256.3	Circle	Off	Global
 C-Freq			EMS/Medevac Scene of Action Statewide	Off	155205000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
 Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
-DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
 T-Freq				Off	773531250	2	Srch
 T-Freq				Off	773806250	3	Srch
 T-Freq				Off	774081250	4	Srch
@@ -207,44 +207,3 @@ Conventional			Norfolk	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Norfolk City - Norfolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
 C-Freq			Norfolk Police/Fire Talk Around	Off	853487500	NFM	NAC=293	22	Off	2	0	Off	Auto	Off	On	Off	Off
-Trunk			Overlay Regional InterOperability Network (ORION)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
-DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-Site			ORION	Off	36.830360	-76.095802	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
-T-Freq				Off	773031250	1	Srch
-T-Freq				Off	773531250	2	Srch
-T-Freq				Off	773806250	3	Srch
-T-Freq				Off	774081250	4	Srch
-T-Freq				Off	774331250	5	Srch
-Site			ORION	Off	37.416808	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
-T-Freq				Off	773306250	1	Srch
-T-Freq				Off	773581250	2	Srch
-T-Freq				Off	774031250	3	Srch
-T-Freq				Off	774306250	4	Srch
-T-Freq				Off	774531250	5	Srch
-Site			Virginia Beach	Off	36.830360	-76.095802	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	859462500	1	Srch
-T-Freq				Off	859712500	2	Srch
-T-Freq				Off	860462500	3	Srch
-T-Freq				Off	860712500	4	Srch
-T-Freq				Off	856462500	5	Srch
-T-Freq				Off	856712500	6	Srch
-T-Freq				Off	856737500	7	Srch
-T-Freq				Off	857462500	8	Srch
-T-Freq				Off	857487500	9	Srch
-T-Freq				Off	857737500	10	Srch
-T-Freq				Off	858462500	11	Srch
-T-Freq				Off	858487500	12	Srch
-T-Freq				Off	858712500	13	Srch
-T-Freq				Off	858737500	14	Srch
-T-Freq				Off	769081250	15	Srch
-T-Freq				Off	769331250	16	Srch
-T-Freq				Off	769593750	17	Srch
-T-Freq				Off	769843750	18	Srch
-T-Freq				Off	856487500	19	Srch
-T-Freq				Off	857712500	20	Srch
-T-Freq				Off	859487500	21	Srch
-T-Freq				Off	859737500	22	Srch
-T-Freq				Off	860487500	23	Srch
-T-Freq				Off	860737500	24	Srch
-T-Group			All	Off	36.847080	-76.284390	50.0	Circle	Off
-TGID			Commonwealth of Virginia 5 (inter-system patch) (VDOT Smart Traf	Off	1428	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
