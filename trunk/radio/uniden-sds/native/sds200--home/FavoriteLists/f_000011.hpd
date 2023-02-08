@@ -1,61 +1,60 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
-Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore		1	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			ORION-1	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	9	1E0	Global
-T-Freq				Off	773531200	0	Srch
-T-Freq				Off	773806200	0	Srch
-T-Freq				Off	774081200	0	Srch
-T-Freq				Off	774331200	0	Srch
-Site			ORION-3	On	37.416807	-76.549675	25.0	AUTO			Circle	Off	400	Auto	8	Off	1E0	Global
-T-Freq				Off	773581200	0	Srch
-T-Freq				Off	774031200	0	Srch
-T-Freq				Off	774306200	0	Srch
-T-Freq				Off	774531200	0	Srch
-Site			ORION-2-VB	Off	36.830360	-76.095802	5.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-BandPlan_P25		851006250	6250	762006250	6250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-T-Freq				Off	859462500	0	Srch
-T-Freq				Off	859712500	0	Srch
-T-Freq				Off	860462500	0	Srch
-T-Freq				Off	860712500	0	Srch
-T-Group			Virginia Beach Police	Off	36.847080	-76.284388	50.0	Circle	Off
+Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global
+T-Freq				Off	773531250	2	Srch
+T-Freq				Off	773806250	3	Srch
+T-Freq				Off	774081250	4	Srch
+T-Freq				Off	774331250	5	Srch
+Site			ORION-3	Off	37.416808	-76.549675	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1E0	Global
+T-Freq				Off	773581250	2	Srch
+T-Freq				Off	774031250	3	Srch
+T-Freq				Off	774306250	4	Srch
+T-Freq				Off	774531250	5	Srch
+Site			ORION-2-VB	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	859462500	1	Srch
+T-Freq				Off	859712500	2	Srch
+T-Freq				Off	860462500	3	Srch
+T-Freq				Off	860712500	4	Srch
+T-Group			Virginia Beach Police	Off	36.847081	-76.284389	50.0	Circle	Off
 TGID			14 Mutual Aid	Off	1217	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			15 Emergency 15	Off	1229	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 Conventional			Norfolk	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-C-Group			Norfolk City - Norfolk	Off	0.000000	-0.000000	0.0	Circle	Off	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Norfolk City - Norfolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
 C-Freq			Norfolk Police/Fire Talk Around	Off	853487500	NFM	NAC=293	22	Off	2	0	Off	Auto	Off	On	Off	Off
 Conventional			Norfolk International Airport (ORF)	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-C-Group			Airport Operations	Off	36.891152	-76.203232	15.0	Circle	Off	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Airport Operations	Off	36.891153	-76.203233	15.0	Circle	Off	Global
 C-Freq			Police	Off	854337500	FM	TONE=D025	2	Off	2	0	Off	Auto	Off	On	Off	Off
-Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore		2	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			Simulcast	Off	36.846813	-76.285217	25.0	AUTO			Circle	Off	400	Auto	8	Off	461	Global
-T-Freq				Off	854162500	0	Srch
-T-Freq				Off	855237500	0	Srch
-T-Freq				Off	855487500	0	Srch
-T-Freq				Off	855737500	0	Srch
-T-Freq				Off	856237500	0	Srch
-T-Freq				Off	856637500	0	Srch
-T-Freq				Off	856987500	0	Srch
-T-Freq				Off	857237500	0	Srch
-T-Freq				Off	857512500	0	Srch
-T-Freq				Off	857987500	0	Srch
-T-Freq				Off	858237500	0	Srch
-T-Freq				Off	858662500	0	Srch
-T-Freq				Off	858712500	0	Srch
-T-Freq				Off	858987500	0	Srch
-T-Freq				Off	859237500	0	Srch
-T-Freq				Off	859987500	0	Srch
-T-Group			Norfolk State University	Off	36.846813	-76.285217	25.0	Circle	Off
+Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Simulcast	Off	36.846814	-76.285217	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	461	Global
+T-Freq				Off	854162500	1	Srch
+T-Freq				Off	855237500	2	Srch
+T-Freq				Off	855487500	3	Srch
+T-Freq				Off	855737500	4	Srch
+T-Freq				Off	856237500	5	Srch
+T-Freq				Off	856637500	6	Srch
+T-Freq				Off	856987500	7	Srch
+T-Freq				Off	857237500	8	Srch
+T-Freq				Off	857512500	9	Srch
+T-Freq				Off	857987500	10	Srch
+T-Freq				Off	858237500	11	Srch
+T-Freq				Off	858662500	12	Srch
+T-Freq				Off	858712500	13	Srch
+T-Freq				Off	858987500	14	Srch
+T-Freq				Off	859237500	15	Srch
+T-Freq				Off	859987500	16	Srch
+T-Group			Norfolk State University	Off	36.846814	-76.285217	25.0	Circle	Off
 TGID			Police 1	Off	815	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police 2	Off	816	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Old Dominion University	Off	36.846813	-76.285217	25.0	Circle	Off
+T-Group			Old Dominion University	Off	36.846814	-76.285217	25.0	Circle	Off
 TGID			Police Dispatch	Off	867	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police Football Stadium Ops	Off	869	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police Tac 2	Off	868	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Police	Off	36.846813	-76.285217	25.0	Circle	Off
+T-Group			Police	Off	36.846814	-76.285217	25.0	Circle	Off
 TGID			1st Precinct Alternate	Off	609	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			1st Precinct Dispatch	Off	608	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			1st Precinct Tactical	Off	610	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -72,33 +71,33 @@ TGID			Emergency	Off	620	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Mutual Aid	Off	625	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Restricted	Off	621	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-C-Group			Chesapeake City - Conventional	Off	36.668418	-76.289063	35.0	Circle	Off	Global
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Chesapeake City - Conventional	Off	36.668419	-76.289064	35.0	Circle	Off	Global
 C-Freq			Police Talkaround	Off	852675000	NFM	NAC=293	23	Off	2	0	Off	Auto	Off	On	Off	Off
-Trunk			Chesapeake	Off		P25Standard	Off	Off	Auto	Ignore		3	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			Simulcast	Off	36.668418	-76.289063	35.0	AUTO			Circle	Off	400	Auto	8	Off	293	Global
-T-Freq				Off	769281200	0	Srch
-T-Freq				Off	770118700	0	Srch
-T-Freq				Off	770368700	0	Srch
-T-Freq				Off	771068700	0	Srch
-T-Freq				Off	771406200	0	Srch
-T-Freq				Off	771681200	0	Srch
-T-Freq				Off	772068700	0	Srch
-T-Freq				Off	772656200	0	Srch
-T-Freq				Off	772906200	0	Srch
-T-Freq				Off	773181200	0	Srch
-T-Freq				Off	773456200	0	Srch
-T-Freq				Off	773706200	0	Srch
-T-Freq				Off	773968700	0	Srch
-T-Freq				Off	774206200	0	Srch
-T-Freq				Off	774631200	0	Srch
-T-Freq				Off	774918700	0	Srch
-T-Group			Interop/Events	Off	36.668418	-76.289063	35.0	Circle	Off
+Trunk			Chesapeake	Off		P25Standard	Off	Off	Auto	Ignore	Srch	3	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Simulcast	Off	36.668419	-76.289064	35.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	293	Global
+T-Freq				Off	769281250	1	Srch
+T-Freq				Off	770118750	2	Srch
+T-Freq				Off	770368750	3	Srch
+T-Freq				Off	771068750	4	Srch
+T-Freq				Off	771406250	5	Srch
+T-Freq				Off	771681250	6	Srch
+T-Freq				Off	772068750	7	Srch
+T-Freq				Off	772656250	8	Srch
+T-Freq				Off	772906250	9	Srch
+T-Freq				Off	773181250	10	Srch
+T-Freq				Off	773456250	11	Srch
+T-Freq				Off	773706250	12	Srch
+T-Freq				Off	773968750	13	Srch
+T-Freq				Off	774206250	14	Srch
+T-Freq				Off	774631250	15	Srch
+T-Freq				Off	774918750	16	Srch
+T-Group			Interop/Events	Off	36.668419	-76.289064	35.0	Circle	Off
 TGID			Fire/Police Tac	Off	509	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Public Safety Tac 1	Off	501	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Public Safety Tac 2	Off	503	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Police	Off	36.668418	-76.289063	35.0	Circle	Off
+T-Group			Police	Off	36.668419	-76.289064	35.0	Circle	Off
 TGID			Admin	Off	309	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Animal Control	Off	359	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Animal Control Tac	Off	363	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -131,68 +130,68 @@ TGID			Tac 9	Off	329	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Traffic	Off	339	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Training 1	Off	335	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Training 2	Off	337	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-Trunk			Portsmouth (P25)	Off		P25Standard	Off	Off	Auto	Ignore		4	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			Simulcast	Off	0.000000	-0.000000	0.0	AUTO			Circle	Off	400	Auto	8	Off	9C1	Global
-T-Freq				Off	855937500	0	Srch
-T-Freq				Off	856212500	0	Srch
-T-Freq				Off	856962500	0	Srch
-T-Freq				Off	857212500	0	Srch
-T-Freq				Off	858212500	0	Srch
-T-Freq				Off	858962500	0	Srch
-T-Freq				Off	859212500	0	Srch
-T-Freq				Off	859962500	0	Srch
-T-Group			Police	Off	0.000000	-0.000000	0.0	Circle	Off
+Trunk			Portsmouth (P25)	Off		P25Standard	Off	Off	Auto	Ignore	Srch	4	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Simulcast	Off	0.000000	0.000000	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	9C1	Global
+T-Freq				Off	855937500	1	Srch
+T-Freq				Off	856212500	2	Srch
+T-Freq				Off	856962500	3	Srch
+T-Freq				Off	857212500	4	Srch
+T-Freq				Off	858212500	5	Srch
+T-Freq				Off	858962500	6	Srch
+T-Freq				Off	859212500	7	Srch
+T-Freq				Off	859962500	8	Srch
+T-Group			Police	Off	0.000000	0.000000	0.0	Circle	Off
 TGID			2	Off	502	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			3	Off	503	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			4	Off	504	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			5	Off	505	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Dispatch	Off	501	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-Trunk			Suffolk / Isle of Wight / Gloucester / James City / York	Off		P25Standard	Off	Off	Auto	Ignore		5	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			Gloucester Simulcast	On	37.416807	-76.549673	25.0	AUTO			Circle	Off	400	Auto	8	Off	644	Global
-T-Freq				Off	851175000	0	Srch
-T-Freq				Off	851612500	0	Srch
-T-Freq				Off	852537500	0	Srch
-T-Freq				Off	853100000	0	Srch
-T-Freq				Off	853437500	0	Srch
-T-Freq				Off	853887500	0	Srch
-Site			Isle of Wight Simulcast	On	36.883482	-76.699678	25.0	AUTO			Circle	Off	400	Auto	8	Off	642	Global
-T-Freq				Off	856612500	0	Srch
-T-Freq				Off	857587500	0	Srch
-T-Freq				Off	858562500	0	Srch
-T-Freq				Off	859112500	0	Srch
-T-Freq				Off	859637500	0	Srch
-Site			Suffolk Simulcast	Off	36.733280	-76.589140	23.0	AUTO			Circle	Off	400	Auto	8	Off	641	Global
-T-Freq				Off	856562500	0	Srch
-T-Freq				Off	857562500	0	Srch
-T-Freq				Off	858112500	0	Srch
-T-Freq				Off	859612500	0	Srch
-T-Freq				Off	851287500	0	Srch
-T-Freq				Off	856112500	0	Srch
-T-Freq				Off	857762500	0	Srch
-T-Freq				Off	858437500	0	Srch
-T-Freq				Off	858762500	0	Srch
-Site			York Simulcast	On	37.233477	-76.549673	25.0	AUTO			Circle	Off	400	Auto	8	Off	643	Global
-T-Freq				Off	851250000	0	Srch
-T-Freq				Off	851375000	0	Srch
-T-Freq				Off	852125000	0	Srch
-T-Freq				Off	852175000	0	Srch
-T-Freq				Off	852325000	0	Srch
-T-Freq				Off	852350000	0	Srch
-T-Freq				Off	852375000	0	Srch
-T-Freq				Off	852600000	0	Srch
-T-Freq				Off	852775000	0	Srch
-T-Freq				Off	852850000	0	Srch
-T-Freq				Off	852875000	0	Srch
-T-Freq				Off	852900000	0	Srch
-T-Freq				Off	853275000	0	Srch
-T-Freq				Off	853362500	0	Srch
-T-Freq				Off	853400000	0	Srch
-T-Freq				Off	853525000	0	Srch
-T-Freq				Off	853575000	0	Srch
-T-Freq				Off	853662500	0	Srch
-T-Freq				Off	853775000	0	Srch
+Trunk			Suffolk / Isle of Wight / Gloucester / James City / York	Off		P25Standard	Off	Off	Auto	Ignore	Srch	5	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Gloucester Simulcast	On	37.416808	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	644	Global
+T-Freq				Off	851175000	1	Srch
+T-Freq				Off	851612500	2	Srch
+T-Freq				Off	852537500	3	Srch
+T-Freq				Off	853100000	4	Srch
+T-Freq				Off	853437500	5	Srch
+T-Freq				Off	853887500	6	Srch
+Site			Isle of Wight Simulcast	On	36.883483	-76.699679	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	642	Global
+T-Freq				Off	856612500	1	Srch
+T-Freq				Off	857587500	2	Srch
+T-Freq				Off	858562500	3	Srch
+T-Freq				Off	859112500	4	Srch
+T-Freq				Off	859637500	5	Srch
+Site			Suffolk Simulcast	Off	36.733280	-76.589140	23.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	641	Global
+T-Freq				Off	856562500	1	Srch
+T-Freq				Off	857562500	2	Srch
+T-Freq				Off	858112500	3	Srch
+T-Freq				Off	859612500	4	Srch
+T-Freq				Off	851287500	5	Srch
+T-Freq				Off	856112500	6	Srch
+T-Freq				Off	857762500	7	Srch
+T-Freq				Off	858437500	8	Srch
+T-Freq				Off	858762500	9	Srch
+Site			York Simulcast	On	37.233478	-76.549674	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	643	Global
+T-Freq				Off	851250000	1	Srch
+T-Freq				Off	851375000	2	Srch
+T-Freq				Off	852125000	3	Srch
+T-Freq				Off	852175000	4	Srch
+T-Freq				Off	852325000	5	Srch
+T-Freq				Off	852350000	6	Srch
+T-Freq				Off	852375000	7	Srch
+T-Freq				Off	852600000	8	Srch
+T-Freq				Off	852775000	9	Srch
+T-Freq				Off	852850000	10	Srch
+T-Freq				Off	852875000	11	Srch
+T-Freq				Off	852900000	12	Srch
+T-Freq				Off	853275000	13	Srch
+T-Freq				Off	853362500	14	Srch
+T-Freq				Off	853400000	15	Srch
+T-Freq				Off	853525000	16	Srch
+T-Freq				Off	853575000	17	Srch
+T-Freq				Off	853662500	18	Srch
+T-Freq				Off	853775000	19	Srch
 T-Group			Suffolk Police	Off	36.733280	-76.589140	23.0	Circle	Off
 TGID			Dispatch	Off	1001	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Dispatch 2	Off	1002	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -210,382 +209,382 @@ TGID			Tac 6	Off	1014	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Tac 7	Off	1015	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Traffic	Off	1006	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Training	Off	1018	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore		6	Off	0	Off	Off	Ignore	Off	Off	On	IDAS
-DQKs_Status		Off	Off	Off	On	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
-Site			Abingdon	On	36.767835	-81.953482	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	161850000	0	Srch
-T-Freq				Off	161825000	0	Srch
-T-Freq				Off	161887500	0	Srch
-T-Freq				Off	152532500	0	Srch
-Site			Accomac	Off	37.717172	-75.675490	30.0	AUTO			Circle	Off	400	Auto	8	Off	19C	Global
-T-Freq				Off	159112500	0	Srch
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	159262500	0	Srch
-T-Freq				Off	159337500	0	Srch
-Site			Amelia	On	37.350150	-78.016390	25.0	AUTO			Circle	Off	400	Auto	8	Off	195	Global
-T-Freq				Off	152052500	0	Srch
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	152727500	0	Srch
-T-Freq				Off	152802500	0	Srch
-Site			Apple Orchard Mountain	On	37.308215	-79.605287	30.0	AUTO			Circle	Off	400	Auto	8	Off	191	Global
-T-Freq				Off	161800000	0	Srch
-T-Freq				Off	151385000	0	Srch
-T-Freq				Off	152082500	0	Srch
-T-Freq				Off	151452500	0	Srch
-Site			Arlington	On	38.866410	-77.068750	30.0	AUTO			Circle	Off	400	Auto	8	Off	19E	Global
-T-Freq				Off	151025000	0	Srch
-T-Freq				Off	151032500	0	Srch
-T-Freq				Off	152532500	0	Srch
-T-Freq				Off	158827500	0	Srch
-T-Freq				Off	152217500	0	Srch
-T-Freq				Off	159195000	0	Srch
-T-Freq				Off	159262500	0	Srch
-Site			Bath County Hydro	On	38.066792	-79.733105	25.0	AUTO			Circle	Off	400	Auto	8	Off	19F	Global
-T-Freq				Off	161812500	0	Srch
-T-Freq				Off	161875000	0	Srch
-T-Freq				Off	161900000	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Beamer Knob	On	36.677870	-80.721442	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	151392500	0	Srch
-T-Freq				Off	161950000	0	Srch
-T-Freq				Off	158992500	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Bear Den Mountain	On	38.066510	-78.798840	30.0	AUTO			Circle	Off	400	Auto	8	Off	190	Global
-T-Freq				Off	161925000	0	Srch
-T-Freq				Off	161837500	0	Srch
-T-Freq				Off	159442500	0	Srch
-T-Freq				Off	161862500	0	Srch
-T-Freq				Off	158722500	0	Srch
-T-Freq				Off	158827500	0	Srch
-T-Freq				Off	159367500	0	Srch
-Site			Big Walker Mountain	On	37.113000	-81.161000	16.6	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	151430000	0	Srch
-T-Freq				Off	159270000	0	Srch
-T-Freq				Off	159427500	0	Srch
-T-Freq				Off	161912500	0	Srch
-Site			Buck Mountain	On	36.672120	-81.207815	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	152082500	0	Srch
-T-Freq				Off	152667500	0	Srch
-Site			Bull Mountain	On	36.692917	-80.224777	30.0	AUTO			Circle	Off	400	Auto	8	Off	197	Global
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	152772500	0	Srch
-T-Freq				Off	159217500	0	Srch
-T-Freq				Off	159367500	0	Srch
-T-Freq				Off	161862500	0	Srch
-Site			Burgess	On	37.870813	-76.320200	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	151167500	0	Srch
-T-Freq				Off	159322500	0	Srch
-T-Freq				Off	158767500	0	Srch
-Site			Chesapeake	Off	36.795797	-76.238150	30.0	AUTO			Circle	Off	400	Auto	8	Off	19D	Global
-T-Freq				Off	152787500	0	Srch
-T-Freq				Off	152742500	0	Srch
-T-Freq				Off	151212500	0	Srch
-T-Freq				Off	152022500	0	Srch
-T-Freq				Off	151377500	0	Srch
-T-Freq				Off	151302500	0	Srch
-T-Freq				Off	152562500	0	Srch
-T-Freq				Off	159097500	0	Srch
-T-Freq				Off	151437500	0	Srch
-T-Freq				Off	152157500	0	Srch
-T-Freq				Off	152727500	0	Srch
-Site			Cumberland	On	37.465440	-78.279350	30.0	AUTO			Circle	Off	400	Auto	8	Off	197	Global
-T-Freq				Off	152547500	0	Srch
-T-Freq				Off	152577500	0	Srch
-T-Freq				Off	152742500	0	Srch
-T-Freq				Off	159352500	0	Srch
-Site			Dismal Mountain	On	37.313288	-80.677078	30.0	AUTO			Circle	Off	400	Auto	8	Off	19D	Global
-T-Freq				Off	152562500	0	Srch
-T-Freq				Off	152607500	0	Srch
-T-Freq				Off	159262500	0	Srch
-T-Freq				Off	161912500	0	Srch
-Site			Dumfries	On	38.700117	-77.483043	25.0	AUTO			Circle	Off	400	Auto	8	Off	19F	Global
-T-Freq				Off	152217500	0	Srch
-T-Freq				Off	151070000	0	Srch
-T-Freq				Off	151040000	0	Srch
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	154957500	0	Srch
-T-Freq				Off	159300000	0	Srch
-Site			Duncan Knob	On	38.111732	-79.650210	30.0	AUTO			Circle	Off	400	Auto	8	Off	19B	Global
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	159232500	0	Srch
-T-Freq				Off	151392500	0	Srch
-T-Freq				Off	159382500	0	Srch
-Site			East River Mountain	On	37.180618	-81.377940	25.0	AUTO			Circle	Off	400	Auto	8	Off	19B	Global
-T-Freq				Off	161837500	0	Srch
-T-Freq				Off	161900000	0	Srch
-T-Freq				Off	161812500	0	Srch
-Site			Eastville	On	37.298585	-75.930780	30.0	AUTO			Circle	Off	400	Auto	8	Off	191	Global
-T-Freq				Off	158857500	0	Srch
-T-Freq				Off	151047500	0	Srch
-T-Freq				Off	159292500	0	Srch
-T-Freq				Off	159352500	0	Srch
-T-Freq				Off	151122500	0	Srch
-Site			Edgehill	On	38.275207	-77.129890	30.0	AUTO			Circle	Off	400	Auto	8	Off	198	Global
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	158752500	0	Srch
-T-Freq				Off	152817500	0	Srch
-Site			Elkin's Branch	On	37.344140	-82.044920	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	161937500	0	Srch
-T-Freq				Off	161900000	0	Srch
-T-Freq				Off	161950000	0	Srch
-Site			Elliott Knob	On	38.166797	-79.116420	25.0	AUTO			Circle	Off	400	Auto	8	Off	19D	Global
-T-Freq				Off	152562500	0	Srch
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	159187500	0	Srch
-T-Freq				Off	152727500	0	Srch
-Site			Emporia	Off	36.740697	-77.506950	30.0	AUTO			Circle	Off	400	Auto	8	Off	194	Global
-T-Freq				Off	151182500	0	Srch
-T-Freq				Off	151437500	0	Srch
-T-Freq				Off	159202500	0	Srch
-T-Freq				Off	159397500	0	Srch
-Site			Fairfax	On	38.824755	-77.283880	30.0	AUTO			Circle	Off	400	Auto	8	Off	19C	Global
-T-Freq				Off	152202500	0	Srch
-T-Freq				Off	159097500	0	Srch
-T-Freq				Off	159427500	0	Srch
-T-Freq				Off	158797500	0	Srch
-T-Freq				Off	159135000	0	Srch
-Site			Fork Mountain	On	38.478512	-78.415530	30.0	AUTO			Circle	Off	400	Auto	8	Off	195	Global
-T-Freq				Off	152082500	0	Srch
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	151047500	0	Srch
-T-Freq				Off	151212500	0	Srch
-T-Freq				Off	151280000	0	Srch
-T-Freq				Off	161950000	0	Srch
-T-Freq				Off	151302500	0	Srch
-T-Freq				Off	151377500	0	Srch
-T-Freq				Off	151407500	0	Srch
-Site			Fort Lewis Mountain	On	37.308783	-80.159970	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	152547500	0	Srch
-T-Freq				Off	151347500	0	Srch
-T-Freq				Off	151377500	0	Srch
-T-Freq				Off	152652500	0	Srch
-T-Freq				Off	159150000	0	Srch
-T-Freq				Off	159405000	0	Srch
-T-Freq				Off	151182500	0	Srch
-T-Freq				Off	152780000	0	Srch
-Site			Franklin	Off	36.683278	-76.998950	30.0	AUTO			Circle	Off	400	Auto	8	Off	19A	Global
-T-Freq				Off	152157500	0	Srch
-T-Freq				Off	152727500	0	Srch
-Site			Glen Allen	On	37.550145	-77.366368	25.0	AUTO			Circle	Off	400	Auto	8	Off	196	Global
-T-Freq				Off	152757500	0	Srch
-T-Freq				Off	152607500	0	Srch
-T-Freq				Off	152202500	0	Srch
-T-Freq				Off	152157500	0	Srch
-T-Freq				Off	151152500	0	Srch
-Site			Gordonsville	On	38.250688	-78.033055	25.0	AUTO			Circle	Off	400	Auto	8	Off	191	Global
-T-Freq				Off	159180000	0	Srch
-T-Freq				Off	159345000	0	Srch
-T-Freq				Off	161875000	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Halifax	On	36.694505	-78.928823	30.0	AUTO			Circle	Off	400	Auto	8	Off	19E	Global
-T-Freq				Off	151272500	0	Srch
-T-Freq				Off	152787500	0	Srch
-T-Freq				Off	159262500	0	Srch
-Site			Hampton	Off	37.023412	-76.434320	30.0	AUTO			Circle	Off	400	Auto	8	Off	196	Global
-T-Freq				Off	152577500	0	Srch
-T-Freq				Off	152097500	0	Srch
-T-Freq				Off	152607500	0	Srch
-T-Freq				Off	152757500	0	Srch
-T-Freq				Off	152817500	0	Srch
-T-Freq				Off	159247500	0	Srch
-T-Freq				Off	152547500	0	Srch
-Site			Harrisonburg	On	38.395533	-78.914660	30.0	AUTO			Circle	Off	400	Auto	8	Off	199	Global
-T-Freq				Off	161812500	0	Srch
-T-Freq				Off	152727500	0	Srch
-T-Freq				Off	151227500	0	Srch
-T-Freq				Off	159187500	0	Srch
-Site			Hightop Mountain	On	37.798138	-78.902972	30.0	AUTO			Circle	Off	400	Auto	8	Off	19A	Global
-T-Freq				Off	151152500	0	Srch
-T-Freq				Off	161825000	0	Srch
-T-Freq				Off	161925000	0	Srch
-Site			Hogback Mountain	On	38.762172	-78.274500	30.0	AUTO			Circle	Off	400	Auto	8	Off	194	Global
-T-Freq				Off	151362500	0	Srch
-T-Freq				Off	151392500	0	Srch
-T-Freq				Off	159007500	0	Srch
-T-Freq				Off	159127500	0	Srch
-T-Freq				Off	159382500	0	Srch
-T-Freq				Off	161850000	0	Srch
-T-Freq				Off	161887500	0	Srch
-T-Freq				Off	161900000	0	Srch
-Site			Honaker	On	37.052610	-82.035690	30.0	AUTO			Circle	Off	400	Auto	8	Off	192	Global
-T-Freq				Off	152682500	0	Srch
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	161875000	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Independent Hill	On	38.641327	-77.449100	30.0	AUTO			Circle	Off	400	Auto	8	Off	19D	Global
-T-Freq				Off	151025000	0	Srch
-T-Freq				Off	151370000	0	Srch
-T-Freq				Off	152547500	0	Srch
-T-Freq				Off	158812500	0	Srch
-T-Freq				Off	159120000	0	Srch
-T-Freq				Off	159225000	0	Srch
-Site			Jonesville	On	36.707592	-83.036137	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	152067500	0	Srch
-T-Freq				Off	152652500	0	Srch
-T-Freq				Off	152697500	0	Srch
-Site			Lambsburg	On	36.733462	-80.699793	25.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	161827500	0	Srch
-Site			Leigh Mountain	On	37.198288	-78.429718	30.0	AUTO			Circle	Off	400	Auto	8	Off	198	Global
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	152562500	0	Srch
-T-Freq				Off	152607500	0	Srch
-T-Freq				Off	152757500	0	Srch
-T-Freq				Off	152817500	0	Srch
-Site			Long Mountain	On	37.303145	-79.071067	30.0	AUTO			Circle	Off	400	Auto	8	Off	19C	Global
-T-Freq				Off	152667500	0	Srch
-T-Freq				Off	152802500	0	Srch
-T-Freq				Off	161875000	0	Srch
-T-Freq				Off	161812500	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Massanutten	On	38.633453	-78.466397	25.0	AUTO			Circle	Off	400	Auto	8	Off	190	Global
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	152817500	0	Srch
-T-Freq				Off	161812500	0	Srch
-Site			Mineral	On	37.807528	-77.864110	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	152022500	0	Srch
-T-Freq				Off	158842500	0	Srch
-T-Freq				Off	159292500	0	Srch
-Site			Mobile Site - Appomattox Division	On	37.339797	-78.836860	75.0	AUTO			Circle	Off	400	Auto	8	Off	190	Global
-T-Freq				Off	851762500	0	Srch
-T-Freq				Off	852075000	0	Srch
-T-Freq				Off	852137500	0	Srch
-T-Freq				Off	853225000	0	Srch
-T-Freq				Off	853525000	0	Srch
-Site			Mobile Site - Chesapeake Division	Off	36.765703	-76.287002	100.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	851900000	0	Srch
-T-Freq				Off	853612500	0	Srch
-T-Freq				Off	852237500	0	Srch
-T-Freq				Off	851587500	0	Srch
-T-Freq				Off	851100000	0	Srch
-Site			Mobile Site - Richmond Division	On	37.545393	-77.372588	60.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	853925000	0	Srch
-T-Freq				Off	853475000	0	Srch
-T-Freq				Off	853200000	0	Srch
-Site			Mount Weather	On	39.064257	-77.884320	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	152802500	0	Srch
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	159435000	0	Srch
-T-Freq				Off	152727500	0	Srch
-T-Freq				Off	149520000	0	Srch
-T-Freq				Off	152082500	0	Srch
-Site			North Mountain	On	37.820330	-79.633560	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	161850000	0	Srch
-T-Freq				Off	161937500	0	Srch
-T-Freq				Off	159120000	0	Srch
-T-Freq				Off	159412500	0	Srch
-T-Freq				Off	152217500	0	Srch
-Site			Norton	On	37.024087	-82.605117	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	152037500	0	Srch
-T-Freq				Off	152217500	0	Srch
-T-Freq				Off	152667500	0	Srch
-T-Freq				Off	152787500	0	Srch
-T-Freq				Off	159382500	0	Srch
-Site			Oakwood	On	37.240312	-81.997110	30.0	AUTO			Circle	Off	400	Auto	8	Off	193	Global
-T-Freq				Off	161800000	0	Srch
-T-Freq				Off	152817500	0	Srch
-Site			Peters Mountain	On	37.853197	-80.053492	30.0	AUTO			Circle	Off	400	Auto	8	Off	194	Global
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	152757500	0	Srch
-T-Freq				Off	159097500	0	Srch
-T-Freq				Off	159210000	0	Srch
-Site			Petersburg	On	37.157580	-77.414090	30.0	AUTO			Circle	Off	400	Auto	8	Off	191	Global
-T-Freq				Off	151347500	0	Srch
-T-Freq				Off	151362500	0	Srch
-T-Freq				Off	151467500	0	Srch
-T-Freq				Off	152142500	0	Srch
-T-Freq				Off	152532500	0	Srch
-T-Freq				Off	152592500	0	Srch
-T-Freq				Off	152772500	0	Srch
-Site			Pinnacle Knob	On	39.182555	-78.389360	30.0	AUTO			Circle	Off	400	Auto	8	Off	191	Global
-T-Freq				Off	151055000	0	Srch
-T-Freq				Off	151152500	0	Srch
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	158767500	0	Srch
-T-Freq				Off	159172500	0	Srch
-T-Freq				Off	159712500	0	Srch
-T-Freq				Off	161825000	0	Srch
-T-Freq				Off	161827500	0	Srch
-Site			Potts Mountain	On	37.483462	-80.183105	25.0	AUTO			Circle	Off	400	Auto	8	Off	19E	Global
-T-Freq				Off	152097500	0	Srch
-T-Freq				Off	161850000	0	Srch
-T-Freq				Off	161887500	0	Srch
-T-Freq				Off	161950000	0	Srch
-Site			Rawley Springs	On	38.516788	-78.883082	25.0	AUTO			Circle	Off	400	Auto	8	Off	19E	Global
-T-Freq				Off	161800000	0	Srch
-T-Freq				Off	161875000	0	Srch
-T-Freq				Off	161937500	0	Srch
-T-Freq				Off	162000000	0	Srch
-Site			Richmond	On	37.503197	-77.541700	30.0	AUTO			Circle	Off	400	Auto	8	Off	19F	Global
-T-Freq				Off	151152500	0	Srch
-T-Freq				Off	152037500	0	Srch
-T-Freq				Off	159112500	0	Srch
-T-Freq				Off	159187500	0	Srch
-T-Freq				Off	151317500	0	Srch
-T-Freq				Off	158992500	0	Srch
-T-Freq				Off	159262500	0	Srch
-T-Freq				Off	159337500	0	Srch
-T-Freq				Off	159427500	0	Srch
-T-Freq				Off	159457500	0	Srch
-Site			Rumford	On	37.722442	-77.081980	30.0	AUTO			Circle	Off	400	Auto	8	Off	19A	Global
-T-Freq				Off	151032500	0	Srch
-T-Freq				Off	151482500	0	Srch
-T-Freq				Off	152247500	0	Srch
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	152802500	0	Srch
-Site			Sounding Knob	On	38.399973	-79.605287	30.0	AUTO			Circle	Off	400	Auto	8	Off	198	Global
-T-Freq				Off	152532500	0	Srch
-T-Freq				Off	152577500	0	Srch
-T-Freq				Off	151482500	0	Srch
-T-Freq				Off	151317500	0	Srch
-Site			South Hill	On	36.743045	-78.115390	30.0	AUTO			Circle	Off	400	Auto	8	Off	196	Global
-T-Freq				Off	159217500	0	Srch
-T-Freq				Off	151167500	0	Srch
-T-Freq				Off	158767500	0	Srch
-T-Freq				Off	159007500	0	Srch
-T-Freq				Off	159322500	0	Srch
-Site			Thornburg	On	38.128387	-77.507240	30.0	AUTO			Circle	Off	400	Auto	8	Off	19B	Global
-T-Freq				Off	151182500	0	Srch
-T-Freq				Off	151430000	0	Srch
-T-Freq				Off	152097500	0	Srch
-T-Freq				Off	152802500	0	Srch
-T-Freq				Off	159202500	0	Srch
-T-Freq				Off	159397500	0	Srch
-Site			Virginia Beach	Off	36.700000	-76.033630	17.0	AUTO			Circle	Off	400	Auto	8	Off	195	Global
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	152037500	0	Srch
-T-Freq				Off	152142500	0	Srch
-T-Freq				Off	152802500	0	Srch
-Site			Warsaw	On	37.980527	-76.738000	30.0	AUTO			Circle	Off	400	Auto	8	Off	192	Global
-T-Freq				Off	152232500	0	Srch
-T-Freq				Off	152727500	0	Srch
-T-Freq				Off	158722500	0	Srch
-T-Freq				Off	159367500	0	Srch
-Site			Waverly	Off	36.933482	-77.249692	25.0	AUTO			Circle	Off	400	Auto	8	Off	197	Global
-T-Freq				Off	152712500	0	Srch
-T-Freq				Off	152217500	0	Srch
-Site			West Point	On	37.683475	-77.083027	25.0	AUTO			Circle	Off	400	Auto	8	Off	19E	Global
-T-Freq				Off	152052500	0	Srch
-T-Freq				Off	152502500	0	Srch
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	152562500	0	Srch
-T-Freq				Off	152742500	0	Srch
-T-Freq				Off	152787500	0	Srch
-Site			White Oak Mountain	On	36.744018	-79.470388	30.0	AUTO			Circle	Off	400	Auto	8	Off	19B	Global
-T-Freq				Off	152727500	0	Srch
-T-Freq				Off	161837500	0	Srch
-Site			Whitetop Mountain	On	36.868792	-81.559642	30.0	AUTO			Circle	Off	400	Auto	8	Off	Srch	Global
-T-Freq				Off	152517500	0	Srch
-T-Freq				Off	161812500	0	Srch
-T-Freq				Off	161850000	0	Srch
-T-Freq				Off	161862500	0	Srch
-Site			Williamsburg	Off	37.335275	-76.711030	30.0	AUTO			Circle	Off	400	Auto	8	Off	199	Global
-T-Freq				Off	151392500	0	Srch
-T-Freq				Off	151452500	0	Srch
-T-Freq				Off	152067500	0	Srch
-T-Freq				Off	159307500	0	Srch
-T-Freq				Off	159382500	0	Srch
-T-Freq				Off	159232500	0	Srch
-T-Freq				Off	159442500	0	Srch
+Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore	Srch	6	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Abingdon	On	36.767835	-81.953482	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	161850000	1	Srch
+T-Freq				Off	161825000	2	Srch
+T-Freq				Off	161887500	3	Srch
+T-Freq				Off	152532500	4	Srch
+Site			Accomac	Off	37.717173	-75.675490	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19C	Global
+T-Freq				Off	159112500	1	Srch
+T-Freq				Off	152712500	2	Srch
+T-Freq				Off	159262500	3	Srch
+T-Freq				Off	159337500	4	Srch
+Site			Amelia	On	37.350151	-78.016391	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	195	Global
+T-Freq				Off	152052500	1	Srch
+T-Freq				Off	152502500	2	Srch
+T-Freq				Off	152727500	3	Srch
+T-Freq				Off	152802500	4	Srch
+Site			Apple Orchard Mountain	On	37.308215	-79.605288	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	191	Global
+T-Freq				Off	161800000	1	Srch
+T-Freq				Off	151385000	2	Srch
+T-Freq				Off	152082500	3	Srch
+T-Freq				Off	151452500	4	Srch
+Site			Arlington	On	38.866411	-77.068750	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19E	Global
+T-Freq				Off	151025000	1	Srch
+T-Freq				Off	151032500	2	Srch
+T-Freq				Off	152532500	3	Srch
+T-Freq				Off	158827500	4	Srch
+T-Freq				Off	152217500	5	Srch
+T-Freq				Off	159195000	6	Srch
+T-Freq				Off	159262500	7	Srch
+Site			Bath County Hydro	On	38.066793	-79.733105	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19F	Global
+T-Freq				Off	161812500	1	Srch
+T-Freq				Off	161875000	2	Srch
+T-Freq				Off	161900000	3	Srch
+T-Freq				Off	162000000	4	Srch
+Site			Beamer Knob	On	36.677870	-80.721442	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	151392500	1	Srch
+T-Freq				Off	161950000	2	Srch
+T-Freq				Off	158992500	3	Srch
+T-Freq				Off	162000000	4	Srch
+Site			Bear Den Mountain	On	38.066510	-78.798840	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	190	Global
+T-Freq				Off	161925000	1	Srch
+T-Freq				Off	161837500	2	Srch
+T-Freq				Off	159442500	3	Srch
+T-Freq				Off	161862500	4	Srch
+T-Freq				Off	158722500	5	Srch
+T-Freq				Off	158827500	6	Srch
+T-Freq				Off	159367500	7	Srch
+Site			Big Walker Mountain	On	37.113000	-81.161000	16.6	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	151430000	1	Srch
+T-Freq				Off	159270000	2	Srch
+T-Freq				Off	159427500	3	Srch
+T-Freq				Off	161912500	4	Srch
+Site			Buck Mountain	On	36.672120	-81.207816	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	152082500	1	Srch
+T-Freq				Off	152667500	2	Srch
+Site			Bull Mountain	On	36.692917	-80.224778	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	197	Global
+T-Freq				Off	152502500	1	Srch
+T-Freq				Off	152772500	2	Srch
+T-Freq				Off	159217500	3	Srch
+T-Freq				Off	159367500	4	Srch
+T-Freq				Off	161862500	5	Srch
+Site			Burgess	On	37.870814	-76.320200	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	151167500	1	Srch
+T-Freq				Off	159322500	2	Srch
+T-Freq				Off	158767500	3	Srch
+Site			Chesapeake	Off	36.795797	-76.238150	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19D	Global
+T-Freq				Off	152787500	1	Srch
+T-Freq				Off	152742500	2	Srch
+T-Freq				Off	151212500	3	Srch
+T-Freq				Off	152022500	4	Srch
+T-Freq				Off	151377500	5	Srch
+T-Freq				Off	151302500	6	Srch
+T-Freq				Off	152562500	7	Srch
+T-Freq				Off	159097500	8	Srch
+T-Freq				Off	151437500	9	Srch
+T-Freq				Off	152157500	10	Srch
+T-Freq				Off	152727500	11	Srch
+Site			Cumberland	On	37.465440	-78.279350	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	197	Global
+T-Freq				Off	152547500	1	Srch
+T-Freq				Off	152577500	2	Srch
+T-Freq				Off	152742500	3	Srch
+T-Freq				Off	159352500	4	Srch
+Site			Dismal Mountain	On	37.313289	-80.677079	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19D	Global
+T-Freq				Off	152562500	1	Srch
+T-Freq				Off	152607500	2	Srch
+T-Freq				Off	159262500	3	Srch
+T-Freq				Off	161912500	4	Srch
+Site			Dumfries	On	38.700117	-77.483044	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19F	Global
+T-Freq				Off	152217500	1	Srch
+T-Freq				Off	151070000	2	Srch
+T-Freq				Off	151040000	3	Srch
+T-Freq				Off	152712500	4	Srch
+T-Freq				Off	154957500	5	Srch
+T-Freq				Off	159300000	6	Srch
+Site			Duncan Knob	On	38.111733	-79.650211	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19B	Global
+T-Freq				Off	152502500	1	Srch
+T-Freq				Off	159232500	2	Srch
+T-Freq				Off	151392500	3	Srch
+T-Freq				Off	159382500	4	Srch
+Site			East River Mountain	On	37.180619	-81.377940	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19B	Global
+T-Freq				Off	161837500	1	Srch
+T-Freq				Off	161900000	2	Srch
+T-Freq				Off	161812500	3	Srch
+Site			Eastville	On	37.298585	-75.930780	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	191	Global
+T-Freq				Off	158857500	1	Srch
+T-Freq				Off	151047500	2	Srch
+T-Freq				Off	159292500	3	Srch
+T-Freq				Off	159352500	4	Srch
+T-Freq				Off	151122500	5	Srch
+Site			Edgehill	On	38.275207	-77.129890	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	198	Global
+T-Freq				Off	152517500	1	Srch
+T-Freq				Off	158752500	2	Srch
+T-Freq				Off	152817500	3	Srch
+Site			Elkin's Branch	On	37.344140	-82.044920	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	161937500	1	Srch
+T-Freq				Off	161900000	2	Srch
+T-Freq				Off	161950000	3	Srch
+Site			Elliott Knob	On	38.166797	-79.116420	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19D	Global
+T-Freq				Off	152562500	1	Srch
+T-Freq				Off	152517500	2	Srch
+T-Freq				Off	159187500	3	Srch
+T-Freq				Off	152727500	4	Srch
+Site			Emporia	Off	36.740698	-77.506950	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	194	Global
+T-Freq				Off	151182500	1	Srch
+T-Freq				Off	151437500	2	Srch
+T-Freq				Off	159202500	3	Srch
+T-Freq				Off	159397500	4	Srch
+Site			Fairfax	On	38.824756	-77.283880	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19C	Global
+T-Freq				Off	152202500	1	Srch
+T-Freq				Off	159097500	2	Srch
+T-Freq				Off	159427500	3	Srch
+T-Freq				Off	158797500	4	Srch
+T-Freq				Off	159135000	5	Srch
+Site			Fork Mountain	On	38.478513	-78.415530	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	195	Global
+T-Freq				Off	152082500	1	Srch
+T-Freq				Off	152712500	2	Srch
+T-Freq				Off	151047500	3	Srch
+T-Freq				Off	151212500	4	Srch
+T-Freq				Off	151280000	5	Srch
+T-Freq				Off	161950000	6	Srch
+T-Freq				Off	151302500	7	Srch
+T-Freq				Off	151377500	8	Srch
+T-Freq				Off	151407500	9	Srch
+Site			Fort Lewis Mountain	On	37.308784	-80.159970	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	152547500	1	Srch
+T-Freq				Off	151347500	2	Srch
+T-Freq				Off	151377500	3	Srch
+T-Freq				Off	152652500	4	Srch
+T-Freq				Off	159150000	5	Srch
+T-Freq				Off	159405000	6	Srch
+T-Freq				Off	151182500	7	Srch
+T-Freq				Off	152780000	8	Srch
+Site			Franklin	Off	36.683279	-76.998950	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19A	Global
+T-Freq				Off	152157500	1	Srch
+T-Freq				Off	152727500	2	Srch
+Site			Glen Allen	On	37.550146	-77.366369	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	196	Global
+T-Freq				Off	152757500	1	Srch
+T-Freq				Off	152607500	2	Srch
+T-Freq				Off	152202500	3	Srch
+T-Freq				Off	152157500	4	Srch
+T-Freq				Off	151152500	5	Srch
+Site			Gordonsville	On	38.250689	-78.033055	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	191	Global
+T-Freq				Off	159180000	1	Srch
+T-Freq				Off	159345000	2	Srch
+T-Freq				Off	161875000	3	Srch
+T-Freq				Off	162000000	4	Srch
+Site			Halifax	On	36.694505	-78.928824	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19E	Global
+T-Freq				Off	151272500	1	Srch
+T-Freq				Off	152787500	2	Srch
+T-Freq				Off	159262500	3	Srch
+Site			Hampton	Off	37.023413	-76.434320	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	196	Global
+T-Freq				Off	152577500	1	Srch
+T-Freq				Off	152097500	2	Srch
+T-Freq				Off	152607500	3	Srch
+T-Freq				Off	152757500	4	Srch
+T-Freq				Off	152817500	5	Srch
+T-Freq				Off	159247500	6	Srch
+T-Freq				Off	152547500	7	Srch
+Site			Harrisonburg	On	38.395534	-78.914660	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	199	Global
+T-Freq				Off	161812500	1	Srch
+T-Freq				Off	152727500	2	Srch
+T-Freq				Off	151227500	3	Srch
+T-Freq				Off	159187500	4	Srch
+Site			Hightop Mountain	On	37.798139	-78.902972	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19A	Global
+T-Freq				Off	151152500	1	Srch
+T-Freq				Off	161825000	2	Srch
+T-Freq				Off	161925000	3	Srch
+Site			Hogback Mountain	On	38.762173	-78.274500	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	194	Global
+T-Freq				Off	151362500	1	Srch
+T-Freq				Off	151392500	2	Srch
+T-Freq				Off	159007500	3	Srch
+T-Freq				Off	159127500	4	Srch
+T-Freq				Off	159382500	5	Srch
+T-Freq				Off	161850000	6	Srch
+T-Freq				Off	161887500	7	Srch
+T-Freq				Off	161900000	8	Srch
+Site			Honaker	On	37.052610	-82.035690	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	192	Global
+T-Freq				Off	152682500	1	Srch
+T-Freq				Off	152712500	2	Srch
+T-Freq				Off	161875000	3	Srch
+T-Freq				Off	162000000	4	Srch
+Site			Independent Hill	On	38.641327	-77.449100	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19D	Global
+T-Freq				Off	151025000	1	Srch
+T-Freq				Off	151370000	2	Srch
+T-Freq				Off	152547500	3	Srch
+T-Freq				Off	158812500	4	Srch
+T-Freq				Off	159120000	5	Srch
+T-Freq				Off	159225000	6	Srch
+Site			Jonesville	On	36.707593	-83.036138	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	152067500	1	Srch
+T-Freq				Off	152652500	2	Srch
+T-Freq				Off	152697500	3	Srch
+Site			Lambsburg	On	36.733463	-80.699794	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	161827500	1	Srch
+Site			Leigh Mountain	On	37.198289	-78.429719	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	198	Global
+T-Freq				Off	152517500	1	Srch
+T-Freq				Off	152562500	2	Srch
+T-Freq				Off	152607500	3	Srch
+T-Freq				Off	152757500	4	Srch
+T-Freq				Off	152817500	5	Srch
+Site			Long Mountain	On	37.303145	-79.071068	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19C	Global
+T-Freq				Off	152667500	1	Srch
+T-Freq				Off	152802500	2	Srch
+T-Freq				Off	161875000	3	Srch
+T-Freq				Off	161812500	4	Srch
+T-Freq				Off	162000000	5	Srch
+Site			Massanutten	On	38.633454	-78.466397	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	190	Global
+T-Freq				Off	152712500	1	Srch
+T-Freq				Off	152817500	2	Srch
+T-Freq				Off	161812500	3	Srch
+Site			Mineral	On	37.807529	-77.864110	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	152022500	1	Srch
+T-Freq				Off	158842500	2	Srch
+T-Freq				Off	159292500	3	Srch
+Site			Mobile Site - Appomattox Division	On	37.339797	-78.836861	75.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	190	Global
+T-Freq				Off	851762500	1	Srch
+T-Freq				Off	852075000	2	Srch
+T-Freq				Off	852137500	3	Srch
+T-Freq				Off	853225000	4	Srch
+T-Freq				Off	853525000	5	Srch
+Site			Mobile Site - Chesapeake Division	Off	36.765704	-76.287003	100.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	851900000	1	Srch
+T-Freq				Off	853612500	2	Srch
+T-Freq				Off	852237500	3	Srch
+T-Freq				Off	851587500	4	Srch
+T-Freq				Off	851100000	5	Srch
+Site			Mobile Site - Richmond Division	On	37.545394	-77.372589	60.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	853925000	1	Srch
+T-Freq				Off	853475000	2	Srch
+T-Freq				Off	853200000	3	Srch
+Site			Mount Weather	On	39.064257	-77.884320	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	152802500	1	Srch
+T-Freq				Off	152502500	2	Srch
+T-Freq				Off	159435000	3	Srch
+T-Freq				Off	152727500	4	Srch
+T-Freq				Off	149520000	5	Srch
+T-Freq				Off	152082500	6	Srch
+Site			North Mountain	On	37.820330	-79.633560	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	161850000	1	Srch
+T-Freq				Off	161937500	2	Srch
+T-Freq				Off	159120000	3	Srch
+T-Freq				Off	159412500	4	Srch
+T-Freq				Off	152217500	5	Srch
+Site			Norton	On	37.024088	-82.605118	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	152037500	1	Srch
+T-Freq				Off	152217500	2	Srch
+T-Freq				Off	152667500	3	Srch
+T-Freq				Off	152787500	4	Srch
+T-Freq				Off	159382500	5	Srch
+Site			Oakwood	On	37.240313	-81.997111	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	193	Global
+T-Freq				Off	161800000	1	Srch
+T-Freq				Off	152817500	2	Srch
+Site			Peters Mountain	On	37.853198	-80.053492	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	194	Global
+T-Freq				Off	152712500	1	Srch
+T-Freq				Off	152757500	2	Srch
+T-Freq				Off	159097500	3	Srch
+T-Freq				Off	159210000	4	Srch
+Site			Petersburg	On	37.157580	-77.414090	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	191	Global
+T-Freq				Off	151347500	1	Srch
+T-Freq				Off	151362500	2	Srch
+T-Freq				Off	151467500	3	Srch
+T-Freq				Off	152142500	4	Srch
+T-Freq				Off	152532500	5	Srch
+T-Freq				Off	152592500	6	Srch
+T-Freq				Off	152772500	7	Srch
+Site			Pinnacle Knob	On	39.182556	-78.389361	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	191	Global
+T-Freq				Off	151055000	1	Srch
+T-Freq				Off	151152500	2	Srch
+T-Freq				Off	152517500	3	Srch
+T-Freq				Off	158767500	4	Srch
+T-Freq				Off	159172500	5	Srch
+T-Freq				Off	159712500	6	Srch
+T-Freq				Off	161825000	7	Srch
+T-Freq				Off	161827500	8	Srch
+Site			Potts Mountain	On	37.483462	-80.183105	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19E	Global
+T-Freq				Off	152097500	1	Srch
+T-Freq				Off	161850000	2	Srch
+T-Freq				Off	161887500	3	Srch
+T-Freq				Off	161950000	4	Srch
+Site			Rawley Springs	On	38.516789	-78.883083	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19E	Global
+T-Freq				Off	161800000	1	Srch
+T-Freq				Off	161875000	2	Srch
+T-Freq				Off	161937500	3	Srch
+T-Freq				Off	162000000	4	Srch
+Site			Richmond	On	37.503198	-77.541700	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19F	Global
+T-Freq				Off	151152500	1	Srch
+T-Freq				Off	152037500	2	Srch
+T-Freq				Off	159112500	3	Srch
+T-Freq				Off	159187500	4	Srch
+T-Freq				Off	151317500	5	Srch
+T-Freq				Off	158992500	6	Srch
+T-Freq				Off	159262500	7	Srch
+T-Freq				Off	159337500	8	Srch
+T-Freq				Off	159427500	9	Srch
+T-Freq				Off	159457500	10	Srch
+Site			Rumford	On	37.722443	-77.081980	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19A	Global
+T-Freq				Off	151032500	1	Srch
+T-Freq				Off	151482500	2	Srch
+T-Freq				Off	152247500	3	Srch
+T-Freq				Off	152502500	4	Srch
+T-Freq				Off	152802500	5	Srch
+Site			Sounding Knob	On	38.399974	-79.605288	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	198	Global
+T-Freq				Off	152532500	1	Srch
+T-Freq				Off	152577500	2	Srch
+T-Freq				Off	151482500	3	Srch
+T-Freq				Off	151317500	4	Srch
+Site			South Hill	On	36.743045	-78.115390	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	196	Global
+T-Freq				Off	159217500	1	Srch
+T-Freq				Off	151167500	2	Srch
+T-Freq				Off	158767500	3	Srch
+T-Freq				Off	159007500	4	Srch
+T-Freq				Off	159322500	5	Srch
+Site			Thornburg	On	38.128387	-77.507240	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19B	Global
+T-Freq				Off	151182500	1	Srch
+T-Freq				Off	151430000	2	Srch
+T-Freq				Off	152097500	3	Srch
+T-Freq				Off	152802500	4	Srch
+T-Freq				Off	159202500	5	Srch
+T-Freq				Off	159397500	6	Srch
+Site			Virginia Beach	Off	36.700000	-76.033630	17.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	195	Global
+T-Freq				Off	152517500	1	Srch
+T-Freq				Off	152037500	2	Srch
+T-Freq				Off	152142500	3	Srch
+T-Freq				Off	152802500	4	Srch
+Site			Warsaw	On	37.980528	-76.738000	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	192	Global
+T-Freq				Off	152232500	1	Srch
+T-Freq				Off	152727500	2	Srch
+T-Freq				Off	158722500	3	Srch
+T-Freq				Off	159367500	4	Srch
+Site			Waverly	Off	36.933483	-77.249693	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	197	Global
+T-Freq				Off	152712500	1	Srch
+T-Freq				Off	152217500	2	Srch
+Site			West Point	On	37.683476	-77.083027	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19E	Global
+T-Freq				Off	152052500	1	Srch
+T-Freq				Off	152502500	2	Srch
+T-Freq				Off	152517500	3	Srch
+T-Freq				Off	152562500	4	Srch
+T-Freq				Off	152742500	5	Srch
+T-Freq				Off	152787500	6	Srch
+Site			White Oak Mountain	On	36.744019	-79.470389	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	19B	Global
+T-Freq				Off	152727500	1	Srch
+T-Freq				Off	161837500	2	Srch
+Site			Whitetop Mountain	On	36.868792	-81.559643	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+T-Freq				Off	152517500	1	Srch
+T-Freq				Off	161812500	2	Srch
+T-Freq				Off	161850000	3	Srch
+T-Freq				Off	161862500	4	Srch
+Site			Williamsburg	Off	37.335276	-76.711030	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	199	Global
+T-Freq				Off	151392500	1	Srch
+T-Freq				Off	151452500	2	Srch
+T-Freq				Off	152067500	3	Srch
+T-Freq				Off	159307500	4	Srch
+T-Freq				Off	159382500	5	Srch
+T-Freq				Off	159232500	6	Srch
+T-Freq				Off	159442500	7	Srch
 T-Group			Chesapeake Bay Bridge Tunnel	Off	37.405075	-79.475097	238.3	Circle	3
 TGID			Police Dispatch	Off	6733	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police Tac	Off	6734	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
