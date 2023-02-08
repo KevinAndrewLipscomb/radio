@@ -1944,24 +1944,24 @@ T-Freq				Off	770181250	5	Srch
 T-Freq				Off	769931250	6	Srch
 T-Freq				Off	769156250	7	Srch
 T-Group			Nash County	Off	35.974598	-77.965541	25.0	Circle	Off
-TGID			Nash Local Law Administration	Off	32548	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Local Law Dispatch	Off	32547	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Mutual AId	Off	32506	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Public Safety Emergency	Off	32550	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff 1	Off	32501	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Administration	Off	32538	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Common	Off	32546	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Investigations	Off	32539	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Narcotics	Off	32540	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Patrol	Off	32502	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff SRT	Off	32541	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Sheriff Training	Off	32551	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Tac 1	Off	32507	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Tac 2	Off	32529	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nash Tac 3	Off	32530	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nashville Police	Off	32518	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nashville Police Administration	Off	32517	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Nashville Police Investigation	Off	32519	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Nash Local Law Administration	Off	32548	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Local Law Dispatch	Off	32547	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Mutual AId	Off	32506	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Public Safety Emergency	Off	32550	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff 1	Off	32501	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Administration	Off	32538	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Common	Off	32546	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Investigations	Off	32539	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Narcotics	Off	32540	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Patrol	Off	32502	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff SRT	Off	32541	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Sheriff Training	Off	32551	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Tac 1	Off	32507	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Tac 2	Off	32529	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nash Tac 3	Off	32530	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nashville Police	Off	32518	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nashville Police Administration	Off	32517	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Nashville Police Investigation	Off	32519	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Franklin County	Off		P25Standard	Off	Off	Auto	Ignore	Srch	6	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Franklin Simulcast	Off	36.066817	-78.333050	29.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	9A6	Global
@@ -1971,12 +1971,12 @@ T-Freq				Off	151280000	3	Srch
 T-Freq				Off	155355000	5	Srch
 T-Freq				Off	155430000	6	Srch
 T-Group			Public Safety Patches	Off	36.066817	-78.333050	25.0	Circle	Off
-TGID			LAW 1 and Law 2 Combined Patch	Off	136	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			LAW 1 and Law 2 Combined Patch	Off	136	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Sheriff	Off	36.066817	-78.333050	29.0	Circle	Off
-TGID			Franklin County Sheriffs Office (Patch to Viper)	Off	103	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law 1 (Sheriff Dispatch)	Off	101	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law 2 (Municipal Police Dispatch	Off	102	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law Ops 4	Off	104	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law Ops 5	Off	105	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law Ops 6	Off	106	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Franklin County Sheriffs Office Law Ops 7	Off	107	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office (Patch to Viper)	Off	103	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law 1 (Sheriff Dispatch)	Off	101	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law 2 (Municipal Police Dispatch	Off	102	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law Ops 4	Off	104	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law Ops 5	Off	105	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law Ops 6	Off	106	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Franklin County Sheriffs Office Law Ops 7	Off	107	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any

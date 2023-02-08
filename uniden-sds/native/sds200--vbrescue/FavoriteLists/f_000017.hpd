@@ -1930,76 +1930,76 @@ T-Freq				Off	770181250	5	Srch
 T-Freq				Off	769931250	6	Srch
 T-Freq				Off	769156250	7	Srch
 T-Group			Currituck County	Off	36.312659	-75.937143	25.0	Circle	8
-TGID			Common	Off	14013	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	14003	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Admin	Off	14007	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Dispatch	Off	14004	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Investigations	Off	14008	ALL	23	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriff Special Ops	Off	14009	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 1	Off	14005	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 2	Off	14014	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	14015	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	14016	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Common	Off	14013	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	14003	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Admin	Off	14007	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Dispatch	Off	14004	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Investigations	Off	14008	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriff Special Ops	Off	14009	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 1	Off	14005	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 2	Off	14014	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	14015	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	14016	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Bertie County	Off	36.066825	-76.966344	25.0	Circle	3
-TGID			Mutual Aid	Off	4903	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	4904	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			SRO	Off	4907	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tactical 1	Off	4908	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tactical 2	Off	4909	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tactical 3	Off	4910	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tactical 4	Off	4911	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	4903	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	4904	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			SRO	Off	4907	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tactical 1	Off	4908	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tactical 2	Off	4909	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tactical 3	Off	4910	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tactical 4	Off	4911	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Hertford County	Off	36.350155	-76.983015	25.0	Circle	2
-TGID			Hertford County Mutual Aid	Off	23503	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Hertford County Sheriff	Off	23504	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Hertford County TAC	Off	23505	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Hertford County Mutual Aid	Off	23503	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Hertford County Sheriff	Off	23504	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Hertford County TAC	Off	23505	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Gates County	Off	36.433487	-76.699675	25.0	Circle	1
-TGID			Mutual Aid	Off	19000	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	19004	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Special	Off	19007	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Administration	Off	19005	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Investigations	Off	19006	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac	Off	19008	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 2	Off	19009	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 3	Off	19010	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 4	Off	19011	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	19000	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	19004	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Special	Off	19007	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Administration	Off	19005	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Investigations	Off	19006	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac	Off	19008	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 2	Off	19009	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 3	Off	19010	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 4	Off	19011	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Pasquotank County	Off	36.300156	-76.282992	25.0	Circle	6
-TGID			Mutual Aid	Off	35518	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Elizabeth City Police	Off	35541	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Elizabeth City State Univ PD	Off	51549	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	35516	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Elizabeth City Police Operations	Off	35542	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Elizabeth City Special Operations	Off	35543	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden  Animal Control	Off	35500	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Operations	Off	35517	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Common	Off	35501	ALL	1	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden EMS Dispatch	Off	35505	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 1	Off	35504	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 3	Off	35506	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 4	Off	35507	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 5	Off	35508	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 6	Off	35509	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 7	Off	35510	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden Tac 8	Off	35511	ALL	22	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Pasquotank Camden FMAR	Off	35502	ALL	21	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Mutual Aid	Off	35518	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Elizabeth City Police	Off	35541	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Elizabeth City State Univ PD	Off	51549	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	35516	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Elizabeth City Police Operations	Off	35542	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Elizabeth City Special Operations	Off	35543	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden  Animal Control	Off	35500	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Operations	Off	35517	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Common	Off	35501	ALL	1	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden EMS Dispatch	Off	35505	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 1	Off	35504	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 3	Off	35506	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 4	Off	35507	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 5	Off	35508	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 6	Off	35509	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 7	Off	35510	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden Tac 8	Off	35511	ALL	22	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Pasquotank Camden FMAR	Off	35502	ALL	21	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Chowan County	Off	36.150158	-76.649668	25.0	Circle	4
-TGID			County Common	Off	11000	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 1	Off	11012	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 2	Off	11013	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			County Tac 3	Off	11014	ALL	6	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Administration	Off	11009	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Investigations	Off	11010	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Narcotics	Off	11011	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	11008	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	11007	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Common	Off	11000	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 1	Off	11012	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 2	Off	11013	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			County Tac 3	Off	11014	ALL	6	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Administration	Off	11009	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Investigations	Off	11010	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Narcotics	Off	11011	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	11008	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	11007	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Perquimans County	Off	36.216824	-76.449663	25.0	Circle	5
-TGID			County Tac	Off	36505	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	36504	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	36500	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			County Tac	Off	36505	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	36504	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	36500	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Camden County	Off	36.366822	-76.182988	25.0	Circle	7
-TGID			Sheriffs Office Operations	Off	35530	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office Tac	Off	35512	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Sheriffs Office	Off	35529	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Mutual Aid	Off	8000	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Sheriffs Office Operations	Off	35530	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office Tac	Off	35512	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Sheriffs Office	Off	35529	ALL	2	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Mutual Aid	Off	8000	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Bertie	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Bertie County	Off	36.066825	-76.966344	30.0	Circle	Off	Global
