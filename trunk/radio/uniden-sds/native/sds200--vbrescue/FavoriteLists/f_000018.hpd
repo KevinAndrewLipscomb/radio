@@ -3,25 +3,25 @@ FormatVersion	1.00
 Conventional			Statewide/Common	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Statewide Interoperability - 700 MHz Interoperability	Off	35.569589	-79.247461	200.0	Circle	Off	Global
-C-Freq			7NCDIR1	Off	769006250	NFM	NAC=100	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDIR2	Off	769018750	NFM	NAC=100	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDIR3	Off	769031250	NFM	NAC=100	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDIR4	Off	769043750	NFM	NAC=100	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDVRSA1	Off	770962500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDVRSA2	Off	769043750	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDVRSD1	Off	770962500	NFM	NAC=400	11	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			7NCDVRSD2	Off	769043750	NFM	NAC=400	11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7NCDIR1	Off	769006250	NFM	NAC=100	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDIR2	Off	769018750	NFM	NAC=100	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDIR3	Off	769031250	NFM	NAC=100	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDIR4	Off	769043750	NFM	NAC=100	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDVRSA1	Off	770962500	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDVRSA2	Off	769043750	NFM	TONE=C156.7	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDVRSD1	Off	770962500	NFM	NAC=400	11	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			7NCDVRSD2	Off	769043750	NFM	NAC=400	11	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Statewide Interoperability - Legacy Interoperability	Off	35.175000	-79.875000	261.8	Circle	Off	Global
-C-Freq			Police - Statewide Intercity	Off	155190000	FM		23	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Statewide Command Post	Off	154680000	FM	TONE=C131.8	6	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police - Statewide Intercity	Off	155190000	FM		23	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Statewide Command Post	Off	154680000	FM	TONE=C131.8	6	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			NC Department of Public Safety	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Highway Patrol - High Band VHF Channel Layout	Off	35.175000	-79.875000	261.8	Circle	Off	Global
-C-Freq			Car to Car	Off	154680000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Car-to-Car	Off	155445000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			NLEEC	Off	155475000	FM		7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Repeater	Off	154680000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater	Off	155445000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Car to Car	Off	154680000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Car-to-Car	Off	155445000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			NLEEC	Off	155475000	FM		7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Repeater	Off	154680000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater	Off	155445000	FM	TONE=C131.8	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			North Carolina VIPER	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Aho	Off	36.154150	-81.602470	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	1F0	Global
@@ -2070,7 +2070,7 @@ Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
-C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Public Safety - USA	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Common Public Safety - Law Enforcement	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
@@ -2078,4 +2078,4 @@ Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
-C-Freq			Law Enforcement Intersystem in some areas	Off	155370000	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Law Enforcement Intersystem in some areas	Off	155370000	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off

@@ -31,9 +31,9 @@ TGID			Mutual Aid	Off	4042	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Essex	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Essex County - Essex	Off	37.950136	-76.949689	25.0	Circle	Off	Global
-C-Freq			Sheriff	Off	155070000	FM	TONE=C77.0	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff	Off	155070000	FM	TONE=C77.0	2	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Essex County - Tappahannock	Off	37.950136	-76.949689	25.0	Circle	Off	Global
-C-Freq			Police	Off	39600000	FM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	39600000	FM		2	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Caroline County, VA	Off		P25Standard	Off	Off	Auto	Ignore	Srch	4	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	38.033467	-77.349703	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	6A1	Global
@@ -45,7 +45,7 @@ TGID			Ch. 2	Off	1002	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Spotsylvania	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Spotsylvania County - Spotsylvania	Off	38.183467	-77.649711	25.0	Circle	Off	Global
-C-Freq			Sheriff - Search and Rescue	Off	151452500	AUTO	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff - Search and Rescue	Off	151452500	AUTO	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Spotsylvania County	Off		P25Standard	Off	Off	Auto	Ignore	Srch	5	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	38.183467	-77.649711	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global

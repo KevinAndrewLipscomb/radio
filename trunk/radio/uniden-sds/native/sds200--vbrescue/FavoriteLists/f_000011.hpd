@@ -23,11 +23,11 @@ TGID			15 Emergency 15	Off	1229	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Norfolk	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Norfolk City - Norfolk	Off	0.000000	0.000000	0.0	Circle	Off	Global
-C-Freq			Norfolk Police/Fire Talk Around	Off	853487500	NFM	NAC=293	22	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk Police/Fire Talk Around	Off	853487500	NFM	NAC=293	22	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Norfolk International Airport (ORF)	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Airport Operations	Off	36.891153	-76.203233	15.0	Circle	Off	Global
-C-Freq			Police	Off	854337500	FM	TONE=D025	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	854337500	FM	TONE=D025	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	36.846814	-76.285217	25.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	461	Global
@@ -73,7 +73,7 @@ TGID			Restricted	Off	621	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Chesapeake	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Chesapeake City - Conventional	Off	36.668419	-76.289064	35.0	Circle	Off	Global
-C-Freq			Police Talkaround	Off	852675000	NFM	NAC=293	23	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police Talkaround	Off	852675000	NFM	NAC=293	23	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			Chesapeake	Off		P25Standard	Off	Off	Auto	Ignore	Srch	3	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Simulcast	Off	36.668419	-76.289064	35.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	293	Global

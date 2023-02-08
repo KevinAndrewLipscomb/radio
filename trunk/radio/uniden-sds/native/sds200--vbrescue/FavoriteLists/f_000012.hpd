@@ -3,7 +3,7 @@ FormatVersion	1.00
 Conventional			Common/Shared	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Law Enforcement - Statewide	Off	38.376115	-79.650879	256.3	Circle	Off	Global
-C-Freq			Statewide Interagency Radio System (SIRS)	Off	39540000	FM		11	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Statewide Interagency Radio System (SIRS)	Off	39540000	FM		11	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Abingdon	Off	36.767835	-81.953482	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
@@ -383,67 +383,67 @@ T-Freq				Off	159442500	7	Srch
 Conventional			Virginia State Police	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Virginia State Police	Off	38.255436	-79.299317	243.9	Circle	1	Global
-C-Freq			Executive Protection Unit (Encryption may be used)	Off	154680000	NFM	TONE=C114.8	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Surveillance/Car-to-Car	Off	154695000	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Tactical/Car-to-Car	Off	154665000	NFM		7	Off	2	0	Off	Auto	Yellow	On	Off	Off
+C-Freq			Executive Protection Unit (Encryption may be used)	Off	154680000	NFM	TONE=C114.8	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Surveillance/Car-to-Car	Off	154695000	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Tactical/Car-to-Car	Off	154665000	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Virginia State Police DVRS	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Statewide DVRS - Statewide	Off	38.066667	-79.416667	254.5	Circle	1	Global
-C-Freq			Simplex only (Direct)	Off	765693750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-C-Freq			Vehicle Repeater 14 (VCALL/VTAC/VFIRE/VMED/VLAW/VMED)	Off	764668750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-C-Freq			Vehicle Repeater 26 (Division 5 - Chesapeake)	Off	765168750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-C-Freq			Vehicle Repeater 30 (EPU)	Off	765218750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Yellow	On	Off	Off
-C-Freq			Vehicle Repeater 1 (Radio Maintenance/NOC)	Off	764156250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 10	Off	764443750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 11 (Legacy 1)	Off	764456250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 12	Off	764468750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 13 (Division 3 - Appomattox)	Off	764656250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 15	Off	764681250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 16 (DGIF Region 4)	Off	769693750	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 17	Off	764706250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 18	Off	764718750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 19 (Division 4 - Wytheville)	Off	764906250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 2 (VSP Radio Maintenance)	Off	764168750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 20	Off	764918750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 21	Off	764931250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 22	Off	764943750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 23 (DGIF Region 1)	Off	764956250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 24	Off	764968750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 25 (Division 1 - Richmond)	Off	765156250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 27 (Federal Interface)	Off	765181250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 28	Off	765193750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 29 (CAP PD)	Off	765206250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 3 (Division 2 - Culpepper)	Off	764181250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 31 (Division 1 - Richmond)	Off	765406250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 32	Off	765418750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 33	Off	765431250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 34	Off	765443750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 35 (Division 6 - Salem)	Off	765456250	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 36	Off	765468750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 37	Off	765656250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 38	Off	765668750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 39	Off	765681250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 4 (VSP Radio Maintenance/NOC)	Off	764193750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 41	Off	765706250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 42 (Legacy 2)	Off	765718750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 43	Off	765906250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 44	Off	765918750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 45	Off	765931250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 46	Off	765943750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 47 (Division 7 - Fairfax)	Off	765956250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 48	Off	765968750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 5 (DGIF / ALL)	Off	764206250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 6	Off	764218750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 7	Off	764406250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 8 (Division 6)	Off	769418750	NFM		7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Vehicle Repeater 9	Off	764431250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Simplex only (Direct)	Off	765693750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 14 (VCALL/VTAC/VFIRE/VMED/VLAW/VMED)	Off	764668750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 26 (Division 5 - Chesapeake)	Off	765168750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 30 (EPU)	Off	765218750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 1 (Radio Maintenance/NOC)	Off	764156250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 10	Off	764443750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 11 (Legacy 1)	Off	764456250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 12	Off	764468750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 13 (Division 3 - Appomattox)	Off	764656250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 15	Off	764681250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 16 (DGIF Region 4)	Off	769693750	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 17	Off	764706250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 18	Off	764718750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 19 (Division 4 - Wytheville)	Off	764906250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 2 (VSP Radio Maintenance)	Off	764168750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 20	Off	764918750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 21	Off	764931250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 22	Off	764943750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 23 (DGIF Region 1)	Off	764956250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 24	Off	764968750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 25 (Division 1 - Richmond)	Off	765156250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 27 (Federal Interface)	Off	765181250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 28	Off	765193750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 29 (CAP PD)	Off	765206250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 3 (Division 2 - Culpepper)	Off	764181250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 31 (Division 1 - Richmond)	Off	765406250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 32	Off	765418750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 33	Off	765431250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 34	Off	765443750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 35 (Division 6 - Salem)	Off	765456250	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 36	Off	765468750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 37	Off	765656250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 38	Off	765668750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 39	Off	765681250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 4 (VSP Radio Maintenance/NOC)	Off	764193750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 41	Off	765706250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 42 (Legacy 2)	Off	765718750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 43	Off	765906250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 44	Off	765918750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 45	Off	765931250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 46	Off	765943750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 47 (Division 7 - Fairfax)	Off	765956250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 48	Off	765968750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 5 (DGIF / ALL)	Off	764206250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 6	Off	764218750	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 7	Off	764406250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 8 (Division 6)	Off	769418750	NFM		7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Vehicle Repeater 9	Off	764431250	NFM	NAC=Srch	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Department of Transportation	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			District 5 - Hampton Roads	Off	37.892197	-78.530272	153.9	Circle	2	Global
-C-Freq			HRBT	Off	453850000	AUTO	ColorCode=2	14	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			MMBT/JRB Primary	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			MMBT/JRB Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Tunnels	Off	47340000	FM	TONE=C77.0	14	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HRBT	Off	453850000	AUTO	ColorCode=2	14	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			MMBT/JRB Primary	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			MMBT/JRB Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Tunnels	Off	47340000	FM	TONE=C77.0	14	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Citizens Band (CB)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
@@ -451,7 +451,7 @@ Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
-C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Abingdon	Off	36.767835	-81.953482	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global

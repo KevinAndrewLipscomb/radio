@@ -2003,43 +2003,43 @@ TGID			Mutual Aid	Off	8000	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 Conventional			Bertie	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Bertie County	Off	36.066825	-76.966344	30.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch - Patched to VIPER	Off	155670000	NFM	TONE=C107.2	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff: Private	Off	155645000	NFM	TONE=C107.2	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch - Patched to VIPER	Off	155670000	NFM	TONE=C107.2	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff: Private	Off	155645000	NFM	TONE=C107.2	7	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Hertford	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Hertford County	Off	36.350155	-76.983015	30.0	Circle	0	Global
-C-Freq			Sheriff 2	Off	154115000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff 3	Off	155970000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Dispatch	Off	154740000	NFM	TONE=C203.5	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff 2	Off	154115000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff 3	Off	155970000	NFM	TONE=C203.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	154740000	NFM	TONE=C203.5	2	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Towns - Ahoskie	Off	36.286822	-76.984681	4.0	Circle	1	Global
-C-Freq			Police Dispatch	Off	155430000	AUTO	RAN=52	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Police Tac 2	Off	154785000	AUTO	RAN=52	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police Dispatch	Off	155430000	AUTO	RAN=52	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Police Tac 2	Off	154785000	AUTO	RAN=52	7	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Towns - Murfreesboro	Off	36.442375	-77.098575	4.0	Circle	2	Global
-C-Freq			 Police Tac 2	Off	156225000	FM	TONE=C203.5	7	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Police Dispatch	Off	155610000	FM	TONE=C203.5	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			 Police Tac 2	Off	156225000	FM	TONE=C203.5	7	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Police Dispatch	Off	155610000	FM	TONE=C203.5	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Gates	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Gates County	Off	36.433487	-76.699675	30.0	Circle	Off	Global
-C-Freq			Sheriff Dispatch	Off	154355000	NFM	TONE=C233.6	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Dispatch	Off	154355000	NFM	TONE=C233.6	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Pasquotank	Off		Conventional	6	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Pasquotank County - Pasquotank, County	Off	36.309592	-76.297302	18.2	Circle	Off	Global
-C-Freq			Pasquotank County Sheriff Dispatch	Off	460075000	NFM	TONE=C110.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Pasquotank UHF Public Safety	Off	453625000	NFM	TONE=C110.9	29	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Pasquotank VHF Public Safety	Off	151115000	NFM	TONE=C118.8	29	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Pasquotank County Sheriff Dispatch	Off	460075000	NFM	TONE=C110.9	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Pasquotank UHF Public Safety	Off	453625000	NFM	TONE=C110.9	29	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Pasquotank VHF Public Safety	Off	151115000	NFM	TONE=C118.8	29	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Chowan	Off		Conventional	4	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Chowan County	Off	36.165000	-76.604000	12.6	Circle	0	Global
-C-Freq			Sheriff (backup to VIPER)	Off	155370000	NFM	TONE=C146.2	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff (backup to VIPER)	Off	155370000	NFM	TONE=C146.2	7	Off	2	0	Off	Auto	Red	On	Off	Off
 C-Group			Chowan County - Edenton	Off	36.057938	-76.607721	5.0	Circle	1	Global
-C-Freq			Police	Off	856762500	NFM	NAC=3A4	2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Police	Off	856762500	NFM	NAC=3A4	2	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Perquimans	Off		Conventional	5	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Perquimans County	Off	36.216824	-76.449663	15.0	Circle	Off	Global
-C-Freq			Perquimans County Sheriff Dispatch - Depreciated to VIPER	Off	460175000	NFM	TONE=C173.8	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Perquimans County Sheriff Mutual Aid	Off	460375000	NFM	TONE=C173.8	23	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Perquimans County Sheriff Dispatch - Depreciated to VIPER	Off	460175000	NFM	TONE=C173.8	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Perquimans County Sheriff Mutual Aid	Off	460375000	NFM	TONE=C173.8	23	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Camden	Off		Conventional	7	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			Camden County	Off	36.328490	-76.171876	30.0	Circle	Off	Global
-C-Freq			Sheriff Ch. 1 (Now on VIPER)	Off	460300000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Sheriff Tactical	Off	458850000	FM	TONE=C110.9	7	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Sheriff Ch. 1 (Now on VIPER)	Off	460300000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Sheriff Tactical	Off	458850000	FM	TONE=C110.9	7	Off	2	0	Off	Auto	Red	On	Off	Off
