@@ -446,12 +446,12 @@ C-Freq			MMBT/JRB Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Red	On	
 C-Freq			Tunnels	Off	47340000	FM	TONE=C77.0	14	Off	2	0	Off	Auto	Red	On	Off	Off
 Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Citizens Band (CB)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+C-Group			CB	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
-C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Red	On	Off	Off
+C-Freq			Channel 19 HIGHWAY	Off	27185000	AM		21	Off	2	0	Off	Auto	Red	On	Off	Off
 Trunk			STARS	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			Abingdon	Off	36.767835	-81.953482	30.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
