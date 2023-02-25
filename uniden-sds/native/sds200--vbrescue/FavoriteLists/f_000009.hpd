@@ -29,7 +29,7 @@ Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
 C-Freq			Channel 09 DISTRESS	Off	27065000	AM		21	Off	2	0	Off	Auto	Red	On	Off	Off
-Conventional			National Interoperability - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			NIFOG	Off	37.160000	-98.080000	1750.0	Circle	Off	Global
 C-Freq			LLAW 1 - Law Enforcement	Off	39460000	FM	TONE=C156.7	11	Off	2	0	Off	Auto	Red	On	Off	Off
