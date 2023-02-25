@@ -10,13 +10,13 @@ T-Freq				Off	860712500	4	Srch
 T-Group			Virginia Beach Police	Off	36.847081	-76.284389	50.0	Circle	Off
 TGID			15 Emergency 15	Off	1229	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			Virginia Beach Fire/EMS	Off	36.847081	-76.284389	50.0	Circle	Off
-TGID			Hospital Spare	Off	1271	ALL	12	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Hospital Coord	Off	1271	ALL	12	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			Virginia Beach Emergency Management	Off	36.847081	-76.284389	50.0	Circle	Off
-TGID			Tac 2	Off	1322	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 3	Off	1323	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 4	Off	1324	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 5	Off	1325	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Tac 6	Off	1326	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			EM Tac 2	Off	1322	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			EM Tac 3	Off	1323	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			EM Tac 4	Off	1324	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			EM Tac 5	Off	1325	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			EM Tac 6	Off	1326	ALL	29	2	0	Off	Auto	Off	On	Off	Off	Any
 Trunk			ORION	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	Off	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 Site			ORION-1	Off	36.830361	-76.095803	5.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	9	1E0	Global

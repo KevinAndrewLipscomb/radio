@@ -37,15 +37,15 @@ TGID			Fire 2	Off	1242	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			Fire 3	Off	1243	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			VDOT Smart Traffic	Off	1428	ALL	11	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			Virginia Beach Fire/EMS	Off	36.847081	-76.284389	50.0	Circle	Off
-TGID			10 Tac 10	Off	1254	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			11 Tac 11	Off	1255	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			12 Tac 12	Off	1263	ALL	9	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			3 Tac 3	Off	1247	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			4 Tac 4	Off	1248	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			5 Tac 5	Off	1249	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			6 Tac 6	Off	1250	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			7 Tac 7	Off	1251	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			8 Tac 8	Off	1252	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 10	Off	1254	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 11	Off	1255	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 12	Off	1263	ALL	9	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 3	Off	1247	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 4	Off	1248	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 5	Off	1249	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 6	Off	1250	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 7	Off	1251	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Tac 8	Off	1252	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			9 Tac 9	Off	1253	ALL	8	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On

@@ -1,8 +1,8 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
-Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL PRS	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Citizens Band (CB)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+C-Group			CB	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
@@ -12,12 +12,12 @@ C-Freq			Channel 02	Off	26975000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 03	Off	26985000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 04	Off	27005000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 05	Off	27015000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 06	Off	27025000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 06 DXE	Off	27025000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 07	Off	27035000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 08	Off	27055000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 09 - Emergency	Off	27065000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 09 DISTRESS	Off	27065000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 10	Off	27075000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 11	Off	27085000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 11 HAILING	Off	27085000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 12	Off	27105000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 13	Off	27115000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 14	Off	27125000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
@@ -25,7 +25,7 @@ C-Freq			Channel 15	Off	27135000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 16	Off	27155000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 17	Off	27165000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 18	Off	27175000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 19 - Highway Traffic	Off	27185000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 19 HIGHWAY	Off	27185000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 20	Off	27205000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 21	Off	27215000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 22	Off	27225000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
@@ -47,55 +47,45 @@ C-Freq			Channel 37	Off	27375000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 38	Off	27385000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 39	Off	27395000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 40	Off	27405000	AM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-Conventional			Family Radio Service (FRS) - USA	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL PRS	Off		Conventional	1	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Family Radio Service (FRS)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+C-Group			FRS/GMRS	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Channel 15	Off	462550000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 1	Off	462562500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 16	Off	462575000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 2	Off	462587500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 17	Off	462600000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 3	Off	462612500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 18	Off	462625000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 4	Off	462637500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 19	Off	462650000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 5	Off	462662500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 20	Off	462675000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 6	Off	462687500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 21	Off	462700000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 7	Off	462712500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 22	Off	462725000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			FRS	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+C-Freq			Channel 8	Off	467562500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 9	Off	467587500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 10	Off	467612500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 11	Off	467637500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 12	Off	467662500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 13	Off	467687500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Channel 14	Off	467712500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 15	Off	462550000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 16	Off	462575000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 17	Off	462600000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 18	Off	462625000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 19	Off	462650000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 2	Off	462587500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 20	Off	462675000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 21	Off	462700000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 22	Off	462725000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 3	Off	462612500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 4	Off	462637500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 5	Off	462662500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 6	Off	462687500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 7	Off	462712500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 8	Off	467562500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Channel 9	Off	467587500	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-Conventional			General Mobile Radio Service (GMRS) - USA	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL PRS	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			GMRS	Off	39.489000	-117.987000	2700.0	Circle	Off	Global
-C-Freq			462.5500 Simplex/Repeater	Off	462550000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.5750 Simplex/Repeater	Off	462575000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.6000 Simplex/Repeater	Off	462600000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.6250 Simplex/Repeater	Off	462625000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.6500 Simplex/Repeater	Off	462650000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.6750 Simplex/Repeater	Off	462675000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.7000 Simplex/Repeater	Off	462700000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			462.7250 Simplex/Repeater	Off	462725000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-Conventional			Multi-Use Radio Service (MURS) - USA	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
-DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
-C-Group			Multi-Use Radio Service (MURS)	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+C-Group			MURS	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
 Rectangle		49.000000	-131.000000	25.000000	-66.750000
 Rectangle		25.000000	-85.000000	15.000000	-55.000000
 Rectangle		25.000000	-165.000000	15.000000	-150.000000
-C-Freq			Common Use	Off	151820000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Common Use	Off	151880000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Common Use	Off	151940000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Common Use/Blue Dot	Off	154570000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
-C-Freq			Common Use/Green Dot	Off	154600000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 1	Off	151820000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 2	Off	151880000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 3	Off	151940000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Blue Dot channel	Off	154570000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Green Dot channel	Off	154600000	FM		21	Off	2	0	Off	Auto	Off	On	Off	Off
