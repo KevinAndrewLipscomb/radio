@@ -21,7 +21,7 @@ DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	O
 C-Group			Fire/EMS - Statewide	Off	38.376115	-79.650879	256.3	Circle	Off	Global
 C-Freq			EMS/Medevac Scene of Action Statewide	Off	155205000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			HEAR280/Statewide Disaster	Off	155280000	NFM		11	Off	2	0	Off	Auto	Off	On	Off	Off
-Conventional			Citizens Band (CB) - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			CB	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
