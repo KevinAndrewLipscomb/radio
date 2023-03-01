@@ -444,7 +444,7 @@ C-Freq			HRBT	Off	453850000	AUTO	ColorCode=2	14	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			MMBT/JRB Primary	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			MMBT/JRB Tac	Off	453850000	AUTO	ColorCode=1	14	Off	2	0	Off	Auto	Off	On	Off	Off
 C-Freq			Tunnels	Off	47340000	FM	TONE=C77.0	14	Off	2	0	Off	Auto	Off	On	Off	Off
-Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			CB	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000

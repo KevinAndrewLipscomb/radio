@@ -2063,7 +2063,7 @@ TGID			SHP Sheriff HQ	Off	52222	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			SHP Special Operations Common 1	Off	52220	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			SHP Special Operations Common 2	Off	52221	ALL	7	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			SHP Training 1	Off	52223	ALL	23	2	0	Off	Auto	Red	On	Off	Off	Any
-Conventional			Citizens Band (CB) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+Conventional			NATIONAL	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group			CB	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
 Rectangle		72.000000	170.500000	51.000000	-141.000000
