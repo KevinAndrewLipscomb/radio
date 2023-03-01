@@ -1,2 +1,0 @@
-s'(<setting name="SentinelFolder" serializeAs="String"><value>).*(</value></setting>)'\1C:\\Users\\KevinAndrewLipscomb\\Documents\\SANDBOX\\kveo-it-project\\radio\\uniden-sds\\native\\sds100--pov\2'
-s'(<setting name="LastProfile" serializeAs="String"><value>).*(</value></setting>)'\1TEMS-STD\2'
