@@ -62,3 +62,9 @@ TGID			Finance 2	Off	1423	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Commonwealth of Virginia 1 (inter-system patch)	Off	1424	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Commonwealth of Virginia 2 (inter-system patch)	Off	1425	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Commonwealth of Virginia 3 (inter-system patch)	Off	1426	ALL	11	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Maritime - USA	Off		Conventional	Off	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Maritime Operations - Marine VHF 1A-88A	Off	41.520423	-96.440622	1500.0	Circle	Off	Global
+C-Freq			21A - Coast Guard	Off	157050000	FM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			22A - Coast Guard Liaison/Maritime Safety Information Broadcasts	Off	157100000	FM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			23A - Coast Guard	Off	157150000	FM		16	Off	2	0	Off	Auto	Off	On	Off	Off
