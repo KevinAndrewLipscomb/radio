@@ -1,5 +1,5 @@
 #
-# $Id$
+# $Id: emsi-std.sql 7886 2023-01-22 13:55:42Z kevinanlipscomb $
 #
 # Generate the CLR statements.
 #
