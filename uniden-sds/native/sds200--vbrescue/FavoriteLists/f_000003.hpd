@@ -17,7 +17,7 @@ T-Freq				Off	859462500	1	Srch
 T-Freq				Off	859712500	2	Srch
 T-Freq				Off	860462500	3	Srch
 T-Freq				Off	860712500	4	Srch
-T-Group			Virginia Beach Fire/EMS	Off	36.847081	-76.284389	50.0	Circle	1
+T-Group			Virginia Beach Fire/EMS	On	36.847081	-76.284389	50.0	Circle	1
 TGID			Fire Command	Off	1245	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 Trunk			Norfolk	Off		P25Standard	Off	Off	Auto	Ignore	Srch	2	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
