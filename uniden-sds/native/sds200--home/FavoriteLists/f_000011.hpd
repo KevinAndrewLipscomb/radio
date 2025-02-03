@@ -588,3 +588,115 @@ T-Freq				Off	159442500	7	Srch
 T-Group			Chesapeake Bay Bridge Tunnel	Off	37.405075	-79.475097	238.3	Circle	3
 TGID			Police Dispatch	Off	6733	ALL	2	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			Police Tac	Off	6734	ALL	7	2	0	Off	Auto	Off	On	Off	Off	Any
+Conventional			Federal	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Customs and Border Protection	Off	36.960000	-79.954000	222.3	Circle	Off	Global
+C-Freq			Hampton Roads	Off	163475000	NFM	NAC=309	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk Net 1	Off	165237500	NFM	TONE=C100.0	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Federal Bureau of Investigation	Off	36.960000	-79.954000	222.3	Circle	Off	Global
+C-Freq			Hampton Roads	Off	171975000	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Hampton Roads (Talkgroup 1001)	Off	167687500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk	Off	167537500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk	Off	167587500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk	Off	173787500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Richmond	Off	163100000	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Richmond	Off	168375000	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Immigration and Customs Enforcement	Off	36.960000	-79.954000	222.3	Circle	Off	Global
+C-Freq			Hampton Roads	Off	172862500	NFM	NAC=291	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Norfolk	Off	171325000	NFM	NAC=86	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Alexandria)	Off	163725000	NFM	NAC=73	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Bull Run)	Off	163650000	NFM	NAC=81	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Charlottesville)	Off	163675000	NFM	NAC=84	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Fredericksburg)	Off	170712500	NFM	NAC=82	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Richmond)	Off	168762500	NFM	NAC=83	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Suffolk)	Off	163725000	NFM	NAC=85	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Interop	Off	36.960000	-79.954000	222.3	Circle	Off	Global
+C-Freq			Federal Interop (Hampton Roads)	Off	165700000	NFM	NAC=653	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Federal Interop (Petersburg)	Off	168462500	NFM	NAC=68F	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Federal Interop (Richmond)	Off	168112500	NFM	NAC=68F	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			US Marshals Service	Off	36.960000	-79.954000	222.3	Circle	Off	Global
+C-Freq			Norfolk	Off	170850000	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Richmond	Off	163200000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Richmond	Off	170800000	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			U.S. Courthouse - Richmond	Off	170750000	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Washington 1 (Fairfax)	Off	170800000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Customs and Border Protection (CBP) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Nationwide Assignments	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Air 1	Off	168837500	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air 2	Off	168962500	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air 3	Off	169262500	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air 4	Off	169162500	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air 5	Off	169387500	NFM	NAC=293	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	163125000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	163625000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	163675000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	165412500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	166200000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	169550000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	170100000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Analog	Off	170725000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	163125000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	163625000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	163675000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	165412500	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	166200000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	169550000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	170100000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CBP Digital	Off	170725000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 1 Analog (Net 1)	Off	165237500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 1 Digital (Net 1)	Off	165237500	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 2 Analog (Net 2)	Off	169450000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 2 Digital (Net 2)	Off	169450000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 3 Analog (Net 4)	Off	165687500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 3 Digital (Net 4)	Off	165687500	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 4 Analog (Net 5)	Off	164600000	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 4 Digital (Net 5)	Off	164600000	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 5 Analog	Off	165462500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 5 Digital	Off	165462500	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 6 Analog	Off	165487500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tactical 6 Digital	Off	165487500	NFM	NAC=Srch	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group			Office of Air and Marine	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Air Interdiction - Blue 1	Off	282425000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air Interdiction - Blue 2	Off	308350000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air Interdiction - Blue 3	Off	350025000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air Interdiction - Blue 4	Off	376075000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Air-to-Air/Air-to-Base	Off	136375000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Federal Bureau of Investigation (FBI) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Federal Bureau of Investigation - Nationwide	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Aircraft	Off	136275000	AM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D1	Off	164550000	NFM	NAC=1	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D2	Off	164550000	NFM	NAC=1	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D3	Off	166462500	NFM	NAC=1	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D4	Off	167562500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D5	Off	167537500	NFM	NAC=167	15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D6	Off	167537500	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D7	Off	163100000	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ch. D8	Off	170925000	NFM	NAC=167	16	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Immigration and Customs Enforcement (ICE) - USA	Off		Conventional	0	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			National	Off	0.000000	0.000000	0.0	Rectangles	Off	Global
+Rectangle		72.000000	170.500000	51.000000	-141.000000
+Rectangle		49.000000	-131.000000	25.000000	-66.750000
+Rectangle		25.000000	-85.000000	15.000000	-55.000000
+Rectangle		25.000000	-165.000000	15.000000	-150.000000
+C-Freq			Department of Homeland Security Common (Analog)	Off	165837500	NFM		16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Department of Homeland Security Common (Digital)	Off	165837500	NFM	NAC=1	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			National Direct	Off	163725000	NFM	NAC=169	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			National Tactical 1	Off	163700000	NFM	NAC=169	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			National Tactical 2	Off	168587500	NFM	NAC=169	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			National Tactical 3	Off	163112500	NFM	NAC=169	16	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			National Tactical 4	Off	164787500	NFM	NAC=169	16	Off	2	0	Off	Auto	Off	On	Off	Off
