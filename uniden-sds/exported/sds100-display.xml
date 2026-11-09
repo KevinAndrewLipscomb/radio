@@ -24,7 +24,7 @@
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
-        <Item Name="Option A" Option="UnitIdName" Text="e79473" Back="000000" />
+        <Item Name="Option A" Option="UnitIdName" Text="adff29" Back="000000" />
         <Item Name="Option B" Option="CTCSS/DCS" Text="e79473" Back="000000" />
         <Item Name="Icon 1" Option="Modulation" Text="ffffff" Back="000000" />
         <Item Name="Icon 2" Option="P_Ch" Text="ffffff" Back="000000" />
@@ -66,7 +66,7 @@
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="TGID" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
-        <Item Name="Option A" Option="UnitIdName" Text="e79473" Back="000000" />
+        <Item Name="Option A" Option="UnitIdName" Text="adff29" Back="000000" />
         <Item Name="Option B" Option="CTCSS/DCS" Text="e79473" Back="000000" />
         <Item Name="Icon 1" Option="Modulation" Text="ffffff" Back="000000" />
         <Item Name="Icon 2" Option="P_Ch" Text="ffffff" Back="000000" />
@@ -110,7 +110,7 @@
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
-        <Item Name="Option A-1" Option="UnitIdName" Text="ffd600" Back="000000" />
+        <Item Name="Option A-1" Option="UnitIdName" Text="adff29" Back="000000" />
         <Item Name="Option B-1" Option="CTCSS/DCS" Text="ffd600" Back="000000" />
         <Item Name="Option A-2" Option="SystemId" Text="e79473" Back="000000" />
         <Item Name="Option B-2" Option="TGID" Text="e79473" Back="000000" />
@@ -162,7 +162,7 @@
         <Item Name="Channel Name" Text="ffd600" Back="000000" />
         <Item Name="Channel option" Option="TGID" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
-        <Item Name="Option A-1" Option="UnitIdName" Text="ffd600" Back="000000" />
+        <Item Name="Option A-1" Option="UnitIdName" Text="adff29" Back="000000" />
         <Item Name="Option B-1" Option="CTCSS/DCS" Text="ffd600" Back="000000" />
         <Item Name="Option A-2" Option="SystemId" Text="e79473" Back="000000" />
         <Item Name="Option B-2" Option="Frequency" Text="e79473" Back="000000" />
@@ -215,7 +215,7 @@
         <Item Name="Detail Info" Text="ffd600" Back="000000" />
         <Item Name="Option A-1" Option="SystemId" Text="e79473" Back="000000" />
         <Item Name="Option B-1" Option="BattVoltage" Text="e79473" Back="000000" />
-        <Item Name="Option A-2" Option="UnitIdName" Text="e79473" Back="000000" />
+        <Item Name="Option A-2" Option="UnitIdName" Text="adff29" Back="000000" />
         <Item Name="Option B-2" Option="Rssi" Text="e79473" Back="000000" />
         <Item Name="Option A-3" Option="TGID" Text="e79473" Back="000000" />
         <Item Name="Option B-3" Option="Rssi Bar" Text="e79473" Back="000000" />
